@@ -35485,23 +35485,22 @@ new MutationObserver(() => {
                       "Establishment Use": endingstuff["Establishment Use"],
                       "Running Mate": e.running_mate_last_name
               },                 "ending text": `
-                  PRESIDENT PEROT ANNOUNCES CURE FOR CANCER
+                  <h2>PRESIDENT PEROT ANNOUNCES CURE FOR CANCER</h2><br>
+                  <h4>AP News</h4>
+                  <h4>Dee Lou Zhonal</h4>
+                  <h4>February 29, 1996</h4>
   
-                  AP News
-                  Dee Lou Zhonal
-                  February 29, 1996
+                  <p>WASHINGTON D.C. – In a press conference yesterday, President Ross Perot announced that government researchers had developed a cure for cancer. In a 30-minute address, complete with a wide array of charts, Perot discussed the administration’s achievement, noting that the breakthrough had come after he let a National Institute of Health research team borrow his work.</p>
   
-                  WASHINGTON D.C. – In a press conference yesterday, President Ross Perot announced that government researchers had developed a cure for cancer. In a 30-minute address, complete with a wide array of charts, Perot discussed the administration’s achievement, noting that the breakthrough had come after he let a National Institute of Health research team borrow his work.
+                  <p>“The other day, I had some NIH boys over at the White House, telling me that they had been working real hard on a cure for cancer but just kept running into walls,” said President Perot. “So I said, ‘hey, wait a minute, I’ve had some thoughts on this before and written down a few formulas. Give me one minute, and I’ll let you take a peep at them.’ And those NIH boys, they were so happy to see what I had written, and told me that it just might be what they needed. So, a couple days later, here we are.”</p>
   
-                  “The other day, I had some NIH boys over at the White House, telling me that they had been working real hard on a cure for cancer but just kept running into walls,” said President Perot. “So I said, ‘hey, wait a minute, I’ve had some thoughts on this before and written down a few formulas. Give me one minute, and I’ll let you take a peep at them.’ And those NIH boys, they were so happy to see what I had written, and told me that it just might be what they needed. So, a couple days later, here we are.”
+                  <p>The press conference was scheduled as a last-minute addition to the White House’s agenda following the normal weekly press conference, where Perot discussed the administration's plans to convert the entire American power grid to cold fusion by the end of the year. However, given the momentous occasion, Perot deemed it best to let journalists know of the milestone as soon as possible.</p>
   
-                  The press conference was scheduled as a last-minute addition to the White House’s agenda following the normal weekly press conference, where Perot discussed the administration's plans to convert the entire American power grid to cold fusion by the end of the year. However, given the momentous occasion, Perot deemed it best to let journalists know of the milestone as soon as possible. 
+                  <p>Per the details shared by the White House, the cure for cancer looks similar to an aspirin pill. The pill, which only requires its users to take it a single time, will prevent cancer in those who do not have the disease, while those who do have the disease should expect to see their cancer gone completely in about 20 minutes after taking the pill. On stage, Perot took the pill himself, announcing that he had “never felt better.”</p>
   
-                  Per the details shared by the White House, the cure for cancer looks similar to an aspirin pill. The pill, which only requires its users to take it a single time, will prevent cancer in those who do not have the disease, while those who do have the disease should expect to see their cancer gone completely in about 20 minutes after taking the pill. On stage, Perot took the pill himself, announcing that he had “never felt better.”
+                  <p>“This thing should market for about $0.56 a pop, according to what my people are telling me,” said President Perot. “Now, I know that’s a bit pricey compared to the cure for AIDS that we rolled out last year, but I think it’ll be worth it.”</p>
   
-                  “This thing should market for about $0.56 a pop, according to what my people are telling me,” said President Perot. “Now, I know that’s a bit pricey compared to the cure for AIDS that we rolled out last year, but I think it’ll be worth it.”
-  
-                  Following the press conference, Perot flew to Dallas, where he maintains a home, for a period of rest and relaxation. Though Perot often takes lengthy breaks from the White House to focus on his personal life, many Americans feel that it is worth it, a belief reflected in his 93% approval rating. Following his three-day stay in Dallas, Perot will embark on an international tour to Israel, where he will officially sign off on a pact between Israel and Palestine that will end the conflict and create a sovereign Palestinian state. 
+                  <p>Following the press conference, Perot flew to Dallas, where he maintains a home, for a period of rest and relaxation. Though Perot often takes lengthy breaks from the White House to focus on his personal life, many Americans feel that it is worth it, a belief reflected in his 93% approval rating. Following his three-day stay in Dallas, Perot will embark on an international tour to Israel, where he will officially sign off on a pact between Israel and Palestine that will end the conflict and create a sovereign Palestinian state.</p>
   
               `
           },
@@ -35521,39 +35520,54 @@ new MutationObserver(() => {
                   <h3>Albuquerque Journal</h3>
                   <h2>Alaina Gomez, May 21st, 2010</h2>
   
-                  <p>May 16th’s episode of the hit series Breaking Bad, “Kafkaesque,” was a relatively slow episode for a series full of twists and turns, mostly centering around Walter and Skyler paying for Hank’s medical bills while Jesse deals with money issues. The episode was well-received, watched by 1.65 million people and garnering positive reviews from critics. However, it was the antics of side character Saul Goodman which set the internet on fire, punctuated by scores of humorous posts on Facebook and various blogs, especially in the form of an image macro of Saul winking while holding a bottle of nail polish.<br><br>
+                  <p>May 16th’s episode of the hit series Breaking Bad, “Kafkaesque,” was a relatively slow episode for a series full of twists and turns, mostly centering around Walter and Skyler paying for Hank’s medical bills while Jesse deals with money issues. The episode was well-received, watched by 1.65 million people and garnering positive reviews from critics. However, it was the antics of side character Saul Goodman which set the internet on fire, punctuated by scores of humorous posts on Facebook and various blogs, especially in the form of an image macro of Saul winking while holding a bottle of nail polish.</p>
   
-                  Specifically, the reactions come from a scene where Jesse visits Saul at the nail salon, looking for advice on what to do with his ill-gotten gains, with Saul suggesting money laundering as an effective way to avoid the IRS. However, Saul goes one step further and points to fraud sometimes being an unambiguous positive good, using the example of committing voter fraud on behalf of George Bush in the 2000 Presidential election. The concept that Saul Goodman stole the 2000 election for Bush has gone viral, to the extent that celebrities like Lady Gaga and Justin Timberlake have started cracking jokes about it.<br><br>
+                  <p>Specifically, the reactions come from a scene where Jesse visits Saul at the nail salon, looking for advice on what to do with his ill-gotten gains, with Saul suggesting money laundering as an effective way to avoid the IRS. However, Saul goes one step further and points to fraud sometimes being an unambiguous positive good, using the example of committing voter fraud on behalf of George Bush in the 2000 Presidential election. The concept that Saul Goodman stole the 2000 election for Bush has gone viral, to the extent that celebrities like Lady Gaga and Justin Timberlake have started cracking jokes about it.</p>
   
-                  For residents of New Mexico, however, the story of the 2000 election is no laughing matter. Rather, it conjures images of a media firestorm that such a small state was completely unprepared for at that time, bringing in a degree of attention that would go completely unmatched until Breaking Bad’s premiere eight years later.<br><br>
-  
-                  “The scrutiny was everywhere,” says Jim Baca, mayor of Albuquerque from 1997 to 2001. “Before that, you would generally have a contingent come in for the Balloon Festival, mostly for photos, and then leave. Then, the election came, and it was impossible to get a hotel room in the county for the next month… you couldn’t walk down the street without a news crew trying to snag a candid interview of a local Albuquerque voter.”<br><br>
-  
-                  The state’s first brush with the political spotlight came earlier in the year, when Jerry Brown held his last rally for his 2000 campaign for the Democratic nomination for president, in a move that many had at first deemed quixotic, before his victory in New Hampshire made it suddenly pragmatic and sparked a race to the wire with Gore. Although Brown always lagged behind Gore, he was able to take in a respectable 38.7% of the overall vote and was largely credited with shifting Gore’s campaign rightwards on fiscal issues and leftwards on social issues, underscored by Gore’s decision to pick anti-tax New Hampshire governor Jeanne Shaheen as running mate.<br><br>
-  
-                  It was in Albuquerque that Brown, who needed a miracle to have won on the final day of the primaries, ultimately was forced to end his campaign, and in Albuquerque that Brown would end up emphatically endorsing Gore for president and beginning a process of barnstorming the nation for the nominee. However, the real drama was only beginning. Throughout the presidential race, polls of the state were exceptionally rare compared to those of more vote-heavy swing states. Although all of these polls showed a dead heat between Bush and Gore, and most professional analysts had the state marked as a tossup, it was a surprise to many on November 7 when New Mexico was listed as too close to call as every other state in the country slowly trickled towards counting a winner.<br><br>
-  
-                  From there on, the rest is history: the state’s initial vote was counted for Gore, making him the president by 128 votes–at least initially. An automatic recount found the margin even tighter, at 74 votes in Gore’s favor. From that point, the Bush campaign requested a manual recount in San Juan, Sandoval, and Chaves counties, and the Gore campaign aggressively countersued to stop the recounts as the case made its way higher in court, with the New Mexico Supreme Court voting to stop the recount and the New Mexico state legislature pledging its electors to Gore.<br><br>
-  
-                  However, the Bush campaign appealed the case to the United States Supreme Court, where the 5-4 conservative majority ruled that the recount could continue, ultimately garnering a 203-vote victory for Bush. Albuquerque, meanwhile, was in flames, as protestors in Bernalillo County, a swing county at that time, protested that their state’s sovereignty was being stolen from it. Ultimately, Bush would go on to serve as president for the next eight years, though he would come up short in the state in 2004 by seven percentage points.<br><br>
-  
-                  For Albuquerque residents, the election has since gone down in infamy, and even discussing Obama’s 18-point victory in the state doesn’t ease the pain. “It’s fucking ridiculous,” said local resident Bill Crawford, “Utterly (expletive) ridiculous that our state had its votes stolen and given to that war criminal. If they had a statewide recount, one that included our county, we wouldn’t have ever gone to war with (expletive) Iraq.”<br><br>
-  
-                  Even Charles Jones, an outspoken Bush supporter who voted for the president twice and voted for McCain in the most recent election, agrees. “I’ll never apologize about loving my country and loving my president, but they went about it the wrong way there. I think a statewide manual recount would’ve still confirmed the president, but only focusing on a few counties, leaving out Albuquerque… was definitely slimy.”<br><br>
-  
-                  Walter J. White, a political science professor at the University of New Mexico recently profiled in this paper for his similar name to Breaking Bad’s protagonist, has his own thoughts on the election. “Previous times in American history when elections have hinged on one state, or maybe a few, such as 1884 or 1960, it tended to be a large electoral prize that makes or breaks an election. It speaks a lot to the unique dynamics of 2000, just how close that election was in so many states, that New Mexico was the tipping point. It would take either a vast amount of circumstance, or an incredibly polarized electorate along very close lines, for something like that to occur again.”<br><br>
-  
-                  Mr. White’s wife, Jesse (also previously noted for the amusing name similarity to Breaking Bad’s deuteragonist), a chemistry professor at UNM, has her own thoughts on the matter. “It’s hard to really emphasize just how transformational this was for the city. Before this, we were just a run-of-the-mill, fast-growing town in the sunbelt, but this put us on the map. I remember, we had to move out of the house for some repairs for a week at the time, and we wound up in the same hotel that James Baker was at. Next thing you know, we got the Isotopes the next year, and now we have more people moving here than Phoenix.”<br><br>
-  
-                  “The thing that I think nobody ever talks about,” says Mr. White, “Bush had a questionable lead in Florida that has basically been forgotten. 478 votes, I think, or something close. From what I’ve talked about with my colleagues in Gainesville, if Gore had gotten a manual recount there, he likely would have won the state, and taken the electoral college by a fair margin.”<br><br>
-  
-                  Every person interviewed for this piece spoke at length about the positive impact that Breaking Bad has had on their city. “Breaking Bad has done an awful lot in turning our image around,” says Crawford. “People used to think we were just a desert wasteland with meth and poor people. The show has reinforced that, but it’s all tongue in cheek, and it’s made people really take a second look at us, start wanted to host conferences here and those sorts of things.”<br><br>
-  
-                  Jones concurs. “When Saul Goodman says, ‘Yeah, I stole that election for Bush,’ the thought isn’t that New Mexico is some crazy state like it was in 2000, but that Saul is a charming guy who may or may not be serious about what he’s saying. Either way, he’s part of something that really brings the area to life. I like to ride up to Sandia Peak once a month. I’ve been doing this for 27 years, and the amount of tourists I’ve seen since the show started a few years back has been immense.”<br><br>
-  
-                  When reached for comment, Breaking Bad creator Vince Gilligan issued a brief clarification that Saul Goodman’s involvement with the Bush campaign was restricted to a brief one-liner and that it would make no impact on the plot, although he did mention that it was possible other characters would mention the recount in the show going forward, echoing the season two, episode ten episode “Over,” where Walter gets into an argument with his brother-in-law Hank over the election’s validity, after Hank takes an unambiguously pro-Bush stance.<br><br>
-  
-                  “Saul is someone who you’re not really supposed to know the background of, and there aren’t any plans to divulge that. I think Bob (Odenkirk) has done an incredible job of making Saul the kind of character who will tell Jesse that he stole the election for Bush, and then tell Walt that he was a lawyer for the Gore campaign, and you just don’t know what’s true.” In the meantime, the viral trend of posting Saul Goodman shows no signs of stopping, and Breaking Bad fans will have to wait until Sunday, when the next episode “Fly” releases, for Walter–and Saul’s– story to continue.<br><br></p>
+                  <p>For residents of New Mexico, however, the story of the 2000 election is no laughing matter. Rather, it conjures images of a media firestorm that such a small state was completely unprepared for at that time, bringing in a degree of attention that would go completely unmatched until Breaking Bad’s premiere eight years later.
+                  </p>
+                  <p>
+                  “The scrutiny was everywhere,” says Jim Baca, mayor of Albuquerque from 1997 to 2001. “Before that, you would generally have a contingent come in for the Balloon Festival, mostly for photos, and then leave. Then, the election came, and it was impossible to get a hotel room in the county for the next month… you couldn’t walk down the street without a news crew trying to snag a candid interview of a local Albuquerque voter.”
+                  </p>
+                  <p>
+                  The state’s first brush with the political spotlight came earlier in the year, when Jerry Brown held his last rally for his 2000 campaign for the Democratic nomination for president, in a move that many had at first deemed quixotic, before his victory in New Hampshire made it suddenly pragmatic and sparked a race to the wire with Gore. Although Brown always lagged behind Gore, he was able to take in a respectable 38.7% of the overall vote and was largely credited with shifting Gore’s campaign rightwards on fiscal issues and leftwards on social issues, underscored by Gore’s decision to pick anti-tax New Hampshire governor Jeanne Shaheen as running mate.
+                  </p>
+                  <p>
+                  It was in Albuquerque that Brown, who needed a miracle to have won on the final day of the primaries, ultimately was forced to end his campaign, and in Albuquerque that Brown would end up emphatically endorsing Gore for president and beginning a process of barnstorming the nation for the nominee. However, the real drama was only beginning. Throughout the presidential race, polls of the state were exceptionally rare compared to those of more vote-heavy swing states. Although all of these polls showed a dead heat between Bush and Gore, and most professional analysts had the state marked as a tossup, it was a surprise to many on November 7 when New Mexico was listed as too close to call as every other state in the country slowly trickled towards counting a winner.
+                  </p>
+                  <p>
+                  From there on, the rest is history: the state’s initial vote was counted for Gore, making him the president by 128 votes–at least initially. An automatic recount found the margin even tighter, at 74 votes in Gore’s favor. From that point, the Bush campaign requested a manual recount in San Juan, Sandoval, and Chaves counties, and the Gore campaign aggressively countersued to stop the recounts as the case made its way higher in court, with the New Mexico Supreme Court voting to stop the recount and the New Mexico state legislature pledging its electors to Gore.
+                  </p>
+                  <p>
+                  However, the Bush campaign appealed the case to the United States Supreme Court, where the 5-4 conservative majority ruled that the recount could continue, ultimately garnering a 203-vote victory for Bush. Albuquerque, meanwhile, was in flames, as protestors in Bernalillo County, a swing county at that time, protested that their state’s sovereignty was being stolen from it. Ultimately, Bush would go on to serve as president for the next eight years, though he would come up short in the state in 2004 by seven percentage points.
+                  </p>
+                  <p>
+                  For Albuquerque residents, the election has since gone down in infamy, and even discussing Obama’s 18-point victory in the state doesn’t ease the pain. “It’s fucking ridiculous,” said local resident Bill Crawford, “Utterly (expletive) ridiculous that our state had its votes stolen and given to that war criminal. If they had a statewide recount, one that included our county, we wouldn’t have ever gone to war with (expletive) Iraq.”
+                  </p>
+                  <p>
+                  Even Charles Jones, an outspoken Bush supporter who voted for the president twice and voted for McCain in the most recent election, agrees. “I’ll never apologize about loving my country and loving my president, but they went about it the wrong way there. I think a statewide manual recount would’ve still confirmed the president, but only focusing on a few counties, leaving out Albuquerque… was definitely slimy.”
+                  </p>
+                  <p>
+                  Walter J. White, a political science professor at the University of New Mexico recently profiled in this paper for his similar name to Breaking Bad’s protagonist, has his own thoughts on the election. “Previous times in American history when elections have hinged on one state, or maybe a few, such as 1884 or 1960, it tended to be a large electoral prize that makes or breaks an election. It speaks a lot to the unique dynamics of 2000, just how close that election was in so many states, that New Mexico was the tipping point. It would take either a vast amount of circumstance, or an incredibly polarized electorate along very close lines, for something like that to occur again.”
+                  </p>
+                  <p>
+                  Mr. White’s wife, Jesse (also previously noted for the amusing name similarity to Breaking Bad’s deuteragonist), a chemistry professor at UNM, has her own thoughts on the matter. “It’s hard to really emphasize just how transformational this was for the city. Before this, we were just a run-of-the-mill, fast-growing town in the sunbelt, but this put us on the map. I remember, we had to move out of the house for some repairs for a week at the time, and we wound up in the same hotel that James Baker was at. Next thing you know, we got the Isotopes the next year, and now we have more people moving here than Phoenix.”
+                  </p>
+                  <p>
+                  “The thing that I think nobody ever talks about,” says Mr. White, “Bush had a questionable lead in Florida that has basically been forgotten. 478 votes, I think, or something close. From what I’ve talked about with my colleagues in Gainesville, if Gore had gotten a manual recount there, he likely would have won the state, and taken the electoral college by a fair margin.”
+                  </p>
+                  <p>
+                  Every person interviewed for this piece spoke at length about the positive impact that Breaking Bad has had on their city. “Breaking Bad has done an awful lot in turning our image around,” says Crawford. “People used to think we were just a desert wasteland with meth and poor people. The show has reinforced that, but it’s all tongue in cheek, and it’s made people really take a second look at us, start wanted to host conferences here and those sorts of things.”
+                  </p>
+                  <p>
+                  Jones concurs. “When Saul Goodman says, ‘Yeah, I stole that election for Bush,’ the thought isn’t that New Mexico is some crazy state like it was in 2000, but that Saul is a charming guy who may or may not be serious about what he’s saying. Either way, he’s part of something that really brings the area to life. I like to ride up to Sandia Peak once a month. I’ve been doing this for 27 years, and the amount of tourists I’ve seen since the show started a few years back has been immense.”
+                  </p>
+                  <p>
+                  When reached for comment, Breaking Bad creator Vince Gilligan issued a brief clarification that Saul Goodman’s involvement with the Bush campaign was restricted to a brief one-liner and that it would make no impact on the plot, although he did mention that it was possible other characters would mention the recount in the show going forward, echoing the season two, episode ten episode “Over,” where Walter gets into an argument with his brother-in-law Hank over the election’s validity, after Hank takes an unambiguously pro-Bush stance.
+                  </p>
+                  <p>
+                  “Saul is someone who you’re not really supposed to know the background of, and there aren’t any plans to divulge that. I think Bob (Odenkirk) has done an incredible job of making Saul the kind of character who will tell Jesse that he stole the election for Bush, and then tell Walt that he was a lawyer for the Gore campaign, and you just don’t know what’s true.” In the meantime, the viral trend of posting Saul Goodman shows no signs of stopping, and Breaking Bad fans will have to wait until Sunday, when the next episode “Fly” releases, for Walter–and Saul’s– story to continue.
+                  </p>
               `
           },
           {
@@ -35566,33 +35580,48 @@ new MutationObserver(() => {
                       "Running Mate": e.running_mate_last_name
               },                 
               "ending text": `
-                  Ronald Reagan’s return to the White House was unprecedented, dashing, symbolic of a man whose entire political career had been about breaking paradigms. Sure, it wasn’t Ronald Reagan, the President–that was still Bush, ever the loyal, boring lackey–but it was Ronald Reagan, the newly minted Secretary of the Interior, back in the swing of big time politics with the task of overseeing the land of the country that he loved so much and had hurt so badly. At the Cabinet meeting in the early days of 1993, when he spoke, people listened.
-  
-                  Now, the Reagan of 1993 wasn’t the Reagan of 1981, who had fearlessly marshalled the entire federal government to reconsider its primary purpose of existence, but he was at least fairly similar with the Ronald Reagan of 1992, who had stepped in for an incapacitated Bush as the de facto Republican nominee for president and had done a damn fine job. Sure, there had been a few occasional miscues while campaigning, but in the end, he had sent Jerry Brown packing, back to the hippie streets of San Francisco, just as he had sent the man’s father packing so many years ago. 1993 Reagan, who many whispered seemed to face the public almost more than the actual president, was still the type of guy who you could trust to be the face of a party, of a movement. 
-  
-                  Over the course of the year, though, it was impossible to not notice that the Reagan who had been sworn in as Secretary of the Interior in January wasn’t the same man roaming the streets of Washington in December. He was forgetful, even more so than he’d been previously. Names, faces, some of them had seemingly gone completely blank. He had always been a pure figurehead for the department, as everyone was aware and okay with the arrangement, but his limited administrative duties slowed to a trickle. An average day was Reagan entering the office, sitting at his desk and blankly gazing at papers, and then kicking his feet up on the chair while popping jelly beans until the cows came home. Rinse, repeat. The only thing that seemed to ignite him was when he travelled to various National Parks and historic locations, where the new experiences and the sun on his face seemed to revive the man his companions had once known before crashing down to Earth when he got back to Washington.
-  
-                  January 1994 would prove to be when things really came to a head. Locked into a fierce, losing battle with Congress, facing annihilation in the midterms, George Bush strode into the Capitol determined to turn his presidency around, to make something out of his second term before it all washed away into a sea of gridlock and insolvency. Ronald Reagan, meanwhile, stayed at home, having drawn the short stray of the designated survivor for the address. Bundled up in a bunker 50 miles away from Washington, 300 meters below the surface, the only thing he had to comfort himself was his TV, on which he watched reruns of Family Ties. It was good entertainment.
-  
-                  Unbeknownst to Bush, unbeknownst to Reagan, somehow unbeknownst to America’s sprawling national security apparatus, a nasty surprise awaited the State of the Union that night. Beneath the floor was a massive bomb, planted there by anti-government militiamen with just the right combination of stupidity, fanaticism, and dumb luck to orchestrate such a bombing. Wrong by the events in Waco and Ruby Ridge, they lashed out, and did so in the deadliest, most dramatic form possible, unleashing an explosion of fury that wiped everyone in attendance at the State of the Union from the face of the Earth. No one was spared, save for Arkansas Senator Dale Bumpers, who had been overcome by illness during the speech and had walked to the other end of the Capitol in search of a peaceful bathroom.
-  
-                  When the Secret Service men came running to the bunker, nuclear football in hand, Reagan was in the middle of watching a scene of Michael J. Fox’s young Republican schooling his ex-hippie parents on basic economics, causing Reagan to nearly double over laughing. As such, it was an unwelcome surprise when the TV screen suddenly switched to footage of the Capitol burning. He tried changing the channel, but it was no use; it was the same story everywhere. Dejected, he sat back and wondered how long he had to sit there until he could see Nancy again.
-  
-                  At that moment, the Secret Service burst into the room, marshalling Secretary–no, President–Reagan into action.
-  
-                  “Mr. Reagan, sir. There has been an attack on the United States government. Due to the chain of command, you are now President of the United States.”
-  
-                  Reagan sat there, looking shocked. He blinked once, then twice. It didn’t make any sense. Where was Michael J. Fox?
-  
-                  “Uh, okay,” he said. It seemed like the nice men might want to hear something like that. “That sounds interesting.”
-  
-                  “Mr. Reagan, President Reagan, sir. We need to get you into a position where you can address the American people.”
-  
-                  This was all too much. It was too hard. He tried to focus for a moment, but it was cold and dark in the bunker, just like those 1920s winters in Dixon. There was something there, something important that he needed to grasp on, and he tried. He tried, he tried, but he just couldn’t quite hold onto it, and it slipped away. It was cold.
-  
-                  Ronald Wilson Reagan, 40th and 42nd President of the United States of America, looked back at the serious men in the suits holding guns, eyes blank as a sheet of ice. Finally, he mustered the courage to ask the most important question:
-  
-                  “Who’s Reagan?”
+              <p>    
+              Ronald Reagan’s return to the White House was unprecedented, dashing, symbolic of a man whose entire political career had been about breaking paradigms. Sure, it wasn’t Ronald Reagan, the President–that was still Bush, ever the loyal, boring lackey–but it was Ronald Reagan, the newly minted Secretary of the Interior, back in the swing of big time politics with the task of overseeing the land of the country that he loved so much and had hurt so badly. At the Cabinet meeting in the early days of 1993, when he spoke, people listened.
+              </p>
+              <p>
+              Now, the Reagan of 1993 wasn’t the Reagan of 1981, who had fearlessly marshalled the entire federal government to reconsider its primary purpose of existence, but he was at least fairly similar with the Ronald Reagan of 1992, who had stepped in for an incapacitated Bush as the de facto Republican nominee for president and had done a damn fine job. Sure, there had been a few occasional miscues while campaigning, but in the end, he had sent Jerry Brown packing, back to the hippie streets of San Francisco, just as he had sent the man’s father packing so many years ago. 1993 Reagan, who many whispered seemed to face the public almost more than the actual president, was still the type of guy who you could trust to be the face of a party, of a movement. 
+              </p>
+              <p>
+              Over the course of the year, though, it was impossible to not notice that the Reagan who had been sworn in as Secretary of the Interior in January wasn’t the same man roaming the streets of Washington in December. He was forgetful, even more so than he’d been previously. Names, faces, some of them had seemingly gone completely blank. He had always been a pure figurehead for the department, as everyone was aware and okay with the arrangement, but his limited administrative duties slowed to a trickle. An average day was Reagan entering the office, sitting at his desk and blankly gazing at papers, and then kicking his feet up on the chair while popping jelly beans until the cows came home. Rinse, repeat. The only thing that seemed to ignite him was when he travelled to various National Parks and historic locations, where the new experiences and the sun on his face seemed to revive the man his companions had once known before crashing down to Earth when he got back to Washington.
+              </p>
+              <p>
+              January 1994 would prove to be when things really came to a head. Locked into a fierce, losing battle with Congress, facing annihilation in the midterms, George Bush strode into the Capitol determined to turn his presidency around, to make something out of his second term before it all washed away into a sea of gridlock and insolvency. Ronald Reagan, meanwhile, stayed at home, having drawn the short stray of the designated survivor for the address. Bundled up in a bunker 50 miles away from Washington, 300 meters below the surface, the only thing he had to comfort himself was his TV, on which he watched reruns of Family Ties. It was good entertainment.
+              </p>
+              <p>
+              Unbeknownst to Bush, unbeknownst to Reagan, somehow unbeknownst to America’s sprawling national security apparatus, a nasty surprise awaited the State of the Union that night. Beneath the floor was a massive bomb, planted there by anti-government militiamen with just the right combination of stupidity, fanaticism, and dumb luck to orchestrate such a bombing. Wrong by the events in Waco and Ruby Ridge, they lashed out, and did so in the deadliest, most dramatic form possible, unleashing an explosion of fury that wiped everyone in attendance at the State of the Union from the face of the Earth. No one was spared, save for Arkansas Senator Dale Bumpers, who had been overcome by illness during the speech and had walked to the other end of the Capitol in search of a peaceful bathroom.
+              </p>
+              <p>
+              When the Secret Service men came running to the bunker, nuclear football in hand, Reagan was in the middle of watching a scene of Michael J. Fox’s young Republican schooling his ex-hippie parents on basic economics, causing Reagan to nearly double over laughing. As such, it was an unwelcome surprise when the TV screen suddenly switched to footage of the Capitol burning. He tried changing the channel, but it was no use; it was the same story everywhere. Dejected, he sat back and wondered how long he had to sit there until he could see Nancy again.
+              </p>
+              <p>
+              At that moment, the Secret Service burst into the room, marshalling Secretary–no, President–Reagan into action.
+              </p>
+              <p>
+              “Mr. Reagan, sir. There has been an attack on the United States government. Due to the chain of command, you are now President of the United States.”
+              </p>
+              <p>
+              Reagan sat there, looking shocked. He blinked once, then twice. It didn’t make any sense. Where was Michael J. Fox?
+              </p>
+              <p>
+              “Uh, okay,” he said. It seemed like the nice men might want to hear something like that. “That sounds interesting.”
+              </p>
+              <p>
+              “Mr. Reagan, President Reagan, sir. We need to get you into a position where you can address the American people.”
+              </p>
+              <p>
+              This was all too much. It was too hard. He tried to focus for a moment, but it was cold and dark in the bunker, just like those 1920s winters in Dixon. There was something there, something important that he needed to grasp on, and he tried. He tried, he tried, but he just couldn’t quite hold onto it, and it slipped away. It was cold.
+              </p>
+              <p>
+              Ronald Wilson Reagan, 40th and 42nd President of the United States of America, looked back at the serious men in the suits holding guns, eyes blank as a sheet of ice. Finally, he mustered the courage to ask the most important question:
+              </p>
+              <p>
+              “Who’s Reagan?”
+              </p>
               `
           },
           {
@@ -35605,7 +35634,7 @@ new MutationObserver(() => {
                       "Running Mate": e.running_mate_last_name
               },
               "ending text": `
-                  Whatever Happened to Ronald Reagan?
+                  <h2>Whatever Happened to Ronald Reagan?</h2>
   
                   The Atlantic 
                   Max Boot
