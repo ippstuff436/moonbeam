@@ -35944,28 +35944,36 @@ new MutationObserver(() => {
               },           
               "ending text": 
               `
-                  <h1>Buchanan Voters and Midwestern Whites</h1>
-                  Robert K. Morgan, Hyeon Kyung
-                  University of California Santa Cruz
-                  Journal of Political Science
+                  <h2>Buchanan Voters and Midwestern Whites</h1>
+                  <h4>Robert K. Morgan, Hyeon Kyung</h4>
+                  <h3>University of California Santa Cruz</h3>
+                  <h4>Journal of Political Science</h4>
   
+                  <p>
                   Abstract:
+                  </p>
+                  <p>
                   To evaluate the claim that white voters were a crucial block of support for Pat Buchanan in the 1996 presidential election, this article offers two sets of results. First, self-reports of presidential votes in 1992 and 1996 from the American National Election Studies show that Brown-to-Buchanan voters and 1992 eligible nonvoters composed a substantial share of Buchanan’s 1996 voters and were disproportionately likely to be white individuals from the geographic Midwest. Second, when county vote tallies in 1992 and 1996 are merged with the public-use microdata samples of the 1992-to-1996 American Community Surveys, areal variations across 1,142 geographic units that sensibly partition the United States show that Buchanan’s gains in 1996 above Bush’s performance in 1992 are strongly related to the proportion of the voting population that was white, but disproportionately situated in geographical units in the Midwest. Taken together, these results support the claim that Buchanan’s appeal to Midwestern whites was crucial for his surprising overperformance. 
-  
+                  </p>
+                  <p>
                   HOW was Pat Buchanan able to bring the 1996 election down to the margins after routinely trailing in polling throughout the campaign season? A leading explanation is that he appealed directly to white voters in the Midwest, fusing trade protectionism with anti-immigrant rhetoric and calls for traditionalist values to guide policymaking as part of his America First! Agenda. Interestingly, Buchanan’s gains with white Midwesterners were not replicated in other areas of the country, with Buchanan losing white support in the West and Northeast while holding steady in the South. Building directly on Morgan and Kygung (1997) and related, recent research (e.g., Hahn, Suzuki, and Peretti 1998; Simpson, Park, and Gomez 1998; Kozinski 1997), in this article, we evaluate two straightforward questions at the core of this white Midwestern narrative: 
-  
+                  </p>
+                  <p>
                   1. Were Midwestern Brown voters in 1992 a substantial portion of Buchanan’s voters in 1996, and if so, were they disproportionately white? 
-  
+                  </p>
+                  <p>
                   2. Were Midwestern eligible nonvoters in 1992 a substantial portion of Buchanan’s voters 1996, and if so, were they disproportionately white? 
-  
+                  </p>
+                  <p>
                   Although simple in structure, these two questions are difficult to answer because of the measurement limitations of available data sources. Individual votes are private, and as a result, individual-level data must be elicited in after-election polls and surveys, which are subject to both recall error and social desirability bias. In addition, at present, the American National Election Studies (ANES) 1996 Times Series Study is the only available national survey that has elicited self-reports of 1992 and 1996 general election votes for president and has a direct measure of a respondent’s current or last occupation that can be plausibly coded as working class or not. And, although we will analyze this invaluable data source in this article, the ANES is nonetheless limited in size, preventing an informative spatial analysis of the distribution of the types of Buchanan voters across the states that he carried or improved his margins in, including the three states that he flipped. An alternative but complementary approach to these questions is to develop an areal analysis of actual recorded votes across geographic units, comparing the 1996 vote distribution to the 1992 vote distribution. With this approach, other analysts have already considered how shifts in county-level vote totals from 1992 to 1996 can be related to county-level demographic estimates provided by the U.S. Census Bureau (the most widely read being those produced by data journalists in the weeks following the election; e.g., Goldman 1996b). Unfortunately, the county-level tables published by the U.S. Census Bureau do not offer breakdowns of occupation that map onto any reasonable definition of the working class and that apply only to the electorate rather than the full adult population of each county. A more powerful approach is to develop direct measures of the white working class using U.S. census microdata, with samples restricted as best one can to the eligible voting population, and then relate these measures to aggregated vote tallies in a sensible fashion. We offer this type of analysis in this article, considering variation across 1,142 geographic units that partition the United States. We cannot overcome the most substantial weakness of an areal analysis: we cannot link 1992 votes directly to 1996 votes nor to turnout decisions, and thus we cannot separate 1996 Buchanan voters into Brown-to-Buchanan voters, Bush-to-Buchanan voters, 1992 nonvoters, and other types of voters. 
-  
+                  </p>
+                  <p>
                   Nonetheless, with these two types of analysis, we are able to evaluate the plausibility of the core empirical claims of the white working-class narrative for Buchanan’s performance. Neither set of results fully resolves the limitations of the other, but we aim to show that this is a case in which the whole is greater than the sum of its parts. Based on our findings, there is significant evidence to suggest that Buchanan’s gains were almost entirely limited to white Midwestern voters, seemingly equalized across all age and income brackets. As such, there is reason to think that this performance was a direct result of Buchanan’s messaging and appeals to these white voters and that this strategy was electorally efficient, flipping three Midwestern states while shortening the margins in every other Midwestern state that Brown won. More research is needed to determine the existence of causation between Buchanan’s rhetoric and his electoral gains.
-  
-              `
+                  </p>
+                `
           },
           {
-              "pk": "Dole Beats Buchanan", /// not adding the image here
+              "pk": "Dole Beats Buchanan",
               "song": `https://file.garden/aKoRqbLZKBsHizSA/moonbeam/Hail%20to%20the%20Chief%20-%20The%20President's%20Own%20United%20States%20Marine%20Band.mp3`,
               "conditions": {
                       "Win Type": "Massive Win",
@@ -35975,22 +35983,28 @@ new MutationObserver(() => {
               },           
               "ending text": 
                   `
-                  Buchanan Ends Presidential Campaign After Underwhelming Super Tuesday Performance 
-                  March 6, 1996
-                  Casper Star-Tribune
-                  Brian Moore
+                  <h2>Buchanan Ends Presidential Campaign After Underwhelming Super Tuesday Performance</h2> 
+                  <h4>March 6, 1996</h4>
+                  <h4>Casper Star-Tribune</h4>
+                  <h4>Brian Moore</h4>
   
-                  Pat Buchanan, a conservative commentator and former vice-presidential nominee, has announced that he is suspending his campaign for the Republican presidential nomination. This decision comes after a series of primary losses and increasing pressure from party leaders to unify behind Senate Majority Leader Bob Dole.
-  
+                  <p>Pat Buchanan, a conservative commentator and former vice-presidential nominee, has announced that he is suspending his campaign for the Republican presidential nomination. This decision comes after a series of primary losses and increasing pressure from party leaders to unify behind Senate Majority Leader Bob Dole.
+                  </p>
+                  <p>
                   Buchanan's campaign, which had long led polling for the Republican nomination prior to the official beginning of the primaries, struggled to maintain momentum once the primaries actually got underway. His platform, characterized by a hardline stance on immigration and a broad call for a return to traditional values, was immensely popular with part of the Republican base but widely alienated most moderates in the party.
-  
+                  </p>
+                  <p>
                   Despite enjoying a polling and name recognition lead for much of the runup to the primaries, Sen. Dole consistently outraised Buchanan, and many on the ground in the early primary states credited him with having much better organization. Dole bested Buchanan in Iowa by half a percentage point, but then scored a shocking victory in New Hampshire by over five points in a race that many had Buchanan pegged to win by 15 points, reshaping the fundamentals of the race. From there, Buchanan saw his campaign falter, with an eleven-point loss in the Arizona primary setting him up for doom on Super Tuesday.
-  
+                  </p>
+                  <p>
                   Ultimately, Dole would sweep Super Tuesday entirely, winning all nine primaries in landslides and making Buchanan's path forward to the nomination appear untenable. Addressing supporters in Colorado, Dole declared that “victory will shortly be at hand.”
-  
+                  </p>
+                  <p>
                   In a statement released this morning, Buchanan expressed pride in the movement his campaign had sparked but acknowledged the challenges ahead, officially withdrawing from the race. "While our message has found a passionate audience, the path to the nomination has narrowed," he said. "I believe it is in the best interest of our party and our country to suspend my campaign and support the nominee."
-  
+                  </p>
+                  <p>
                   With Buchanan gone from the race, Dole, who has no other notable challengers remaining, is now the presumptive nominee. Party leaders hope that Buchanan’s endorsement of Dole will increase Republican unity and will strengthen their position against President Jerry Brown in the upcoming general election, in a contest where any hypothetical Republican nominee trails Brown by over ten points in the national polling average. Though Dole can take solace in having de facto clinched the Republican nomination, he faces an uphill battle for the presidency.
+                  </p>
                   `
           },
           {
@@ -36004,28 +36018,28 @@ new MutationObserver(() => {
               },
               "ending text": 
                   `
-                  A collection of quotes from Senator David Duke’s (R-LA) Senate colleagues after his untimely death in a plane crash in 2019
+                  <h4>A collection of quotes from Senator David Duke’s (R-LA) Senate colleagues after his untimely death in a plane crash in 2019</h4>
   
-                  “He was a close friend of mine and one of the few confidants I always knew I could trust when everything was on the line. He was a friend to most, almost everyone, in this body.”
-                  -Senate Majority Leader John Cornyn, R-TX
+                  <p>“He was a close friend of mine and one of the few confidants I always knew I could trust when everything was on the line. He was a friend to most, almost everyone, in this body.”<br>
+                  -Senate Majority Leader John Cornyn, R-TX</p>
   
-                  “David was a public servant in the truest sense possible, a man who was always willing to do what was right for his constituents and bring the views of Louisiana to the Senate as accurately as possible. I know that I, for one, will miss him.”
-                  -Senator Susan Collins, R-ME
+                  <p>“David was a public servant in the truest sense possible, a man who was always willing to do what was right for his constituents and bring the views of Louisiana to the Senate as accurately as possible. I know that I, for one, will miss him.”<br>
+                  -Senator Susan Collins, R-ME</p>
   
-                  “The British essayist William Hazlitt once wrote, and I quote: ‘Death conceals everything but truth, and strips a man of everything but genius and virtue. It’s a sort of natural canonization.’ The truth and genius and virtue of David Duke is what I choose and we all choose to remember today.”
-                  -Senator Joe Biden, D-DE
+                  <p>“The British essayist William Hazlitt once wrote, and I quote: ‘Death conceals everything but truth, and strips a man of everything but genius and virtue. It’s a sort of natural canonization.’ The truth and genius and virtue of David Duke is what I choose and we all choose to remember today.”<br>
+                  -Senator Joe Biden, D-DE</p>
   
-                  “As a fellow Southerner, I have a great deal of respect for Senator Duke as a man of character, honor, and above all else, Southern pride. The world would be a much better place if we had more David Dukes and less Jesse Jacksons.”
-                  -Senator Roy Moore, R-AL
+                  <p>“As a fellow Southerner, I have a great deal of respect for Senator Duke as a man of character, honor, and above all else, Southern pride. The world would be a much better place if we had more David Dukes and less Jesse Jacksons.”<br>
+                  -Senator Roy Moore, R-AL</p>
   
-                  “No comment.”
-                  -Senator Cory Booker, D-NJ
+                  <p>“No comment.”<br>
+                  -Senator Cory Booker, D-NJ</p>
   
-                  “Senator Duke often got a bad rap, but when you actually look at him closely, he was much more moderate and reasonable than his opponents made him out to be. I consider knowing him to have been a worthy experience which made me a better woman, and I send my best regards to his family and the other victims of this terrible incident.”
-                  -Senator Lisa Murkowski, R-AK
+                  <p>“Senator Duke often got a bad rap, but when you actually look at him closely, he was much more moderate and reasonable than his opponents made him out to be. I consider knowing him to have been a worthy experience which made me a better woman, and I send my best regards to his family and the other victims of this terrible incident.”<br>
+                  -Senator Lisa Murkowski, R-AK</p>
   
-                  “I worked very closely with Senator Duke for a number of years, and he was undoubtedly one of the hardest-working, most visionary members of Congress I’ve ever known. He’s the type of man that you wish had been president, and it’s a shame that he never ran for the office. Regardless, I’m going to miss him dearly.”
-                  -Senator Michele Bachmann, R-MN
+                  <p>“I worked very closely with Senator Duke for a number of years, and he was undoubtedly one of the hardest-working, most visionary members of Congress I’ve ever known. He’s the type of man that you wish had been president, and it’s a shame that he never ran for the office. Regardless, I’m going to miss him dearly.”<br>
+                  -Senator Michele Bachmann, R-MN</p>
               `
           },
           {
