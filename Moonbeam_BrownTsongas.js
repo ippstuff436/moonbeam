@@ -35230,33 +35230,45 @@ new MutationObserver(() => {
                       "Running Mate": e.running_mate_last_name
               },
               "ending text": `
-                  Tucked away in the penthouse suite at the Fairmont in San Francisco, Jerry Brown was incapable of talking about politics, and although he thought about it, obsessed over it, nonstop, he flatly refused to talk about anything related to the election. Jacques called from France, occupied with personal business that required his presence in Paris, and the two of them talked about their thoughts on the next year’s most like Nobel Prize winners for 30 minutes, not mentioning the election once. Even when Pat came around, claiming that the microdata had some positive trends, and Jodie came in asking if there was anything he’d like to record for posterity , he waved them off and focused on the new Madonna album, which two of his staffers had begged him to listen to.
-  
-                  After dinner, a fairly well-cooked pork chop, he finally decided that the time had come and turned on the television. He landed on CBS, where Dan Rather was interpolating updates on the vote count with quick interviews with various figures, talking about fairly bland topics such as why people choose to vote the way they do. As the results came in, it was tough to tell, enough that he held off on getting excited about anything. 
-  
-                  Hours passed, and Jerry was one with the television, not letting anyone come into the room who wasn’t the closest of confidants. The safe states were called, then the solid ones, then the leaning ones, then the tossups until both campaigns were in striking distance of 270. Then, all of a sudden, something clicked, and the results all came in–with him ahead. It had taken a while, but Jerry Brown had won the election. The suite was happy, albeit in a slightly nervous way, more they had avoided bad news than received good news. Jodie was grinning in a tired way, crow’s feet showing, while Pat was slowly walking around the room in circles, muttering to himself in a way hat made him seem like he didn’t want to be bothered.
-  
-                  Jerry just sat there, running it over in his head. He was the winner, and Bush was the loser. Shouldn’t that be good enough? He had come back from the void, with nothing, and now everyone was saying something. In a few months, he would be the unquestioned most powerful man in the world, at the helm of the world’s only superpower. But was it enough? Perhaps.
-  
-                  He walked back into the room, and waved down an aide who had a working telephone. There was a call awaiting, and he very much wanted to check it off the list.
-  
-                  “Governor, future President Brown, I wanted to just give you a call, send in my submission. It was a tough thing, but I have to suspend my campaign at this moment. It’s tight, but I think it’s over by now. No recounts or anything like that will be necessary.” 
-  
-                  “I understand, Mr. President,”said Brown, letting the words flow out of him instead of trying to force something that wasn’t there, “these are the decisions that we have to make. You can rest well knowing that you did a good job.”
-  
-                  A low snarling sound came over the receiver, as if Bush didn't quite agree with that summation.”Sure thing, Mr. President. Whatever you say. A good, close race, am I right?”
-  
-                  “Oh yes, 100%. I have a lot of people waiting on me, but we can discuss this more later.”
-  
-                  Jerry hung up on him after saying to basic pleasantries, and set the phone down. It was now time to be serious. It was time to step up and prove that he had been elected president for a reason, that he wasn’t some mistake or fluke or anything like that. He gathered everyone around for a speech, making sure to let them know how he felt and how grateful he was, as a real president, duly elected by the people, should. It was over quickly and painlessly, people ready to listen to their new president. 
-  
-  
-                  Jerry let himself be whisked away, let himself be carried through the crowd until he was in a car heading to Union Square with Jodie, en route to a victory speech. At this point, it just didn’t feel real at all. In the logical part of his mind, he knew that the ores had been counted and he had won, but emotionally, he still didn’t feel it yet. Right now, he felt the exact same way he had before Election Day, just another soul among billions of others.
-  
-                  He thought back to the other presidents that had been elected narrowly. Carter had been a disaster, one that he had little desire to emulate. Kennedy had been a success, minus the whole death thing, but Jerry had never been much of a Kennedy guy. Maybe he could be the new Woodrow Wilson? Was that something he really wanted to be? Probably not, all things considered. Maybe he would just have to be Jerry Brown. It was something he knew how to do, but that didn’t make it any less scary.
-  
-                  At long last, the car pulled up to Union Square, the streets buzzing with those wishing to catch a glimpse of their new leader. So that was exactly what he was going to do: be that leader, be the person that millions of Americans had wanted him to be. They had placed their faith in him, so now, he was going to have to somehow pay it back. It was going to be hard, coming into office without a bit mandate, without the sort of steam that could power massive change. He was going to have to do it all himself. Well, it wasn’t anything he hadn’t done before. And so, just like that, Jerry Brown exited the car and got ready to reintroduce himself as President. 
-                  `
+              <p>    
+              Tucked away in the penthouse suite at the Fairmont in San Francisco, Jerry Brown was incapable of talking about politics, and although he thought about it, obsessed over it, nonstop, he flatly refused to talk about anything related to the election. Jacques called from France, occupied with personal business that required his presence in Paris, and the two of them talked about their thoughts on the next year’s most like Nobel Prize winners for 30 minutes, not mentioning the election once. Even when Pat came around, claiming that the microdata had some positive trends, and Jodie came in asking if there was anything he’d like to record for posterity , he waved them off and focused on the new Madonna album, which two of his staffers had begged him to listen to.
+              </p>
+              <p>
+              After dinner, a fairly well-cooked pork chop, he finally decided that the time had come and turned on the television. He landed on CBS, where Dan Rather was interpolating updates on the vote count with quick interviews with various figures, talking about fairly bland topics such as why people choose to vote the way they do. As the results came in, it was tough to tell, enough that he held off on getting excited about anything. 
+              </p>
+              <p>
+              Hours passed, and Jerry was one with the television, not letting anyone come into the room who wasn’t the closest of confidants. The safe states were called, then the solid ones, then the leaning ones, then the tossups until both campaigns were in striking distance of 270. Then, all of a sudden, something clicked, and the results all came in–with him ahead. It had taken a while, but Jerry Brown had won the election. The suite was happy, albeit in a slightly nervous way, more they had avoided bad news than received good news. Jodie was grinning in a tired way, crow’s feet showing, while Pat was slowly walking around the room in circles, muttering to himself in a way hat made him seem like he didn’t want to be bothered.
+              </p>
+              <p>
+              Jerry just sat there, running it over in his head. He was the winner, and Bush was the loser. Shouldn’t that be good enough? He had come back from the void, with nothing, and now everyone was saying something. In a few months, he would be the unquestioned most powerful man in the world, at the helm of the world’s only superpower. But was it enough? Perhaps.
+              </p>
+              <p>
+              He walked back into the room, and waved down an aide who had a working telephone. There was a call awaiting, and he very much wanted to check it off the list.
+              </p>
+              <p>
+              “Governor, future President Brown, I wanted to just give you a call, send in my submission. It was a tough thing, but I have to suspend my campaign at this moment. It’s tight, but I think it’s over by now. No recounts or anything like that will be necessary.” 
+              </p>
+              <p>
+              “I understand, Mr. President,”said Brown, letting the words flow out of him instead of trying to force something that wasn’t there, “these are the decisions that we have to make. You can rest well knowing that you did a good job.”
+              </p>
+              <p>
+              A low snarling sound came over the receiver, as if Bush didn't quite agree with that summation.”Sure thing, Mr. President. Whatever you say. A good, close race, am I right?”
+              </p>
+              <p>
+              “Oh yes, 100%. I have a lot of people waiting on me, but we can discuss this more later.”
+              </p>
+              <p>
+              Jerry hung up on him after saying to basic pleasantries, and set the phone down. It was now time to be serious. It was time to step up and prove that he had been elected president for a reason, that he wasn’t some mistake or fluke or anything like that. He gathered everyone around for a speech, making sure to let them know how he felt and how grateful he was, as a real president, duly elected by the people, should. It was over quickly and painlessly, people ready to listen to their new president. 
+              </p>
+              <p>
+              Jerry let himself be whisked away, let himself be carried through the crowd until he was in a car heading to Union Square with Jodie, en route to a victory speech. At this point, it just didn’t feel real at all. In the logical part of his mind, he knew that the ores had been counted and he had won, but emotionally, he still didn’t feel it yet. Right now, he felt the exact same way he had before Election Day, just another soul among billions of others.
+              </p>
+              <p>
+              He thought back to the other presidents that had been elected narrowly. Carter had been a disaster, one that he had little desire to emulate. Kennedy had been a success, minus the whole death thing, but Jerry had never been much of a Kennedy guy. Maybe he could be the new Woodrow Wilson? Was that something he really wanted to be? Probably not, all things considered. Maybe he would just have to be Jerry Brown. It was something he knew how to do, but that didn’t make it any less scary.
+              </p>
+              <p>
+              At long last, the car pulled up to Union Square, the streets buzzing with those wishing to catch a glimpse of their new leader. So that was exactly what he was going to do: be that leader, be the person that millions of Americans had wanted him to be. They had placed their faith in him, so now, he was going to have to somehow pay it back. It was going to be hard, coming into office without a bit mandate, without the sort of steam that could power massive change. He was going to have to do it all himself. Well, it wasn’t anything he hadn’t done before. And so, just like that, Jerry Brown exited the car and got ready to reintroduce himself as President.</p> 
+            `
           },
           {
               "pk": "Deadlock",
@@ -35268,35 +35280,51 @@ new MutationObserver(() => {
                       "Running Mate": e.running_mate_last_name
               },            
               "ending text": `
+                  <p>
                   The Brown team had checked themselves into the penthouse of the Fairmont in downtown San Francisco, but Jerry  himself was nowhere to be seen. Ever since they had arrived from the airport, he went straight to the master bedroom and shut himself in. Jacques tried calling him, and Jerry hung up immediately. Jodie and Pat both came by to give him different variations of telling him that the race would be tight, and that he would likely have to stay up late. He nodded briefly and shooed them away.
-  
+                  </p>
+                  <p>
                   Jerry was too nervous to stomach anything at all for dinner, and instead slowly drank a tall glass of water–even that was a hard task–as he prepared himself to watch the election results. Jerry had a special talent, one that he had never told anyone about, to predict elections based purely on his gut. He had never been wrong. But now, as he sat alone in his hotel room, he couldn’t find anything to tell him which way the wind was blowing. His senses had failed him.
-  
+                  </p>
+                  <p>
                   The broadcast started, and from the get-go, Jerry could tell that it was going to be a close one. Blow for blow, he and Bush traded blue and red shots all across the electoral map, one never pulling out too far ahead from the other. Both men got closer and closer to the promised land of 270 and the presidency. Then, all of a sudden, they made the last calls, and everything became instantly clear: they had deadlocked at 269 apiece. 
-  
+                  </p>
+                  <p>
                   Jerry decided to finally exit the hotel room, where he was greeted by a suite filled with people in various states of disassociation. Everyone had prepared for the possibility of a win or a loss, but even with the polls showing a tight race, even with the possibility of a deadlock being completely in the realm of probability, not one single person had thought to actually consider the possibility. The room was silent: not the depressed silence of a funeral, but the confused silence of someone who had just woken up from getting their wisdom teeth taken out, completely out of touch with reality.
-  
+                  </p>
+                  <p>
                   Jerry made his way through the room, the people parting for him. Nobody was willing to shake his hand in congratulations or pat his back in remorse. Instead, he just walked through a confused room of political operators, acquaintances of him, Hollywood celebrities, and others who had been reduced to zombies. 
-  
+                  </p>
+                  <p>
                   Jerry saw one single emotional face in the room, and made a beeline towards it. It was Pat, smirking with glee. When Jerry arrived, Pat gave him a bone-crushing handshake.
-  
+                  </p>
+                  <p>
                   “Congratulations, Mr. President,” he said. 
-  
+                  </p>
+                  <p>
                   Jerry stopped to think about it. Pat was right, wasn’t he? If the electoral college fell short of any candidate receiving a majority, then the election would be decided based on state delegations in the House. And who controlled the state delegations in the House? The Democratic party. In theory, if everything went to plan, he had it in the bag.
-  
+                  </p>
+                  <p>
                   In theory, in theory, in theory. Deep down, the little part of his gut that made the election calls gave him a sign: he had won, but he needed to tread lightly. This wasn’t over yet. It had just begun. 
-  
+                  </p>
+                  <p>
                   Jerry’s eyes drifted away from Pat and over to a phone that was sitting on a table, just waiting to be used. Any moment now, Bush would be calling to offer his concession, right? Jerry only waited a couple seconds, but that was all he needed for his gut to send him another signal. The call was never going to come. 
-  
+                  </p>
+                  <p>
                   Jerry ran his hands through his thinning hair and tried to get himself reoriented. He found a stool to stand on, got up, and raised his voice, immediately catching everyone’s attention. In no uncertain terms, he explained the situation: the election was deadlocked, but he was on track to win it eventually. He thanked everyone for their support, but noted that he technically wasn’t president-elect yet. People cheered, some louder than others, as the spell of disassociation finally wore off, but it was a far cry from the sort of reaction he knew he would’ve gotten if he had been able to snag one more electoral vote. 
-  
+                  </p>
+                  <p>
                   After the speech, he knew that he was going to have to go on television soon and talk about the situation. That could wait. Instead, he headed to the balcony and took a moment to take in the San Francisco skyline. It really was bullshit, this antiquated electoral system. A better country founded on better values, or even an equally bad one whose founders had been just a little more flexible with the requirements to amend the Constitution, would’ve ditched the electoral college long ago. But just like the what if of him winning one more electoral vote, it was meaningless. Reality had arrived, and he needed to move on.
-  
+                  </p>
+                  <p>
                   Jerry sighed, letting the breath exit his lungs completely, using one of the mediation tricks he had picked up in Japan. This turn of events had seriously impacted his plans. All of his grand ideas about riding into the presidency with a mandate had vanished. But what else was he going to do? Nothing? Of course not.
-  
+                  </p>
+                  <p>
                   Jerry breathed back in. Now was the time, more than ever, to lock it down. The road ahead was treacherous, filled with all sorts of obstacles meant to stop him. That was nothing new. He had been down this road before, and still managed to come out straight. It was hard, but he was harder. He had long dreamed of the presidency, and now it was right there. Instead of letting the obstacles drag him down, he set his shoulders back and straightened his posture. If they–and they meant anything to him, from the American people to the electoral college to the Constitution–wanted a fight, then bring it on.
-  
+                  </p>
+                  <p>
                   Jerry walked back into the hotel room, ready to face the public for the first time. There was no more time for worrying over the results. The next phase had begun, and he was ready to do what it took to win.
+                  </p>
               `
           },
           {
@@ -35309,30 +35337,42 @@ new MutationObserver(() => {
                       "Running Mate": e.running_mate_last_name
               },
               "ending text": `
+                  <p>
                   Tucked away in the penthouse suite at the Fairmont in San Francisco, Jerry Brown was incapable of talking about politics, and although he thought about it, obsessed over it, nonstop, he flatly refused to talk about anything related to the election. Jacques called from France, occupied with personal business that required his presence in Paris, and the two of them talked about the World Series and its implications on the wider realm of baseball for 30 minutes, not mentioning the election once. Even when Pat came around, trying to start a discussion on how some of the folks on the ground were seeing odd signs, and Jodie came in discussing what he would have to do in the case of a tight victory, he waved them off and focused on reading some Camus, who had always intrigued him.
-  
+                  </p>
+                  <p>
                   After dinner, a bass filet with asparagus on the side, he finally decided that the time had come and turned on the television. He landed on CBS, where Dan Rather was interpolating updates on the vote count with quick interviews with various figures, talking about fairly bland topics such as why people choose to vote the way they do. As the results came in, things were looking slightly less optimal than he had hoped.
-  
+                  </p>
+                  <p>
                   For hours, Jerry stressed over the results, calling everyone with a brain that he knew to see what his chances were. Then, sometime in the early morning, they finally counted up all the votes, and that was that. Jerry Brown had lost. As he finally exited the room and entered into the suite, the faint traces of daylight had already arrived. Everyone was sad–Jody was lightly crying, Pat was rubbing his temples–but everyone seemed less generally distraught and more like they had lost a boxing match on a split decision and didn’t know what to think. He looked around, and nobody even seemed to recognize that he was there. He shrugged and walked over to the phone, typing in the numbers to a special line in Houston.
-  
+                  </p>
+                  <p>
                   “President Bush,” said Jerry, in the most emotionless, lawyerly tone he had, “it looks like congratulations are in order.” 
-  
+                  </p>
+                  <p>
                   “I appreciate that, Governor. You know, that’s probably the closet-fun thing we’ve had in some years. That’s how it goes, I guess.”
-  
+                  </p>
+                  <p>
                   Jerry could sense the fear in his voice, the gnawing sense that Bush had escaped from the election rather than won it. “Yeah, I just tried to do my best, and that wasn’t good enough this time. Almost. Maybe some other time.”
-  
+                  </p>
+                  <p>
                   Busy audibly shrugged, not sure what to say. “That’s life. It’s definitely something that I’ve had the time to learn over the years. But we can discuss this at some other time. I’m old, and I need a break.”
-  
+                  </p>
+                  <p>
                   Jerry said some pleasantries, and then hung up. It was only fair to let the old bastard get his rest. Jerry wasn’t the youngest man either, and he had the motions to go through. First, everyone still left in the suite was treated to a very simple and short thank you speech in which Jerry said the absolute bare minimum necessary and offered his condolences. It was the least they deserved. 
-                  
+                  </p>
+                  <p>
                   Then came the concession speech, which was more of the same. Lots of people voted for him, enough to win massive swathes of the population, enough to build an army of millions of Brown voters, but it wasn’t enough. Compared to where he had started, it was something to be proud of, but he would end right where he originated, without office, without power. Finally, the cameras shut off, and he excused himself from public life.  
-  
+                  </p>
+                  <p>
                   By this point, it was well and truly daytime, and yet he didn’t feel tired at all. He found his way into a car with a driver, and simply asked to go south. And just like that, Jerry was just another of one of the millions of souls in California fighting their way through the morning’s traffic. Slowly, the hectic energy of the bay receded until it was only a glimmer of light on the highway and not the all-encompassing force of downtown.
-  
+                  </p>
+                  <p>
                   The car stopped, and all of a sudden, Jerry remembered where he was and why he had come here. Los Gatos was a small town, but it contained a place hat was very special to him, the novitiate where he had spent all those years back when he had harbored dreams of becoming a priest. Maybe he should have continued down that path, he thought. It could’ve saved him a lot of trouble. 
-  
+                  </p>
+                  <p>
                   And yet, he wasn’t as troubled as he thought he would be. His normal reaction to a loss was to start plotting, or failing that, to collapse if the loss was bad enough. But there was none of that. It hurt, but not badly enough to cripple him. No, he just needed guidance. He didn’t know if he wanted to do this whole politics thing anymore–except maybe he did. He didn’t know if he wanted anything at all–or if he wanted everything. So, with that, he got out of the car and walked towards the church. He just needed a bit of guidance.
-  
+                  </p>
               `
           },
           {
@@ -35345,30 +35385,44 @@ new MutationObserver(() => {
                       "Running Mate": e.running_mate_last_name
               },            
               "ending text": `
+                  <p>
                   Tucked away in the penthouse suite at the Fairmont in San Francisco, Jerry Brown was incapable of talking about politics, and although he thought about it, obsessed over it, nonstop, he flatly refused to talk about anything related to the election. Jacques called from France, occupied with personal business that required his presence in Paris, and the two of them talked about the Sinead O’Connor incident for 30 minutes, not mentioning the election once. Even when Pat came around, trying to start a discussion on how some of the exit polls looked a bit worrying, and Jodie came in discussing how his paths to victory might work, he waved them off and focused on watching Feed, a new documentary chronicling the Democratic primaries earlier in the year.
-  
+                  </p>
+                  <p>
                   After dinner, a pleasant pasta alfredo with extra parmesan, he finally decided that the time had come and turned on the television. He landed on CBS, where Dan Rather was interpolating updates on the vote count with quick interviews with various figures, talking about fairly bland topics such as why people choose to vote the way they do. As the results came in, some of the states looked promising, but just as many looked quite the opposite.
-  
+                  </p>
+                  <p>
                   For hours, Jerry alternated between watching the returns on television and taking phone calls, as his chances of pulling it off got narrower, narrower, and narrower. Then, the last state necessary for 270 flipped red, and his chances completely extinguished. That was it: Jerry Brown was not going to be the president. The mood of the suite sunk into a deep depression as people tried to figure out just where they had gone wrong. Jodie had her head in her hands, and Pat was muttering about how he couldn’t possibly understand how Jerry had failed, even after following his advice. Most people in the room, including the celebrities and various personal friends, had a palpable sense of anxiety sitting deep in their stomach, as they tried to wrestle with their grief.
+                  </p>
                   Jerry had that exact same sense of grief, but he worked on shoving it down as far as possible, deep into the inner reaches of his soul, until the only thing left was his mind, unhindered by bothersome emotions. Wordlessly, he held his arm out for the phone, and someone was perceptive enough to hand it to him. One by one, he punched the numbers until Houston was on the line.
-  
+                  </p>
+                  <p>
                   “Mr. President,” said Jerry, his voice betraying just as much emotion as he felt, “Congratulations on your victory.”
-  
+                  </p>
+                  <p>
                   “Well, thank you, Governor Brown. You did a good job and represented yourself well.”
-  
+                  </p>
+                  <p>
                   Jerry could tell that Bush was enjoying the win, but he didn’t care about the process very much. To him, the electoral side of politics was all like one massive game, where he had to guess the right combinations so that he could get back to the real important job of actually being the executive. “At the end of the day, that’s how the swing of the pendulum goes. Maybe it goes somewhere else in four years, but that won’t be your problem. So, with that, good luck.”
-  
+                  </p>
+                  <p>
                   Bush laughed a little, genuinely chuckling. “You’re absolutely right about that one. Barbara is calling me over, but take care now.”
-  
+                  </p>
+                  <p>
                   Jerry hung up the phone and took a moment to collect his thoughts so that he could plan his next few moves. First, he had to do the speech to the people in the room who had supported him so much. That was the first step. He gathered everyone around and used his last burst of passion to give them all a spirited thank-you, praising their hard work and their loyalty and promising that this wouldn’t be the end of the road. Everyone gently applauded.
-  
+                  </p>
+                  <p>
                   After that, he had the official televised concession speech. He didn’t spend too much time ruminating, instead hitting the expected points and making sure not to come off like too much of a sore loser. There was applause, and a few people, still obviously not over the loss, kept clapping longer than normal. And then, after that, there was really nothing else to do. 
-  
+                  </p>
+                  <p>
                   He thought about going home, but his method of burying everything had left his mind pacing too quickly to calm down. When he got into the car, he told the driver to just go west, until he hit the ocean. After some time navigating through the streets, they finally got to Ocean Beach. Jerry thanked the driver and told him to come back in 30 minutes; he needed some time to think. 
-  
+                  </p>
+                  <p>
                   The moon, not quite full but on its way there, illuminated the Pacific Ocean, its gentle waves putting Jerry into a trance. It was true: he had lost the election. He had lost elections before, just as his father had lost before, just like countless other politicians had. Granted, this one stung: if you squinted at the margins hard enough, conjured a few shifts in the right states, it may very well have been winnable. But still, he had tried his hardest and crafted an entire campaign, an entire movement, out of nothing, and a few people really had listened. 
-  
-                  He looked out across the water, the vast reach of the ocean swallowing his vision. He was down, but he wasn’t out. Running it back in 1996 seemed a tall order, especially with Clinton, probably also Cuomo in the mix, but there were endless opportunities out there, both in and out of office. He felt, more than ever, that even if he never was able to capture the presidency, he could at least do some good in the world. As he stared out across the water, imagining his gaze stretching endlessly across the whole Pacific, all the way to Japan, he became even more sure. He didn’t know when, where, or how, but he knew who: Jerry Brown would return. 
+                  </p>
+                  <p>
+                  He looked out across the water, the vast reach of the ocean swallowing his vision. He was down, but he wasn’t out. Running it back in 1996 seemed a tall order, especially with Clinton, probably also Cuomo in the mix, but there were endless opportunities out there, both in and out of office. He felt, more than ever, that even if he never was able to capture the presidency, he could at least do some good in the world. As he stared out across the water, imagining his gaze stretching endlessly across the whole Pacific, all the way to Japan, he became even more sure. He didn’t know when, where, or how, but he knew who: Jerry Brown would return.
+                  </p> 
   
               `
           },
@@ -35382,29 +35436,42 @@ new MutationObserver(() => {
                       "Running Mate": e.running_mate_last_name
               },  
               "ending text": `
-                  Tucked away in the penthouse suite at the Fairmont in San Francisco, Jerry Brown was incapable of talking about politics, and although he thought about it, obsessed over it, nonstop, he flatly refused to talk about anything related to the election. Jacques called from France, occupied with personal business that required his presence in Paris, and the two of them talked about the World Series and its implications on the wider realm of baseball for 30 minutes, not mentioning the election once. Even when Pat came around, trying to start a discussion on how some of the folks on the ground were seeing odd signs, and Jodie came in discussing what he would have to do in the case of a tight victory, he waved them off and focused on reading some Camus, who had always intrigued him.
-  
-                  After dinner, a bass filet with asparagus on the side, he finally decided that the time had come and turned on the television. He landed on CBS, where Dan Rather was interpolating updates on the vote count with quick interviews with various figures, talking about fairly bland topics such as why people choose to vote the way they do. As the results came in, things were looking slightly less optimal than he had hoped.
-  
-                  For hours, Jerry stressed over the results, calling everyone with a brain that he knew to see what his chances were. Then, sometime in the early morning, they finally counted up all the votes, and that was that. Jerry Brown had lost. As he finally exited the room and entered into the suite, the faint traces of daylight had already arrived. Everyone was sad–Jody was lightly crying, Pat was rubbing his temples–but everyone seemed less generally distraught and more like they had lost a boxing match on a split decision and didn’t know what to think. He looked around, and nobody even seemed to recognize that he was there. He shrugged and walked over to the phone, typing in the numbers to a special line in Houston.
-  
-                  “President Bush,” said Jerry, in the most emotionless, lawyerly tone he had, “it looks like congratulations are in order.” 
-  
-                  “I appreciate that, Governor. You know, that’s probably the closet-fun thing we’ve had in some years. That’s how it goes, I guess.”
-  
-                  Jerry could sense the fear in his voice, the gnawing sense that Bush had escaped from the election rather than won it. “Yeah, I just tried to do my best, and that wasn’t good enough this time. Almost. Maybe some other time.”
-  
-                  Busy audibly shrugged, not sure what to say. “That’s life. It’s definitely something that I’ve had the time to learn over the years. But we can discuss this at some other time. I’m old, and I need a break.”
-  
-                  Jerry said some pleasantries, and then hung up. It was only fair to let the old bastard get his rest. Jerry wasn’t the youngest man either, and he had the motions to go through. First, everyone still left in the suite was treated to a very simple and short thank you speech in which Jerry said the absolute bare minimum necessary and offered his condolences. It was the least they deserved. 
-                  
-                  Then came the concession speech, which was more of the same. Lots of people voted for him, enough to win massive swathes of the population, enough to build an army of millions of Brown voters, but it wasn’t enough. Compared to where he had started, it was something to be proud of, but he would end right where he originated, without office, without power. Finally, the cameras shut off, and he excused himself from public life.  
-  
-                  By this point, it was well and truly daytime, and yet he didn’t feel tired at all. He found his way into a car with a driver, and simply asked to go south. And just like that, Jerry was just another of one of the millions of souls in California fighting their way through the morning’s traffic. Slowly, the hectic energy of the bay receded until it was only a glimmer of light on the highway and not the all-encompassing force of downtown.
-  
-                  The car stopped, and all of a sudden, Jerry remembered where he was and why he had come here. Los Gatos was a small town, but it contained a place hat was very special to him, the novitiate where he had spent all those years back when he had harbored dreams of becoming a priest. Maybe he should have continued down that path, he thought. It could’ve saved him a lot of trouble. 
-  
-                  And yet, he wasn’t as troubled as he thought he would be. His normal reaction to a loss was to start plotting, or failing that, to collapse if the loss was bad enough. But there was none of that. It hurt, but not badly enough to cripple him. No, he just needed guidance. He didn’t know if he wanted to do this whole politics thing anymore–except maybe he did. He didn’t know if he wanted anything at all–or if he wanted everything. So, with that, he got out of the car and walked towards the church. He just needed a bit of guidance.
+              <p>    
+              Tucked away in the penthouse suite at the Fairmont in San Francisco, Jerry Brown was incapable of talking about politics, and although he thought about it, obsessed over it, nonstop, he flatly refused to talk about anything related to the election. Jacques called from France, occupied with personal business that required his presence in Paris, and the two of them talked about the World Series and its implications on the wider realm of baseball for 30 minutes, not mentioning the election once. Even when Pat came around, trying to start a discussion on how some of the folks on the ground were seeing odd signs, and Jodie came in discussing what he would have to do in the case of a tight victory, he waved them off and focused on reading some Camus, who had always intrigued him.
+              </p>
+              <p>
+              After dinner, a bass filet with asparagus on the side, he finally decided that the time had come and turned on the television. He landed on CBS, where Dan Rather was interpolating updates on the vote count with quick interviews with various figures, talking about fairly bland topics such as why people choose to vote the way they do. As the results came in, things were looking slightly less optimal than he had hoped.
+              </p>
+              <p>
+              For hours, Jerry stressed over the results, calling everyone with a brain that he knew to see what his chances were. Then, sometime in the early morning, they finally counted up all the votes, and that was that. Jerry Brown had lost. As he finally exited the room and entered into the suite, the faint traces of daylight had already arrived. Everyone was sad–Jody was lightly crying, Pat was rubbing his temples–but everyone seemed less generally distraught and more like they had lost a boxing match on a split decision and didn’t know what to think. He looked around, and nobody even seemed to recognize that he was there. He shrugged and walked over to the phone, typing in the numbers to a special line in Houston.
+              </p>
+              <p>
+              “President Bush,” said Jerry, in the most emotionless, lawyerly tone he had, “it looks like congratulations are in order.” 
+              </p>
+              <p>
+              “I appreciate that, Governor. You know, that’s probably the closet-fun thing we’ve had in some years. That’s how it goes, I guess.”
+              </p>
+              <p>
+              Jerry could sense the fear in his voice, the gnawing sense that Bush had escaped from the election rather than won it. “Yeah, I just tried to do my best, and that wasn’t good enough this time. Almost. Maybe some other time.”
+              </p>
+              <p>
+              Busy audibly shrugged, not sure what to say. “That’s life. It’s definitely something that I’ve had the time to learn over the years. But we can discuss this at some other time. I’m old, and I need a break.”
+              </p>
+              <p>
+              Jerry said some pleasantries, and then hung up. It was only fair to let the old bastard get his rest. Jerry wasn’t the youngest man either, and he had the motions to go through. First, everyone still left in the suite was treated to a very simple and short thank you speech in which Jerry said the absolute bare minimum necessary and offered his condolences. It was the least they deserved. 
+              </p>
+              <p>
+              Then came the concession speech, which was more of the same. Lots of people voted for him, enough to win massive swathes of the population, enough to build an army of millions of Brown voters, but it wasn’t enough. Compared to where he had started, it was something to be proud of, but he would end right where he originated, without office, without power. Finally, the cameras shut off, and he excused himself from public life.
+              </p>
+              <p>
+              By this point, it was well and truly daytime, and yet he didn’t feel tired at all. He found his way into a car with a driver, and simply asked to go south. And just like that, Jerry was just another of one of the millions of souls in California fighting their way through the morning’s traffic. Slowly, the hectic energy of the bay receded until it was only a glimmer of light on the highway and not the all-encompassing force of downtown.
+              </p>
+              <p>
+              The car stopped, and all of a sudden, Jerry remembered where he was and why he had come here. Los Gatos was a small town, but it contained a place hat was very special to him, the novitiate where he had spent all those years back when he had harbored dreams of becoming a priest. Maybe he should have continued down that path, he thought. It could’ve saved him a lot of trouble. 
+              </p>
+              <p>
+              And yet, he wasn’t as troubled as he thought he would be. His normal reaction to a loss was to start plotting, or failing that, to collapse if the loss was bad enough. But there was none of that. It hurt, but not badly enough to cripple him. No, he just needed guidance. He didn’t know if he wanted to do this whole politics thing anymore–except maybe he did. He didn’t know if he wanted anything at all–or if he wanted everything. So, with that, he got out of the car and walked towards the church. He just needed a bit of guidance.
+              </p>
               `
           }
   ]
