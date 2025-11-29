@@ -35636,28 +35636,39 @@ new MutationObserver(() => {
               "ending text": `
                   <h2>Whatever Happened to Ronald Reagan?</h2>
   
-                  The Atlantic 
-                  Max Boot
+                  <h4>The Atlantic</h4>
+                  <h4>Max Boot</h4>
   
+                  <p>
                   Tulsi-Gabbard’s right-wing worldview has a lot of critics, many of them Republicans in her own party, who argue that Ronald Reagan would “roll over” or “turn over” in his grave if he could see what is happening to his old party. Since the Gipper’s retreat from the national scene in the mid-1990s, the GOP has had mixed electoral success, but has widely been characterized as being ideologically rudderless beyond basic conservative principles–until now. The Gabbard-dominated, nationalist-corporatist GOP is certainly very different from the conservative party that Reagan led in the 1980s, and Gabbard is a very different figure, in both outlook and personality, from Reagan. But it’s also true that, however much Gabbard has changed the Republican Party since 2020 (and the changes have been enormous), the roots of Gabbardism can be traced back to Reagan’s last act, when public perceptions of the president shifted dramatically and, in the eyes of many observers, permanently damaged his political legacy. Uncomfortable as it is for many Gabbard fans to admit, the 40th president inadvertently prepared the ground for the 46th in multiple ways, just not in the ways that he intended. These similarities are a reminder that Gabbard did not emerge from nowhere, and that ridding the Republican Party of her influence won’t be easy.
-  
+                  </p>
+                  <p>
                   The differences between Gabbard and Reagan are, to be sure, substantial. Most obviously, Gabbard champions contemporary ideas of equality that Reagan, a traditionalist who constantly focused on America needing to return to core religious values, would find sacrilegious. The idea of a moderately religious Hindu dictating American social policy is diametrically opposed to everything that Reagan fought for. 
-  
+                  </p>
+                  <p>
                   Reagan was pro–free trade and anti-spending, rejecting the protectionism and anti-austerity that have been Gabbard’s hallmarks. He launched his 1980 campaign with a speech that included a proposal for a “North American Accord” to allow “peoples and commerce” to “flow more freely” across the borders between the United States, Canada, and Mexico. This idea eventually blossomed into the North American Free Trade Agreement, which Gabbard called the “dumbest idea ever.” As president, Reagan cut taxes by dramatic margins, leading to an economic boom, while Gabbard has limited herself to fairly limited, targeted tax cuts.
-  
+                  </p>
+                  <p>
                   Although Reagan, like Gabbard, did not see combat, he, unlike Gabbard, venerated U.S. diplomatic efforts and staunchly supported U.S. alliances such as NATO. Reagan would never have denounced the military as “a regrettable endeavor that I was sucked into,” denigrated Medal of Honor recipients, or told the Russians that they can do “as much as they’re able to” to U.S. allies who don’t pay more for their defense. So, too, is it inconceivable that Reagan would have raised any concerns about supporting the occupied people of the Baltic States. As president, Reagan backed anti-Communist insurgents from Afghanistan to Nicaragua. Gabbard has steadfastly resisted calls to aid the freedom fighters of Estonia, Latvia, and Lithuania.
-  
+                  </p>
+                  <p>
                   The stylistic differences between Reagan and Gabbard may be even more notable than the policy differences. Gabbard is a hardcore partisan who maligns his critics in harsh terms. Reagan, by contrast, was a consummate gentleman who seldom had a harsh word for anyone. Though he was at the fringes of his party, he always practiced respect for his opponents. A product of the early-20th-century, small-town Midwest, Reagan, even in the privacy of his own diary, never spelled out hell and damn (instead writing “h---l” and “d---n”). Reagan revered America as a “shining city on a hill” and ran for reelection in 1984 claiming it was “Morning in America.” Reagan would never say, as Gabbard just did, that “the American dream is dead” and that “our country is in a death spiral.” Reagan inspired hope, whereas Gabbard spreads fear.
-  
+                  </p>
+                  <p>
                   Despite their many differences, however, the only two presidents to have been divorced also share some significant similarities. Reagan was a populist who reviled the government he led, even if he did not call it the “deep state,” and belittled expertise. He often quipped, “I’ve always felt the nine most terrifying words in the English language are: I’m from the Government, and I’m here to help.” Gabbard sees that government as needing fundamental change instead of shrinkage, but Reagan’s ideas intensified the anti-government mood that Gabbard has exploited in recent years. Reagan’s policies, tilted toward the wealthy, exacerbated income inequality, thus also contributing to the backlash that Gabbard now harnesses.
-  
+                  </p>
+                  <p>
                   So, too, did Reagan’s campaign rhetoric sometimes contain the extremism espoused today by Gabbard. Early in his political career, Reagan regularly accused Democrats of plotting to turn America into a socialist and even communist country with their welfare programs. In his famous 1964 “Time for Choosing” speech, Reagan accused Democrats of “taking the party of Jefferson, Jackson, and Cleveland down the road under the banners of Marx, Lenin, and Stalin.” Reagan later moderated his rhetoric; Gabbard never has.
-  
+                  </p>
+                  <p>
                   With these similarities, then, is it possible to imagine a scenario where Gabbardism eventually goes the way of Reaganism? Although current generations might not know it, Reagan was, at one point, the most highly respected politician in the country. Beyond his landslide victories in 1980 and 1984, it was on the strength of his continued popularity that George Bush was able to win a second term in 1992, with Reagan serving as the de facto candidate for much of the campaign due to Bush suffering a horrific injury. However, people today best remember Reagan for his fading mental state in the second Bush administration, a problem that was intensified by Bush’s insistence on keeping Reagan on as an official advisor making public addresses, even after it was clear that Reagan had Alzheimer’s. Not only did Reagan’s mental state damage his reputation (his approval rating today sits at a mere 44%, well under the 63% he exited his presidency with), but it also damaged his and Bush’s political project. The reductions in government size and regulations that occurred under Reagan’s presidency were thought to be indefinite during the 16 years he and Bush were in office and endorsed to some extent by many Democratic challengers (especially 1992 Democratic candidate Jerry Brown), but the succeeding Schwarzkopf administration would prove to expand the size of the government, increase its regulatory power, and raise taxes and spending, changes that future administrations would continue.
-  
+                  </p>
+                  <p>
                   However, until now, Reagan’s power has remained crystalized in the GOP mindset. As the last successful Republican administration, with the ruinous second half of Bush’s presidency (to say nothing of Reagan’s own association with it, as previously mentioned) and the somehow even worse single term of Giuliani, before Gabbard, Reagan was the only Republican whose ideas were able to galvanize the entire party and lead to an entire presidency that could at least somewhat be characterized as successful in its goals. In this sense, he held the odd dual position of the broader public having some level of disdain for him even as the Republican party was forced to cling to him out of necessity, with each successive presidential challenger hoping to seize the crown of a new Reagan and recreate his legacy without the mental decline which is synonymous with his name. Now, with Gabbard’s magnetic hold over her party and the possibility of her cementing her place in the American presidential canon by winning a second term this November, she has the chance to completely cast off Ronald Reagan’s legacy for good and create a new Republican party focused on Gabbardism, one where Gabbard’s proposals for an alliance with Russia are a norm instead of a shocking concession.
-  
+                  </p>
+                  <p>
                   We should not exaggerate the similarities between Reagan and Gabbard. If Reagan were alive today, he undoubtedly would be criticized by Gabbard supporters as a RINO (“Republican in name only”). But Reagan, like other Republican politicians of earlier eras, helped set the GOP—and the country—on the path that led it to embrace Gabbard. The question for the Republican Party now is: What comes next? Will the party continue moving ever further to the right, toward a Viktor Orbán–style authoritarian movement that would presumably have Reagan (an avid believer in democracy) doing more spinning in his grave? Or will it revert to being a more center-right party in the Reagan mold? In the 1980s, “Reaganism” represented a right turn for the GOP. Today it would represent a much more complex turn to the left and right at the same time—still overall a restoration of a more moderate, if still conservative, outlook. That may still happen. But only if Gabbard loses decisively in November—and even then, it won’t be easy.
+                  </p>
                   `
           },
           {
@@ -35670,25 +35681,35 @@ new MutationObserver(() => {
                       "Running Mate": e.running_mate_last_name
               },
               "ending text": `
+                  <h3>
                   Conservapedia
+                  </h3>
   
-                  Jerry Brown Washington National Airport is one of two major airports serving Washington D.C. In 2003, a hostile and partisan Democratic Congress passed a bill renaming it after former president Jerry Brown as part of the larger efforts to create a cult around him, which weak-willed RINO Bill Weld signed into law. Unlike Dulles Airport, which receives international flights, Brown does not have an immigration center and only receives flights from an approved list of airports, making it a perfect hotspot for human and child trafficking. 
-  
+                  <p>
+                  Jerry Brown Washington National Airport is one of two major airports serving Washington D.C. In 2003, a hostile and partisan Democratic Congress passed a bill renaming it after former president Jerry Brown as part of the larger efforts to create a cult around him, which weak-willed RINO Bill Weld signed into law. Unlike Dulles Airport, which receives international flights, Brown does not have an immigration center and only receives flights from an approved list of airports, making it a perfect hotspot for human and child trafficking.
+                  </p>
+                  <p>  
                   Notably, the airport’s logo resembles a hate symbol, with the UK Counter Terrorism Policing agency listing it next to the swastika as "symbols commonly associated with white supremacy" since Neo-Nazis have used the symbol. It is largely believed that airport staff, who are overwhelmingly urban Democrats, are in cahoots with the human trafficking rings that operate in it, with one expose by Sovereign Patriot News revealing that traffickers had a “prayer to Jerry Brown to commemorate making it through the airport.”
-  
+                  </p>
+                  <p>
                   Unlike Dulles, Brown advances the Soros-backed homosexual agenda with gay pride parades, changing their hate-symbol logo every June to include rainbow colors. Also in contrast with Dulles, Brown’s governance is overseen by a special leadership council which is liberal and under the influence of western globalists who seek to control air travel.
-  
+                  </p>
+                  <p>
                   Multiple surveys of America’s airports have described Brown as one of the worst airports in the country, with Breitbart News calling it “an abysmal, inefficient eyesore in the capital” and the Prepper Times calling it “the worst place on the planet to get a connection.” Although many biased organizations such as CNN and MSNBC rank it highly, this is likely a liberal psy-op seeking to continue the cult of associating Jerry Brown’s name with good things. 
-  
+                  </p>
+                  <p>
                   Jerry Brown himself is said to be fond of the airport, although he expressed surprise at it being renamed after him, stating “I’m very honored, but also very shocked that anyone thought highly enough of me to christen a whole airport in my name, while I’m still alive. From now on, every time I fly there, it’s going to feel odd.” In this extremely rare case, Brown was correct about something.
-  
+                  </p>
+                  <p>
                   See also:
+                  </p>
+                  <p>
                   Edmund Gerald Brown Junior Monument
-                  Browncare
-                  National High Speed Rail Service 
-                  United States Versus Cargill
-                  Net Zero Emissions
-  
+                  Browncare<br>
+                  National High Speed Rail Service<br> 
+                  United States Versus Cargill<br>
+                  Net Zero Emissions<br>
+                  </p>
                   `
           },
           {
@@ -35701,117 +35722,169 @@ new MutationObserver(() => {
                       "Running Mate": e.running_mate_last_name
               },                 
               "ending text": `
-                  Jerry Brown: Hey, uh, Dad, this is Jerry calling. Are you there?
-  
+                  <p>Jerry Brown: Hey, uh, Dad, this is Jerry calling. Are you there?
+                  </p>
+                  <p>
                   Pat Brown: I’m here, I’m here. How are you?
-  
+                  </p>
+                  <p>
                   Jerry: You know, I’m feeling pretty good. Really good, actually. I got my cup of coffee, I’m watching the sun come up over San Francisco Bay. Life is good.
-  
+                  </p>
                   Pat: I watched the results on TV last night. Congratulations, son. I’m so happy for you.
-  
+                  <p>
                   Jerry: Thanks, dad, I really appreciate it. You, uh, it feels almost like I’ve avenged you, in a way.
-  
+                  </p>
+                  <p>
                   Pat: What do you mean, you avenged me? 
-  
+                  </p>
+                  <p>
                   Jerry: I just mean back 26 years ago, when you lost to Ronald Reagan. The actor, the far-right loon. Well, I beat him. It was Bush’s name on the ticket, but I beat Reagan, I really did.
-  
+                  </p>
+                  <p>
                   Pat: Yeah. You did, huh?
-  
+                  </p>
+                  <p>
                   Jerry: Reagan, I worked with him, and I personally thought that he wasn’t too bad, on a human level, but the impacts of what he did were pretty evil. He had to go.
-  
+                  </p>
+                  <p>
                   Pat: You’re right, he did have to go. But you have to bury him, you understand me?
-  
+                  </p>
+                  <p>
                   Jerry: I think that I maybe understand you? Define “bury” for me.
-  
+                  </p>
+                  <p>
                   Pat: You remember ‘62, against Nixon? Kathy was so terrified that I lost that she cried herself to sleep, but just like you, I won against all odds.
-  
+                  </p>
+                  <p>
                   Jerry: Yeah, I remember that one well.
-  
+                  </p>
+                  <p>
                   Pat: You remember Nixon’s last press conference? His last, ever. Said that we wouldn’t have Nixon to kick around anymore.
-  
+                  </p>
+                  <p>
                   Jerry: Yeah, I remem–oh. I get it.
-  
+                  </p>
+                  <p>
                   Pat: That’s what I mean. Hatred is like a… oh, it’s like a chimera. You can cut it down as many times as you like, but you can’t kill it without extreme measures.
-  
+                  </p>
+                  <p>
                   Jerry: You think that’s what Reagan is? Hatred?
-  
-  
+                  </p>
+                  <p>
                   Pat: I know it. I tried to play nice with Reagan, when he became elected president, said some things that people wanted to hear, but let me be honest with you: I have no respect for that man. Never have, never will. Successful, but vapid and evil. I mean, so was Hitler, so was Stalin.
-  
+                  </p>
+                  <p>
                   Jerry: So how do you defeat hatred? I mean, I have my own ideas, but what do you think we need to do to beat hate?
-  
+                  </p>
+                  <p>
                   Pat: You have to prove it’s worthless to the people. But the people, they’re only going to believe you if you give it to them concretely. You gotta put an extra $20 in their pocket. You gotta make their commute to work 15 minutes shorter. Otherwise, they give in. 
-  
+                  </p>
+                  <p>
                   Jerry: That makes a lot of sense. So you think that I’ve got to do that now that I’m the, I’m the President?
-  
+                  </p>
+                  <p>
                   Pat: Yes, that’s what you’ll have to do. But you need to act fast. In our democracies, it takes five years to build something and a month to destroy it. I spent eight years in Sacramento, and I’m proud of what I did, but there’s a lot of that which Reagan turned around. Same goes on the national scale.
-  
+                  </p>
+                  <p>
                   Jerry: I remember that, yeah. I didn’t think it was all bad, but I do think it’s fair to say that there was a lot that he tore up for no reason other than that GE wanted him to tear it up.
-  
+                  </p>
+                  <p>
                   Pat: That’s right, and it’s going to be even harder than that. The moment you take your hand off that bible and make your solemn vow, the vultures are going to be on you.
-  
+                  </p>
+                  <p>
                   Jerry: That’s pretty horrible. I think that when I was in Sacramento, it wasn’t so bad, but–
-  
+                  </p>
+                  <p>
                   Pat: I’m going to lay it out for you. The nation isn’t California, son. It’s not as developed, it’s not as free-thinking. You have a few years, tops, before you’re going to get stymied. JFK had two. LBJ had three. Carter had none. Even a great man like FDR, he had only five or six years before Russell and Taft reared their heads. The clock is ticking.
-  
+                  </p>
+                  <p>
                   Jerry: I see. But maybe I don’t want to expand the government. Maybe I just want to change it, make it better. Make our country better. We don’t always need a regulatory board to do that.
-  
+                  </p>
+                  <p>
                   Pat: You know, Jerry, we’ve always had this disagreement. I get it. But I’m telling you, as a man who was once entrusted with great power, as your… as your father, there are millions of people out there whose lives could be better. We can turn the other cheek, or we can give them a hand up. And I’m not saying that every bum needs some spare change. But some of them do, because they won’t get it otherwise.
-  
+                  </p>
+                  <p>
                   Jerry: That’s uh… wow. I agree with you. I’ll have to think about it. You make some good points, dad. You do.
-  
+                  </p>
+                  <p>
                   Pat: I’m glad you’re acknowledging that. You know, you were always more your mother’s kid. I got Kathy, your mother got you. Emotionally, at least.
-  
+                  </p>
+                  <p>
                   Jerry: Oh, thanks for reminding me. I’ll call Kathy later, Barbara and Cynthia too. Is mom up right now? 
-  
+                  </p>
+                  <p>
                   Pat: She’s up, but one of her friends has a daughter who’s just getting into golf, so she’s over at the links giving the girl some tips. She should be back in a few hours.
-  
+                  </p>
+                  <p>
                   Jerry: That’s great; I’l make sure to call her then. I, uh, is there anything else we should talk about, before I hang up? From here on out, my schedule is going to be, I mean, just absurdly busy. 
-  
+                  </p>
+                  <p>
                   Pat: You know, you never needed me, as governor. Kathy had me swear her in as treasurer, but you never called.
-  
+                  </p>
+                  <p>
                   Jerry: I’m sorry, dad.
-  
+                  </p>
+                  <p>
                   Pat: No, don’t be sorry. You remember when I called Kathy the real politician in the family?
-  
+                  </p>
+                  <p>
                   Jerry: That was my 50th birthday party. Of course I remember. You said that in front of everyone.
-  
+                  </p>
+                  <p>
                   Pat: I never got the chance to explain, but… but… that’s not a bad thing. She’s a politician, just like her old man. Jerry, you’ve run for office more than most people have, and you’re the president–God, you’re the president–now, but you’ve never been a politician. You’re too serious of a man to be one.
-  
+                  </p>
+                  <p>
                   Jerry: I think that the cat’s out of the bag at this point. I don’t know if you can be a governor and a president without being a politician.
-  
+                  </p>
+                  <p>
                   Pat: It’s not what your job title is, but who you are. Kathy calls me asking for advice on how to talk to donors; you call me asking if I can donate to Mother Teresa. And I’ll admit, I had my doubts–
-  
+                  </p>
+                  <p>
                   Jerry: –Yeah, I know the doubts–
-  
+                  </p>
+                  <p>
                   Pat: But despite all that, you won. You’re on top now. So go out there and be the man you’ve always been. And yes, I’m giving you advice and will continue to give advice, some of it very important, but you’re enough of your own man to decide whether you want to listen. Kathy would just nod and do exactly as I say. She’s a good politician who’s also a good woman. You’re a good man who’s also a good politician.
-  
+                  </p>
+                  <p>
                   Jerry: …Uh…
-  
+                  </p>
+                  <p>
                   Pat: Are you still there?
-  
+                  </p>
+                  <p>
                   Jerry: I’m still here, I’m still here. Sorry, the sun’s just really hitting the bay waters now. It’s a good vista from up here.
-  
+                  </p>
+                  <p>
                   Pat: Well, I won’t hold you too long. You’re going to have to start making some big decisions starting very soon. So good luck. We can always talk later.
-  
+                  </p>
+                  <p>
                   Jerry: Yeah, it’s going to be a busy day. We should get lunch sometime this week, though. I’ll make time to come to Pasadena.
-  
+                  </p>
+                  <p>
                   Pat: That would be lovely. When Bernice comes back, I’ll tell her. Maybe you two can hammer out the details when you call her.
-  
+                  </p>
+                  <p>
                   Jerry: We’ll figure it out. Okay, bye, dad.
-  
+                  </p>
+                  <p>
                   Pat: One more thing, son.
-  
+                  </p>
+                  <p>
                   Jerry: What?
-  
+                  </p>
+                  <p>
                   Pat: I’m proud of you, son.
-  
+                  </p>
+                  <p>
                   Jerry: Well… thank you, dad.
-  
+                  </p>
+                  <p>
                   Pat: Anyways, I love you. See you soon.
-  
+                  </p>
+                  <p>
                   Jerry: Love you too, dad.
-              `
+                  </p>
+                  `
           },
           {
               "pk": "Kurt Cobain", /// not adding the image here
@@ -35823,36 +35896,41 @@ new MutationObserver(() => {
                       "Running Mate": e.running_mate_last_name
               },           
               "ending text": `
-                  ROLLING STONE- Feb 2017
-                  Cobain at 50
+                  <h3>ROLLING STONE- Feb 2017</h3>
+                  <h4>Cobain at 50</h4>
   
-                  Kurt Cobain, better known as the supposed voice of Generation X, has lived a much different life since the disbandment of Nirvana in 1994 after tensions due to Cobain’s drug use and backing out from headlining Lollapalooza that very same year. Ever since, he has remained focused on his own solo career shortly, alongside his side pursuit of painting, with his first public exhibition showing in 2001 and his most recent exhibition wrapping up in 2016. At 50, how does one of the single most famous men in the world stack up compared to the image that the public has spent over 25 years constructing?
+                  <p>Kurt Cobain, better known as the supposed voice of Generation X, has lived a much different life since the disbandment of Nirvana in 1994 after tensions due to Cobain’s drug use and backing out from headlining Lollapalooza that very same year. Ever since, he has remained focused on his own solo career shortly, alongside his side pursuit of painting, with his first public exhibition showing in 2001 and his most recent exhibition wrapping up in 2016. At 50, how does one of the single most famous men in the world stack up compared to the image that the public has spent over 25 years constructing?</p>
   
-                  Cobain shows us around his Seattle home, where there’s an assortment of finished and unfinished paintings, a few guitars, his large collection of records, and other trinkets, before sitting down for an interview over a pot of black coffee.
+                  <p>Cobain shows us around his Seattle home, where there’s an assortment of finished and unfinished paintings, a few guitars, his large collection of records, and other trinkets, before sitting down for an interview over a pot of black coffee.</p>
   
-                  There’s been a lot of talk about a potential new Nirvana album after Krist Novoselic publicly talked about reopening communication with you and Dave. Do you have any regrets about the band’s original run?
-                  “It was too much, too fast. While I’ve kind of grown used to the fame and had a lot of time to really bask in what it feels like, none of us knew what we were getting into then. We were in our early to mid twenties, and after Nevermind, it never seemed like what we were doing was enough to really satisfy the public. So, naturally, we began trying to one-up our Nirvananess, trying to come up with a purer version of what made us special. Once touring began for In Utero, I realized that it wasn’t self-sustainable. It was killing me.”
+                  <p>There’s been a lot of talk about a potential new Nirvana album after Krist Novoselic publicly talked about reopening communication with you and Dave. Do you have any regrets about the band’s original run?</p>
+                  <p>“It was too much, too fast. While I’ve kind of grown used to the fame and had a lot of time to really bask in what it feels like, none of us knew what we were getting into then. We were in our early to mid twenties, and after Nevermind, it never seemed like what we were doing was enough to really satisfy the public. So, naturally, we began trying to one-up our Nirvananess, trying to come up with a purer version of what made us special. Once touring began for In Utero, I realized that it wasn’t self-sustainable. It was killing me.”</p>
   
-                  In Utero was Nirvana's last album. With the twenty-fifth anniversary next year, do you have any special memories while recording it? Do you think the album holds up?
-                  “Absolutely. We wanted In Utero to be the exact opposite of Nevermind. We spent two weeks recording in the middle of nowhere in Minnesota during the winter, and it was great. I remember us prank calling Gene Simmons, and Dave throwing his cymbals to get the icicles off the building. Until DGC executives heard the album, it was as personal of a recording experience as I’ve ever had. I don’t regret a thing though. I honestly think, speaking as the biased man who played guitar and sang on the album, that it holds, in a way that I sometimes think that Bleach and Nevermind don’t hold. For the 25th anniversary next year, I’ve been talking with some of our engineers for that album, as well as Krist and Dave, and we definitely want to release some of the original mixes to the public. Hopefully, people can wait a year.
+                  <p>In Utero was Nirvana's last album. With the twenty-fifth anniversary next year, do you have any special memories while recording it? Do you think the album holds up?</p>
+                  <p>“Absolutely. We wanted In Utero to be the exact opposite of Nevermind. We spent two weeks recording in the middle of nowhere in Minnesota during the winter, and it was great. I remember us prank calling Gene Simmons, and Dave throwing his cymbals to get the icicles off the building. Until DGC executives heard the album, it was as personal of a recording experience as I’ve ever had. I don’t regret a thing though. I honestly think, speaking as the biased man who played guitar and sang on the album, that it holds, in a way that I sometimes think that Bleach and Nevermind don’t hold. For the 25th anniversary next year, I’ve been talking with some of our engineers for that album, as well as Krist and Dave, and we definitely want to release some of the original mixes to the public. Hopefully, people can wait a year.</p>
   
-                  Is there a moment in particular that really changed your perception, especially during those early years? You went from recording and touring all of the time to slowing down dramatically, and you’ve spoken in depth about how much you feel that your perception of the world changed in the leadup to the breakup.
-                  It was really a whole year. 1992 was the most life-changing year I think I had… It was when everything reached its peak with Nevermind, and when I was becoming a father. It was scary! I didn’t know what to do. I had just turned 25, and here I am playing a benefit show with the next President of the United States. It fucks with your head. I entered that year a much, much different man than I left it. It was just a decade of growth packed into a year.”
+                  <p>Is there a moment in particular that really changed your perception, especially during those early years? You went from recording and touring all of the time to slowing down dramatically, and you’ve spoken in depth about how much you feel that your perception of the world changed in the leadup to the breakup.</p>
+                  <p>It was really a whole year. 1992 was the most life-changing year I think I had… It was when everything reached its peak with Nevermind, and when I was becoming a father. It was scary! I didn’t know what to do. I had just turned 25, and here I am playing a benefit show with the next President of the United States. It fucks with your head. I entered that year a much, much different man than I left it. It was just a decade of growth packed into a year.”</p>
   
-                  That concert, No On #9, has been very extensively covered since the fact. What were your emotions about it at the time?
-                  The #9 ballot issue was something that really resonated with me, just that people could have such hate in their hearts. When I saw there was a chance to take a stand against it, I took it. But all of a sudden, there’s a bunch of security everywhere backstage, and suddenly, there I was with Brown. I liked him, and I even donated to him during the primaries that year, but I hadn’t expected him to be there, so it was a stunner. I was shell shocked during the concert. I wouldn’t describe myself as Democrat or Republican, because I think there’s major issues with both parties, but when he ran, he made me believe there was an actual chance for someone with a conscience to be leader. We haven’t had anyone as good in the White House since him, I’ll say that.
+                  <p>That concert, No On #9, has been very extensively covered since the fact. What were your emotions about it at the time?</p>
+                  <p>The #9 ballot issue was something that really resonated with me, just that people could have such hate in their hearts. When I saw there was a chance to take a stand against it, I took it. But all of a sudden, there’s a bunch of security everywhere backstage, and suddenly, there I was with Brown. I liked him, and I even donated to him during the primaries that year, but I hadn’t expected him to be there, so it was a stunner. I was shell shocked during the concert. I wouldn’t describe myself as Democrat or Republican, because I think there’s major issues with both parties, but when he ran, he made me believe there was an actual chance for someone with a conscience to be leader. We haven’t had anyone as good in the White House since him, I’ll say that.</p>
   
-                  When you spoke out in favor of gay rights, it was decidedly unpopular. Now, we’ve reached the half-decade mark of nationwide gay marriage. How does it feel to be ahead of the curve?
-                  I guess it feels good, but truth be told, I’m not really the sort to feel extremely vindicated over something like that. I’m proud that I’ve been able to stand for what was right before that was the popular thing to do, but I don’t belittle others for taking the time to come around on it. It’s hard to do. Going off of that, though, seeing the progress we’ve made just absolutely warms my heart. As broken as our politics can be, I think we’ve made huge strides in making this country a place where everyone can be who they want to be and love who they want to love. I couldn’t imagine that in 1992.
+                  <p>When you spoke out in favor of gay rights, it was decidedly unpopular. Now, we’ve reached the half-decade mark of nationwide gay marriage. How does it feel to be ahead of the curve?</p>
+                  <p>I guess it feels good, but truth be told, I’m not really the sort to feel extremely vindicated over something like that. I’m proud that I’ve been able to stand for what was right before that was the popular thing to do, but I don’t belittle others for taking the time to come around on it. It’s hard to do. Going off of that, though, seeing the progress we’ve made just absolutely warms my heart. As broken as our politics can be, I think we’ve made huge strides in making this country a place where everyone can be who they want to be and love who they want to love. I couldn’t imagine that in 1992.</p>
   
-                  Last but not least, I’m sure you’ve heard the rumors. It’s public knowledge that you, Krist, and Dave have been talking again. Could Nirvana ever see a reunion?
-                  I think that there’s a narrative that Krist and Dave and I are on bad terms, but that’s not the case. Nirvana had run its course, but, I mean, our relationships as humans are still there. I’ve seen both guys dozens of times since the band broke up. But these rumors are just that–rumors. All Krist really meant, in that report that everyone got excited over, was that the three of us had a groupchat.
+                  <p>Last but not least, I’m sure you’ve heard the rumors. It’s public knowledge that you, Krist, and Dave have been talking again. Could Nirvana ever see a reunion?</p>
+                  <p>I think that there’s a narrative that Krist and Dave and I are on bad terms, but that’s not the case. Nirvana had run its course, but, I mean, our relationships as humans are still there. I’ve seen both guys dozens of times since the band broke up. But these rumors are just that–rumors. All Krist really meant, in that report that everyone got excited over, was that the three of us had a groupchat.</p>
   
-                  But could Nirvana ever see a reunion?
+                  <p>But could Nirvana ever see a reunion?</p>
+                  <p>
                   Never say never, but it would require all three guys having the right amount of passion. I suspect that an ungodly large sum of money would be involved.
-  
+                  </p>
+                  <p>
                   So, probably not?
+                  </p>
+                  <p>
                   It’s unlikely, but don’t count it out forever. I’ll just say that.
+                  </p>
                   `
           },
           {
@@ -35866,7 +35944,7 @@ new MutationObserver(() => {
               },           
               "ending text": 
               `
-                  Buchanan Voters and Midwestern Whites
+                  <h1>Buchanan Voters and Midwestern Whites</h1>
                   Robert K. Morgan, Hyeon Kyung
                   University of California Santa Cruz
                   Journal of Political Science
