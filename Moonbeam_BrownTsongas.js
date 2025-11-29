@@ -35043,7 +35043,7 @@ new MutationObserver(() => {
       var endingstuff = {
           "Win Type": (function(val) { return (aa[0].electoral_votes >= 270 && aa[0].candidate == 79) ? "Perot" : val >= 348 ? "Massive Win" : val >= 310 ? "Decent Win" : val >= 270 ? "Close Win" : val === 269 ? "Deadlock" : val >= 230 ? "Close Loss" : val >= 190 ? "Decent Loss" : val < 190 ? "Massive Loss" : "error";})(playerEV),
           "Answer Check": true,
-          "Establishment Use": endingstuff["Establishment Use"],
+          "Establishment Use": estab,
           "Running Mate": e.running_mate_last_name
   }
   
