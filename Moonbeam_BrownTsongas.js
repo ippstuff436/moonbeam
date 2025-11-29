@@ -35125,23 +35125,33 @@ new MutationObserver(() => {
                   <p>
                   After dinner, which was a decidedly simple affair of rice and beans, he finally decided that the time had come and turned on the television. He landed on CBS, where Dan Rather was interpolating updates on the vote count with quick interviews with various figures, talking about fairly bland topics such as why people choose to vote the way they do. Already, the map was mostly colored blue, with margins in the safe states beyond the campaign’s highest expectations.
                   </p>
+                  <p>
                   The blue began to spread across the nation, sweeping the swing states and refusing to stop there, creeping into several states that he thought he’d need a miracle to win in. Even though they hadn’t called it yet, he knew it was about to happen: Jerry Brown was going to be president of the United States of America. He sat back in his chair, taking it all in, as the emotions that he had been holding in for so long began slowly seeping out of him, briefly reducing him to a quivering heap.
+                  </p>
                   <p>
                   As the networks called electoral vote 270, a surge of jubilation swept the suite. Jodie was literally bouncing up and down with excitement, screaming at nobody for the sheer purpose of expressing her joy. Stewart Brand, back from a transcendental trip somewhere, was leading a toast of a whole group of celebrities who had flown in from Beverly Hills, a group of people so collectively famous that they inevitably phased together into one bloc of limelight. Pat Caddell was out on the balcony, drinking something obscenely expensive.
                   </p>
+                  <p>
                   Jerry, having finally worked through his emotions, got up, forcing his way through a buzzing throng of people eager to congratulate him, and made his way to a bathroom, where he locked himself in. He turned on the faucets and threw a bit of cold water on his face, then forced himself to look in the mirror. 54 years old, hair thinning, wrinkles growing, he was a far cry from the electrifying young man he had been back when he was new to the game, when he had been more celebrity than politician. But the middle-aged man looking back at him in the mirror had something in his eyes that the young man didn’t have, a sort of imperceptible strength that could only come from the realization that he had gone from a washed-up also-ran to the most powerful man in the world.
+                  </p>
                   <p>
                   He wasn’t entering office in some sort of fluke or some sort of hypercompetitive race decided at the margins. No, he had blown Bush out of the water, taking him down along with the entire confederacy of corruption, careerism, and campaign consulting. He had asked the people, begged them with all of his heart, to do the right thing and take back America. And they had listened. Now, he would be entering the White House with a mandate, with a Democratic House and Senate which owed their huge margins to him directly. As vast and deep-rooted as the problems facing the country were, he had been given the tools to fix them. It was all in his hands now.
                   </p>
+                  <p>
                   Jerry unlocked the bathroom door and entered into a state of pandemonium, with everyone rushing towards him, just trying to get the tiniest piece of the new president. This time, he obliged them, slowly making his way through the crowd with a smile, one that for the first time in far too long, was reflected in his eyes.
+                  </p>
                   <p>
                   Someone shoved a phone at him, and he picked it up. He knew exactly who was on the other line, an old, defeated, corrupt shell of a man whose power as commander-in-chief was reduced to being forced to follow a stupid tradition.
                   </p>
+                  <p>
                   “Well, Governor–I mean, President-elect–Brown, I guess I’d call to congratulate you. I hope you’re doing well at this time, and I want to let you know that you’ll have our full support in creating a smooth transition of power.”
+                  </p>
                   <p>
                   “Yeah, thank you, that’s great.” There was no point in trying to one-up Bush. As much as he despised the man and despised the things he had done, the voters had already done the job of destroying Bush for him. There was no point in twisting the knife.
                   </p>
+                  <p>
                   “Regardless of our differences, I just want to say good luck as president. It’s a difficult job, and you’re going to have to make some big decisions. So, once again, good luck.”
+                  </p>
                   <p>
                   “Thank you very much, Mr. President. I’m sure that we’ll meet pretty soon and have a chance to talk some more.”
                   </p>
@@ -35169,32 +35179,45 @@ new MutationObserver(() => {
                       "Running Mate": e.running_mate_last_name
               },
               "ending text": `
+                  <p>
                   Tucked away in the penthouse suite at the Fairmont in San Francisco, Jerry Brown was incapable of talking about politics, and although he thought about it, obsessed over it, nonstop, he flatly refused to talk about anything related to the election. Jacques called from France, occupied with personal business that required his presence in Paris, and the two of them talked about their interpretation of The Satanic Verses for 30 minutes, not mentioning the election once. Even when Pat came around, reporting good news from the Michigan exit poll, and Jodie came in asking if he had any ideas what a victory speech might look like, he waved them off and focused on watching the JFK movie, which he somehow had missed in theaters.
-  
+                  </p>
+                  <p>
                   After dinner, a nice cream of mushroom soup, he finally decided that the time had come and turned on the television. He landed on CBS, where Dan Rather was interpolating updates on the vote count with quick interviews with various figures, talking about fairly bland topics such as why people choose to vote the way they do. As the results came in, it was tough to tell, but it looked like the right states were tilting his way.
-  
+                  </p>
+                  <p>
                   For hours, Jerry was glued to the screen, watching results come in and taking a few calls from fellow politicians. The necessary states started to tilt blue, and then progressively bluer and bluer, until they were being called for him. He began creeping closer and closer to 270, until, suddenly, he was there: Jerry Brown was the next president. The suite was cheerful, with people hugging each other and toasting to the end of 12 years of Republican rule. Jodie was bubbly, just taking in the entire experience. In the corner, Pat simply had a massive grin on his face, confidently letting the energy of the room fuel his belief that he was completely right about Jerry the whole time.
-  
+                  </p>
+                  <p>
                   Jerry himself was content to simply let it all sink in. It had been 14 long years since 1978, and he was glad that he had finally chalked up another victory for himself. He walked out onto the suite’s balcony for a moment, to take in the fresh air. Below, he could hear the sounds of people hollering with joy, of loud music blaring and car horns honking in the street as people celebrated the elevation of one of their own to the presidency.
-  
+                  </p>
+                  <p>
                   When he walked back into the suite, someone held out a phone for him. He knew exactly who it was from, and picked it up. This one was going to be very satisfactory. 
-  
+                  </p>
+                  <p>
                   “President-elect–Brown, I think that congratulations are in order. You did a good job out there, and I promise you that my administration will help make the transition as easy as possible.”
-  
+                  </p>
+                  <p>
                   “But of course, Mr. President,” said Jerry, wanting Bush to hear every syllable of what he said, “it would be my pleasure. My people will be in touch with yours to help figure all of this out. It’s a very multidimensional process.”
-  
+                  </p>
+                  <p>
                   “That’s certainly… certainly true, Governor Brown. I should get going soon, because there’s a lot going on over here. But good luck in office. Congratulations.”
-  
+                  </p>
+                  <p>
                   “Absolutely, absolutely. We’ll have plenty more chances to talk when it’s not as busy.”
-  
+                  </p>
+                  <p>
                   Bush hung up, and Jerry handed the phone back to whoever had given it to him in the first place. Now was the time to gloat, although he didn’t want to linger on it for longer than necessary. He gathered everyone in a rough circle around him, making sure that he had everyone’s attention. As he learned, that wasn’t so difficult when you were the president. He said a few words, thanking everyone for their hard work. People didn’t really care about the specifics so much as they were glad that their chosen man was the one basking in the light of victory, and they cheered him on.
+                  </p>
+                  <p>
                   After saying his goodbyes, Jerry made his way to the exit and was whisked away to a car, the exact type of hulking, expensive beast that he had tried to get rid of as governor. At the moment, it didn’t matter too much. He had a victory speech to give in 20 minutes, in Union Square, and he could afford just a little bit of profligacy on such an important night. As he rolled through the dark streets, Jodie the only one there to keep him company, it started to dawn on him that nothing was ever going to be the same. He was president now, the newest member of the world’s most exclusive fraternity. 
-  
+                  </p>
+                  <p>
                   He thought back to his family for a moment. As much he lived in his father’s shadow, the equation was incomplete without his mother. He remembered how her story had started, that her grandfather had left Germany in 1849, departing from Hamburg on a ship called “Perseverance.” He didn’t know what specifically he believed, but he did believe that was a good sign. He was certain that the presidency wouldn’t be a primrose path, but he had faith that he was capable of navigating it safely.
-  
+                  </p>
+                  <p>
                   As the car pulled up to Union Square, cheers filling the air, he tried to do a bit of planning for the future. He had campaigned on taking back America, and he had been given the tools to make it happen. Still, there were enemies out there, and he would have to watch his back if he didn’t want to become a new Carter. There were many, many logistical elements to think of. As he got out of the car, though, he brushed all of that off. There were thousands of people gathered to meet their new president, chanting his name like he was more of a pop star than a politician. And so, he started walking to the mic, aware that the show had to go on.
-  
-  
+                  </p>
               `
           },
           {
