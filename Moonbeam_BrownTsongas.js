@@ -39042,9 +39042,9 @@ Euro Disney Begins Considering Exiting French Market
               "pk": "Eastern Europe loss",
               "conditions": {
                       "Win Type": (function(val) {return val < 270 ? endingstuff["Win Type"] : "Loss"})(playerEV),
-            "Answer Check": (function(val) {return val.includes(3360) || val.includes(114564) || val.includes(114581);})(e.player_answers),
-          "Establishment Use": endingstuff["Establishment Use"],
-          "Running Mate": e.running_mate_last_name
+                      "Answer Check": (function(val) {return val.includes(3360) || val.includes(114564) || val.includes(114581);})(e.player_answers),
+                      "Establishment Use": endingstuff["Establishment Use"],
+                      "Running Mate": e.running_mate_last_name
               },            
               "ending text": `<img src="https://www.shutterstock.com/image-photo/riga-latvia-april-2019-police-260nw-1406269334.jpg" style="margin: 0 20px 20px 0;float: left;">
               <h2> Latvian Citizen Arrested on Hate Speech Charges </h2>
@@ -39052,7 +39052,9 @@ Euro Disney Begins Considering Exiting French Market
               <p style="text-align:left;">July 21, 2025</p>
               <p>After a diplomatic incident in Riga last week where Lorimer Platt, the American ambassador to Latvia got into a widely publicized argument with a Latvian citizen during a community forum, arguing over the definition of genocide and the rights of minorities, police forces have announced that they have taken the citizen into custody on hate speech charges following a short investigation. At the community forum, the American ambassador talked about the history of genocide in his own country, prompting the Latvian citizen to argue that no such genocide had actually taken place, starting a 15-minute argument between the two men that often veered into different topics including rape denialism and racism. </p>
               <p>Although the two eventually ended their argument and the Latvian left the community forum without further incident, the American embassy reported the incident to Latvian authorities, who began investigating the citizen, as despite strong freedom of speech protections, Latvian law prohibits incitement to racial or ethnic hate and glorifying and/or denying genocide or crimes against humanity. Police were able to identify the citizen and access his online accounts, many under the moniker “Lurker” or some form of it, upon which it was discovered that he had broken multiple speech laws. Police were aided by one American internet user who eagerly was able to point out many of “Lurker’s” greatest trespasses. Although the user was contacted for an interview for this story, he only submitted a statement stating that he was a “normal person from Arkansas just trying to do the right thing.”</p>
-              <p>Currently, the accused citizen has been released from custody on bail, but if convicted in court, he faces the possibility of a fine, community service, or even possible jail time. When contacted for his thoughts on the story, American ambassador Platt was very clear with his words: “I just can’t believe that at a community forum, when I was just trying to help bridge the cultural gap between Latvia and the U.S., that this fellow felt the need to hijack the whole thing with genocide denial and all sorts of odd statements. It’s a great relief to my conscience that the police have caught him, and I look forward to more productive meetings with other Latvians in the future, to continue building a bridge between our two great countries.”</p>      },
+              <p>Currently, the accused citizen has been released from custody on bail, but if convicted in court, he faces the possibility of a fine, community service, or even possible jail time. When contacted for his thoughts on the story, American ambassador Platt was very clear with his words: “I just can’t believe that at a community forum, when I was just trying to help bridge the cultural gap between Latvia and the U.S., that this fellow felt the need to hijack the whole thing with genocide denial and all sorts of odd statements. It’s a great relief to my conscience that the police have caught him, and I look forward to more productive meetings with other Latvians in the future, to continue building a bridge between our two great countries.”</p>
+              `      
+      },
       {
         "pk": "Russia Yuri Ending",
         "conditions": {
