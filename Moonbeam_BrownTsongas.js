@@ -36660,22 +36660,21 @@ new MutationObserver(() => {
                       "Running Mate": e.running_mate_last_name
               },             
               "ending text": `
+                    <h3 style="text-align:center;">President Clinton’s address following the attacks on the United Kingdom on 9th November 2001</h3>
+                    
+                    <img src="https://i.imgur.com/8UvkRAc.png" style="width:300px;float: left;margin: 0 20px 20px 0;">                 
+                    
+                    <p>Good morning.</p>
   
-                  <img src='https://i.imgur.com/8UvkRAc.png'>
+                    <p>Last night, our closest and oldest friend the United Kingdom sustained a direct attack from terrorists. A hijacked plane crashed into Parliament during a delayed session of Question Time, killing nearly every MP present and possibly dozens of innocent people outside Parliament. This act of terror was done to try and destabilize and destroy the United Kingdom. It has failed, and the country remains secure. I recently spoke to acting Prime Minister Gerry Sutcliffe, and I can say with certainty that America will be supporting him as we work to keep the United Kingdom stable.</p>
   
-                  President Clinton’s address following the attacks on the United Kingdom on 9th November 2001
-                  Good morning.
+                    <p>I have also directed the CIA to collaborate with MI5 closely to help them uncover who exactly was responsible for this devastating attack, but one thing is very clear; the forces of terror have struck not just the United Kingdom, but every free nation at once. We must come together and work to prevent this evil from ever happening again.</p>
   
-                  Last night, our closest and oldest friend the United Kingdom sustained a direct attack from terrorists. A hijacked plane crashed into Parliament during a delayed session of Question Time, killing nearly every MP present and possibly dozens of innocent people outside Parliament. This act of terror was done to try and destabilize and destroy the United Kingdom. It has failed, and the country remains secure. I recently spoke to acting Prime Minister Gerry Sutcliffe, and I can say with certainty that America will be supporting him as we work to keep the United Kingdom stable. 
+                    <p>To the United Kingdom - I cannot honestly say I am capable of properly comprehending the devastation, the chaos or the heartbreak for the dozens if not hundreds of lives lost. But I promise this; I am with you. America is with you. And the free world is with you. You as a nation saw evil, the very worst of human nature. And you have responded with the best of human nature. With the bold actions of your rescue workers, with the compassion of strangers saving strangers and with the near immediate national unity, you have inspired us all.</p>
   
-                  I have also directed the CIA to collaborate with MI5 closely to help them uncover who exactly was responsible for this devastating attack, but one thing is very clear; the forces of terror have struck not just the United Kingdom, but every free nation at once. We must come together and work to prevent this evil from ever happening again. 
+                    <p>I hope the American people join me in a minute of silence as we listen to God Save the Queen.</p>
   
-                  To the United Kingdom - I cannot honestly say I am capable of properly comprehending the devastation, the chaos or the heartbreak for the dozens if not hundreds of lives lost. But I promise this; I am with you. America is with you. And the free world is with you. You as a nation saw evil, the very worst of human nature. And you have responded with the best of human nature. With the bold actions of your rescue workers, with the compassion of strangers saving strangers and with the near immediate national unity, you have inspired us all. 
-  
-                  I hope the American people join me in a minute of silence as we listen to God Save the Queen. 
-  
-  
-                  Thank you. And God bless the United Kingdom. 
+                    <p>Thank you. And God bless the United Kingdom.</p>
                   `
           },
           {
