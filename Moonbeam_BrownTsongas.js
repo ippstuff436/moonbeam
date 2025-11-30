@@ -36052,15 +36052,21 @@ new MutationObserver(() => {
                       "Running Mate": e.running_mate_last_name
               },                 
               "ending text": `
+                <p>
                   Presidential elections were held in the United States on November 3, 2016. Republican candidate and businessman Donald Trump and his running mate, Wisconsin Governor Scott Walker, were elected to a first term. They defeated the Democratic ticket of incumbent President Barack Obama and Vice President Mark Warner. 
-  
+                </p>
+                <p>
                   As the incumbent President, Obama secured the Democratic nomination without serious opposition. The Republicans experienced an initially competitive primary, with Trump, who had lost to Obama in 2016, running again despite a number of legal charges against him hindering his campaign. Trump secured his party's nomination in May, defeating senator Jim DeMint, businessman Herman Cain, and Texas senator Ron Paul, among other candidates.
-  
+                </p>
+                <p>
                   The campaigns focused heavily on domestic issues, and debate centered largely around sound responses to the inflation that had occurred during Obama’s term, the presence of policies meant to advance minority rights, and the American Healthcare Act. Foreign policy was also discussed, including the end of the Libyan War in 2017, military spending, and appropriate counteractions to counteract Chinese aggression in the Pacific. Trump claimed Obama's domestic policies were favored racial minorities over other individuals while Obama's campaign sought to characterize Trump as a plutocratic businessman who was out of touch with the average American.[4][5] The campaign was marked by a sharp rise in social media campaigning, both from the official campaigns and from other entities.
-  
+                </p>
+                <p>
                   Trump defeated Obama, winning 348 Electoral College votes and 51.9% of the popular vote to Obama’s 190 electoral votes and 46.2% of the popular vote.[6] He became the first president in 28 years (since Jerry Brown) unseat an incumbent and the first Republican since Orrin Hatch to win a majority of the popular vote. Reversing his results from 2016, Trump won every state considered to be Republican-leaning and swept the election’s “swing states” of Colorado, Florida, Michigan, Virginia, and North Carolina. Obama was unable to flip any states that Trump had previously won in 2016. As of 2025, this is the most recent presidential election in which the Democratic candidate won New Jersey, Oregon, and Maine.
-  
+                </p>
+                <p>
                   Trump’s campaign was characterized by its far-right rhetoric and openly racial appeals to white voters, with many describing him as the first openly far-right politician to win the presidency.[7] His official campaign manager (and future Secretary of State) was Pat Buchanan, who had been the Republican vice-presidential nominee in 1992 and had failed in two other bids for the presidency in 2000 and 2012. Although Trump’s victory was not seen as an upset, the scale of it was, with most observers being surprised at Trump’s decisive margin in both the electoral college and the popular vote.
+                </p>
                   `
           },
           
@@ -36075,16 +36081,20 @@ new MutationObserver(() => {
               },
               "ending text": 
                   `
+                  <h3>
                   January 23rd, 1997 
+                  </h3>
+                  <h3>
                   Washington DC (AP)
-                  WITH Jerry Brown settling into the first week of his second term, Americans across the political aisle are still reeling from the results of November 5th. Republicans' two-decade long effort to sway the Deep South away from Democratic clutches seem dashed, as President Brown won the Bible Belt by often considerable margins against Republican nominee Jack Kemp, only losing Mississippi and Alabama. It seems destined that 1996 will be analyzed and re-analyzed for decades to come, with its consensus as merely a political fluke or the beginning of a major party shift remaining to be seen. Still, it leaves many simply asking: what happened? 
-                  Several factors played into Brown’s victory: an incumbency boost, steady job growth under his administration, and a lackluster opponent with no clear message. However, among the most prominent of these components was Brown’s heavy appeal to the Deep South. Most Democratic presidents have required the South for some degree of victory (with minor exceptions), so it was no surprise in 1992 when Brown tapped Arkansas Senator David Pryor for VP. However, this election season went beyond balancing the ticket and making the occasional stump speech in New Orleans or Atlanta. 
-                  Throughout his first term, Brown appealed to the base that elected and re-elected his running mate in Arkansas for over 30 years by focusing on economics from a standpoint of pride, rather than income. Most prominently, he framed his gutting of the North American Free Trade Agreement (NAFTA) as a blatantly nativist victory. “We have to protect American workers,” he stated bluntly in his February 13th, 1993 press conference concerning NAFTA. “We should really be doing the opposite. Build up our workforce at home.” Although this rhetoric has also worked well in the North, you’d be hard pressed to find a city south of the Mason-Dixon Line unpolluted with campaign billboards, posters, flyers, and various advertisements championing Brown’s promotion of supposed American values. His nativist rhetoric on job security has ignited a base thought lost to the Democratic Party over a decade ago.
-                  The deafening espousal of anti-free trade and worker’s rights is contrasted by his pin drop silence on racial matters. Repeatedly on the campaign trail, Brown ducked and dodged any conversation concerning race relations in the United States. When he was finally forced to give his opinion on affirmative action bans during a primetime interview, Brown fumbled a moment before finally murmuring out that “America should be a place of equal opportunity, regardless of skin color–no preferential treatment.” This behavior is a far cry from his 1992 primary ads lambasting Governor Bill Clinton on his racial track record, claiming that Clinton and a group of Georgia politicians looked “like colonial masters” while overseeing inmates in a state prison. This disassociation from racial issues is in lockstep with the new wave of Southern Democrats, their rhetoric commonly striking a balancing act between not being perceived as racist while maintaining the votes of an intolerant base. 
-                  Focusing sharply on his southern strategy, President Brown ran circles around Kemp in many states that were safely Republican just last election cycle. Despite Kemp’s record as a hardline conservative, especially financially, he could not shake off the positions imposed on him by Brown. During their presidential debates, the President repeatedly stated how Kemp’s plans would take away working class jobs, to which the Republican nominee could only muster stammering “uhms” while making vague remarks on the benefits of free trade. Not only was Brown on the offensive, but there was a decided lack of defense and definition from the Kemp campaign, which saw the Midwest–an area that they lost by even greater margins the the South–as its primary electoral objective..The few pit stops Kemp’s campaign made, in Alabama and South Carolina, did little to rile up support for the Republican ticket.
-                  Notably, Brown and Kemp’s respective running mates also played a major factor in the race. Pryor, a born-and-raised Arkansan, was often put at the forefront of the Brown campaign, with many Southern advertisements portraying him as an equal to Brown, even teased as Brown’s successor. One advertisement which played extensively on Southern country and evangelical radio stations featured Brown and Pryor talking about their shared “old-school” values. In contrast, Kemp’s running mate, Indiana Senator Richard Lugar, filled in a ticket with no ties to the region, and during a televised interview, claimed that Southerners should “stop complaining” that the Republican ticket seemingly didn’t value their input.
-                  The outcome of 1996 inevitably leads to questions about the new millennium and the 2000 election. Above them all, will the Democratic Party maintain this Southern appeasement? A revolt of hardline liberals already tried to buck Brown’s ideology with the “draft Bradley” movement in the primaries, but were quelled by a monsoon of moderates drowning the votes from the left, and Senator Bill Bradley’s refusal to run an independent campaign. 2000 could be different if a more progressive candidate wins the nomination or chooses to run on an independent ticket, almost certainly destroying the Southern coalition and giving the presidency to a Republican. It is impossible to say this far out. 
-                  With all that said, Brown is still settling into his first week back in the White House. Will he continue to appeal to Southern causes now that he no longer needs to worry about re-election? Or will he revert back to a more liberal platform, in keeping with his prior history as Governor of California? These questions remain to be answered. One thing is certain, at least for now: the Southern Democratic Party has found its footing again.
+                  </h3>
+                  <p>WITH Jerry Brown settling into the first week of his second term, Americans across the political aisle are still reeling from the results of November 5th. Republicans' two-decade long effort to sway the Deep South away from Democratic clutches seem dashed, as President Brown won the Bible Belt by often considerable margins against Republican nominee Jack Kemp, only losing Mississippi and Alabama. It seems destined that 1996 will be analyzed and re-analyzed for decades to come, with its consensus as merely a political fluke or the beginning of a major party shift remaining to be seen. Still, it leaves many simply asking: what happened?</p>
+                  <p>Several factors played into Brown’s victory: an incumbency boost, steady job growth under his administration, and a lackluster opponent with no clear message. However, among the most prominent of these components was Brown’s heavy appeal to the Deep South. Most Democratic presidents have required the South for some degree of victory (with minor exceptions), so it was no surprise in 1992 when Brown tapped Arkansas Senator David Pryor for VP. However, this election season went beyond balancing the ticket and making the occasional stump speech in New Orleans or Atlanta.</p>
+                  <p>Throughout his first term, Brown appealed to the base that elected and re-elected his running mate in Arkansas for over 30 years by focusing on economics from a standpoint of pride, rather than income. Most prominently, he framed his gutting of the North American Free Trade Agreement (NAFTA) as a blatantly nativist victory. “We have to protect American workers,” he stated bluntly in his February 13th, 1993 press conference concerning NAFTA. “We should really be doing the opposite. Build up our workforce at home.” Although this rhetoric has also worked well in the North, you’d be hard pressed to find a city south of the Mason-Dixon Line unpolluted with campaign billboards, posters, flyers, and various advertisements championing Brown’s promotion of supposed American values. His nativist rhetoric on job security has ignited a base thought lost to the Democratic Party over a decade ago.</p>
+                  <p>The deafening espousal of anti-free trade and worker’s rights is contrasted by his pin drop silence on racial matters. Repeatedly on the campaign trail, Brown ducked and dodged any conversation concerning race relations in the United States. When he was finally forced to give his opinion on affirmative action bans during a primetime interview, Brown fumbled a moment before finally murmuring out that “America should be a place of equal opportunity, regardless of skin color–no preferential treatment.” This behavior is a far cry from his 1992 primary ads lambasting Governor Bill Clinton on his racial track record, claiming that Clinton and a group of Georgia politicians looked “like colonial masters” while overseeing inmates in a state prison. This disassociation from racial issues is in lockstep with the new wave of Southern Democrats, their rhetoric commonly striking a balancing act between not being perceived as racist while maintaining the votes of an intolerant base.</p>
+                  <p>Focusing sharply on his southern strategy, President Brown ran circles around Kemp in many states that were safely Republican just last election cycle. Despite Kemp’s record as a hardline conservative, especially financially, he could not shake off the positions imposed on him by Brown. During their presidential debates, the President repeatedly stated how Kemp’s plans would take away working class jobs, to which the Republican nominee could only muster stammering “uhms” while making vague remarks on the benefits of free trade. Not only was Brown on the offensive, but there was a decided lack of defense and definition from the Kemp campaign, which saw the Midwest–an area that they lost by even greater margins the the South–as its primary electoral objective..The few pit stops Kemp’s campaign made, in Alabama and South Carolina, did little to rile up support for the Republican ticket.</p>
+                  <p>Notably, Brown and Kemp’s respective running mates also played a major factor in the race. Pryor, a born-and-raised Arkansan, was often put at the forefront of the Brown campaign, with many Southern advertisements portraying him as an equal to Brown, even teased as Brown’s successor. One advertisement which played extensively on Southern country and evangelical radio stations featured Brown and Pryor talking about their shared “old-school” values. In contrast, Kemp’s running mate, Indiana Senator Richard Lugar, filled in a ticket with no ties to the region, and during a televised interview, claimed that Southerners should “stop complaining” that the Republican ticket seemingly didn’t value their input.</p>
+                  <p>The outcome of 1996 inevitably leads to questions about the new millennium and the 2000 election. Above them all, will the Democratic Party maintain this Southern appeasement? A revolt of hardline liberals already tried to buck Brown’s ideology with the “draft Bradley” movement in the primaries, but were quelled by a monsoon of moderates drowning the votes from the left, and Senator Bill Bradley’s refusal to run an independent campaign. 2000 could be different if a more progressive candidate wins the nomination or chooses to run on an independent ticket, almost certainly destroying the Southern coalition and giving the presidency to a Republican. It is impossible to say this far out.</p>
+                  <p>With all that said, Brown is still settling into his first week back in the White House. Will he continue to appeal to Southern causes now that he no longer needs to worry about re-election? Or will he revert back to a more liberal platform, in keeping with his prior history as Governor of California? These questions remain to be answered. One thing is certain, at least for now: the Southern Democratic Party has found its footing again.</p>
                   `
           },
           {
@@ -36098,51 +36108,61 @@ new MutationObserver(() => {
               },                 
               "ending text": 
                   `
-                  Classification: Top Secret–Codeword Clearance Required
+                  <h3>>Classification: Top Secret–Codeword Clearance Required</h3>
   
-                  0800 Hours: Initialization
+                  <h4>0800 Hours: Initialization</h4>
   
-                  Rows of bulky CRT monitors hum inside a cavernous war room deep beneath the Pentagon. 
-                  The digital map of Arkansas flickers into view on a green-and-black monitor. Cities like Little Rock, Fayetteville, Fort Smith, and Jonesboro glow as polygonal nodes. Highways appear as neon lines, rivers as jagged blue grids.
+                  <p>Rows of bulky CRT monitors hum inside a cavernous war room deep beneath the Pentagon.</p> 
+                  <p>The digital map of Arkansas flickers into view on a green-and-black monitor. Cities like Little Rock, Fayetteville, Fort Smith, and Jonesboro glow as polygonal nodes. Highways appear as neon lines, rivers as jagged blue grids.</p>
   
-                  0900 Hours: Force Allocation
+                  <h4>0900 Hours: Force Allocation</h4>
   
-                  A joint task force of simulated assets is brought online:
+                  <p>A joint task force of simulated assets is brought online:</p>
   
-                  STRATCOM Inputs: Entire U.S. nuclear triad represented in abstracted “force packages.”
+                  <p>STRATCOM Inputs: Entire U.S. nuclear triad represented in abstracted “force packages.”</p>
   
-                  Air Force Contributions: 8 squadrons of B-52H bombers (payload: AGM-86 ALCMs).
+                  <p>Air Force Contributions: 8 squadrons of B-52H bombers (payload: AGM-86 ALCMs).</p>
   
-                  Navy Inputs: Ohio-class submarines in the Gulf of Mexico.
+                  <p>Navy Inputs: Ohio-class submarines in the Gulf of Mexico.</p>
   
-                  Army Role: Tactical overlays assume the immediate collapse of ground resistance.
+                  <p>Army Role: Tactical overlays assume the immediate collapse of ground resistance.</p>
   
-                  Civil Defense Module: FEMA projections modeled on Cold War civil defense doctrine.
+                  <p>Civil Defense Module: FEMA projections modeled on Cold War civil defense doctrine.</p>
   
-                  Commander-in-Chief's Order: total saturation strike. No counterforce targets. 
+                  <p>Commander-in-Chief's Order: total saturation strike. No counterforce targets.</p>
   
-                  1000 Hours: Engagement Sequence
+                  <h4>1000 Hours: Engagement Sequence</h4>
   
-                  Digital countdown clocks race across the wall. Officers read off code phrases in monotone: “Skyhammer package release. Prairie segment engagement. Confirming strike grid echo-one through delta-nine.”
+                  <p>Digital countdown clocks race across the wall. Officers read off code phrases in monotone: “Skyhammer package release. Prairie segment engagement. Confirming strike grid echo-one through delta-nine.”</p>
   
-                  The Arkansas map transforms into a storm of data points. Red concentric circles bloom over cities, representing “blast radii.” Rolling numbers calculate megaton yield dispersal and fallout drift. Columns of green text scroll too fast to read. 
-                  Power Grid 0%. 
-                  Water Supply 0%. 
-                  Casualty Projection: 2.5M. 
-                  Agricultural Viability: Nil.
-  
+                  <p>The Arkansas map transforms into a storm of data points. Red concentric circles bloom over cities, representing “blast radii.” Rolling numbers calculate megaton yield dispersal and fallout drift. Columns of green text scroll too fast to read.</p> 
+                  <ul>
+                  <li>Power Grid 0%.</li> 
+                  <li>Water Supply 0%.</li> 
+                  <li>Casualty Projection: 2.5M.</li> 
+                  <li>Agricultural Viability: Nil.</li>
+                  </ul>
+                  <h4>
                   1100 Hours: Pentagon Briefing
+                  </h4>
+                  <p>
                   The general straightens as he reads from a script. “The United States military has just launched a successful nuclear attack on the state of Arkansas. We expect that there will be minimal survivors. This attack was a complete success, and we commend the men and women in our military for their brave actions. If you are a resident of any of the states of Oklahoma, Texas, Louisiana, Mississippi, Tennessee, or Missouri, we ask that you do not engage with those who appear to be survivors from the strike in Arkansas, and instead, report them to the military immediately. May God bless the 49 states of the United States of America.”
+                  </p>
   
-                  1200 Hours:  Observation Deck
-  
+                  <h4>1200 Hours:  Observation Deck</h4>
+                  
+                  <p>
                   Behind a tinted glass partition, President Jerry Brown watches quietly with folded arms. A Styrofoam cup of coffee grows cold on the console beside him.
-  
+                  </p>
+                  <p>
                   The room is silent except for the chatter of printers spitting out dot-matrix sheets labeled “AFTERMATH PROJECTION.”
-  
+                  </p>
+                  <p>
                   Brown leans forward, scanning the monitors. Finally, he clears his throat and speaks:
-  
+                  </p>
+                  <p>
                   "Well… that was something. Let’s run it again."
+                  </p>
                   `
           },
           {
@@ -36156,16 +36176,16 @@ new MutationObserver(() => {
               },
               "ending text": 
                   `
-                  January 23rd, 1997 
-                  Washington DC (AP)
-                  WITH Jerry Brown settling into the first week of his second term, Americans across the political aisle are still reeling from the results of November 5th. Republicans' two-decade long effort to sway the Deep South away from Democratic clutches seem dashed, as President Brown won the Bible Belt by often considerable margins against Republican nominee Jack Kemp, only losing Mississippi and Alabama. It seems destined that 1996 will be analyzed and re-analyzed for decades to come, with its consensus as merely a political fluke or the beginning of a major party shift remaining to be seen. Still, it leaves many simply asking: what happened? 
-                  Several factors played into Brown’s victory: an incumbency boost, steady job growth under his administration, and a lackluster opponent with no clear message. However, among the most prominent of these components was Brown’s heavy appeal to the Deep South. Most Democratic presidents have required the South for some degree of victory (with minor exceptions), so it was no surprise in 1992 when Brown tapped Arkansas Senator David Pryor for VP. However, this election season went beyond balancing the ticket and making the occasional stump speech in New Orleans or Atlanta. 
-                  Throughout his first term, Brown appealed to the base that elected and re-elected his running mate in Arkansas for over 30 years by focusing on economics from a standpoint of pride, rather than income. Most prominently, he framed his gutting of the North American Free Trade Agreement (NAFTA) as a blatantly nativist victory. “We have to protect American workers,” he stated bluntly in his February 13th, 1993 press conference concerning NAFTA. “We should really be doing the opposite. Build up our workforce at home.” Although this rhetoric has also worked well in the North, you’d be hard pressed to find a city south of the Mason-Dixon Line unpolluted with campaign billboards, posters, flyers, and various advertisements championing Brown’s promotion of supposed American values. His nativist rhetoric on job security has ignited a base thought lost to the Democratic Party over a decade ago.
-                  The deafening espousal of anti-free trade and worker’s rights is contrasted by his pin drop silence on racial matters. Repeatedly on the campaign trail, Brown ducked and dodged any conversation concerning race relations in the United States. When he was finally forced to give his opinion on affirmative action bans during a primetime interview, Brown fumbled a moment before finally murmuring out that “America should be a place of equal opportunity, regardless of skin color–no preferential treatment.” This behavior is a far cry from his 1992 primary ads lambasting Governor Bill Clinton on his racial track record, claiming that Clinton and a group of Georgia politicians looked “like colonial masters” while overseeing inmates in a state prison. This disassociation from racial issues is in lockstep with the new wave of Southern Democrats, their rhetoric commonly striking a balancing act between not being perceived as racist while maintaining the votes of an intolerant base. 
-                  Focusing sharply on his southern strategy, President Brown ran circles around Kemp in many states that were safely Republican just last election cycle. Despite Kemp’s record as a hardline conservative, especially financially, he could not shake off the positions imposed on him by Brown. During their presidential debates, the President repeatedly stated how Kemp’s plans would take away working class jobs, to which the Republican nominee could only muster stammering “uhms” while making vague remarks on the benefits of free trade. Not only was Brown on the offensive, but there was a decided lack of defense and definition from the Kemp campaign, which saw the Midwest–an area that they lost by even greater margins the the South–as its primary electoral objective..The few pit stops Kemp’s campaign made, in Alabama and South Carolina, did little to rile up support for the Republican ticket.
-                  Notably, Brown and Kemp’s respective running mates also played a major factor in the race. Pryor, a born-and-raised Arkansan, was often put at the forefront of the Brown campaign, with many Southern advertisements portraying him as an equal to Brown, even teased as Brown’s successor. One advertisement which played extensively on Southern country and evangelical radio stations featured Brown and Pryor talking about their shared “old-school” values. In contrast, Kemp’s running mate, Indiana Senator Richard Lugar, filled in a ticket with no ties to the region, and during a televised interview, claimed that Southerners should “stop complaining” that the Republican ticket seemingly didn’t value their input.
-                  The outcome of 1996 inevitably leads to questions about the new millennium and the 2000 election. Above them all, will the Democratic Party maintain this Southern appeasement? A revolt of hardline liberals already tried to buck Brown’s ideology with the “draft Bradley” movement in the primaries, but were quelled by a monsoon of moderates drowning the votes from the left, and Senator Bill Bradley’s refusal to run an independent campaign. 2000 could be different if a more progressive candidate wins the nomination or chooses to run on an independent ticket, almost certainly destroying the Southern coalition and giving the presidency to a Republican. It is impossible to say this far out. 
-                  With all that said, Brown is still settling into his first week back in the White House. Will he continue to appeal to Southern causes now that he no longer needs to worry about re-election? Or will he revert back to a more liberal platform, in keeping with his prior history as Governor of California? These questions remain to be answered. One thing is certain, at least for now: the Southern Democratic Party has found its footing again.
+                  <h4>January 23rd, 1997</h4>
+                  <h3>Washington DC (AP)</h3>
+                  <p>WITH Jerry Brown settling into the first week of his second term, Americans across the political aisle are still reeling from the results of November 5th. Republicans' two-decade long effort to sway the Deep South away from Democratic clutches seem dashed, as President Brown won the Bible Belt by often considerable margins against Republican nominee Jack Kemp, only losing Mississippi and Alabama. It seems destined that 1996 will be analyzed and re-analyzed for decades to come, with its consensus as merely a political fluke or the beginning of a major party shift remaining to be seen. Still, it leaves many simply asking: what happened?</p>
+                  <p>Several factors played into Brown’s victory: an incumbency boost, steady job growth under his administration, and a lackluster opponent with no clear message. However, among the most prominent of these components was Brown’s heavy appeal to the Deep South. Most Democratic presidents have required the South for some degree of victory (with minor exceptions), so it was no surprise in 1992 when Brown tapped Arkansas Senator David Pryor for VP. However, this election season went beyond balancing the ticket and making the occasional stump speech in New Orleans or Atlanta.</p>
+                  <p>Throughout his first term, Brown appealed to the base that elected and re-elected his running mate in Arkansas for over 30 years by focusing on economics from a standpoint of pride, rather than income. Most prominently, he framed his gutting of the North American Free Trade Agreement (NAFTA) as a blatantly nativist victory. “We have to protect American workers,” he stated bluntly in his February 13th, 1993 press conference concerning NAFTA. “We should really be doing the opposite. Build up our workforce at home.” Although this rhetoric has also worked well in the North, you’d be hard pressed to find a city south of the Mason-Dixon Line unpolluted with campaign billboards, posters, flyers, and various advertisements championing Brown’s promotion of supposed American values. His nativist rhetoric on job security has ignited a base thought lost to the Democratic Party over a decade ago.</p>
+                  <p>The deafening espousal of anti-free trade and worker’s rights is contrasted by his pin drop silence on racial matters. Repeatedly on the campaign trail, Brown ducked and dodged any conversation concerning race relations in the United States. When he was finally forced to give his opinion on affirmative action bans during a primetime interview, Brown fumbled a moment before finally murmuring out that “America should be a place of equal opportunity, regardless of skin color–no preferential treatment.” This behavior is a far cry from his 1992 primary ads lambasting Governor Bill Clinton on his racial track record, claiming that Clinton and a group of Georgia politicians looked “like colonial masters” while overseeing inmates in a state prison. This disassociation from racial issues is in lockstep with the new wave of Southern Democrats, their rhetoric commonly striking a balancing act between not being perceived as racist while maintaining the votes of an intolerant base.</p>
+                  <p>Focusing sharply on his southern strategy, President Brown ran circles around Kemp in many states that were safely Republican just last election cycle. Despite Kemp’s record as a hardline conservative, especially financially, he could not shake off the positions imposed on him by Brown. During their presidential debates, the President repeatedly stated how Kemp’s plans would take away working class jobs, to which the Republican nominee could only muster stammering “uhms” while making vague remarks on the benefits of free trade. Not only was Brown on the offensive, but there was a decided lack of defense and definition from the Kemp campaign, which saw the Midwest–an area that they lost by even greater margins the the South–as its primary electoral objective..The few pit stops Kemp’s campaign made, in Alabama and South Carolina, did little to rile up support for the Republican ticket.</p>
+                  <p>Notably, Brown and Kemp’s respective running mates also played a major factor in the race. Pryor, a born-and-raised Arkansan, was often put at the forefront of the Brown campaign, with many Southern advertisements portraying him as an equal to Brown, even teased as Brown’s successor. One advertisement which played extensively on Southern country and evangelical radio stations featured Brown and Pryor talking about their shared “old-school” values. In contrast, Kemp’s running mate, Indiana Senator Richard Lugar, filled in a ticket with no ties to the region, and during a televised interview, claimed that Southerners should “stop complaining” that the Republican ticket seemingly didn’t value their input.</p>
+                  <p>The outcome of 1996 inevitably leads to questions about the new millennium and the 2000 election. Above them all, will the Democratic Party maintain this Southern appeasement? A revolt of hardline liberals already tried to buck Brown’s ideology with the “draft Bradley” movement in the primaries, but were quelled by a monsoon of moderates drowning the votes from the left, and Senator Bill Bradley’s refusal to run an independent campaign. 2000 could be different if a more progressive candidate wins the nomination or chooses to run on an independent ticket, almost certainly destroying the Southern coalition and giving the presidency to a Republican. It is impossible to say this far out.</p>
+                  <p>With all that said, Brown is still settling into his first week back in the White House. Will he continue to appeal to Southern causes now that he no longer needs to worry about re-election? Or will he revert back to a more liberal platform, in keeping with his prior history as Governor of California? These questions remain to be answered. One thing is certain, at least for now: the Southern Democratic Party has found its footing again.</p>
                   `
           },
           {
@@ -36179,37 +36199,53 @@ new MutationObserver(() => {
               },
               "ending text": 
                   `
-                      [Excerpt transcript of ‘the Rush Limbaugh Show’ dated March 18th, 1994 from 12:30am to 1:00am]
-  
-                      Limbaugh: Hi, welcome back to the Rush Limbaugh TV show, thanks for tuning in. Now’s about the time to talk about everybody's favorite cosmonaut- the Delegate in Chief. You know him, you despise him- President Jerry Brown. 
-  
+                      <h3>[Excerpt transcript of ‘the Rush Limbaugh Show’ dated March 18th, 1994 from 12:30am to 1:00am]
+                      </h3>
+                      <p>
+                      Limbaugh: Hi, welcome back to the Rush Limbaugh TV show, thanks for tuning in. Now’s about the time to talk about everybody's favorite cosmonaut- the Delegate in Chief. You know him, you despise him- President Jerry Brown.
+                      </p>
+                      <p>
                       [Frank Sinatra’s rendition of ‘Fly me to the Moon’ plays in the background as a montage of Brown’s various gaffs is played, from stumbling with his words over policy to slipping on the stairs of air force one. The audience boos and chuckles]
-  
+                      </p>
+                      <p>
                       Limbaugh: Well, think that’s giving old Moonbeam a little too much credit, don’t you think? When’s he been the one in charge? Well uh, I mean, besides his prime directive- keeping the seat warm for his boss. Really this is about this-the guy actually running our country. America’s favorite retentive liberal dictator, Bill Bradley, was caught red handed— after his butt buddy Brown gave the game away today in a press conference concerning the role of our comrade VEEP in “his” administration. Take a look. 
-  
+                      </p>
+                      <p>
                       [The feed transitioned to a press recording of Brown and Bradley on the hill]
-  
+                      </p>
+                      <p>  
                       Reporter: Mr. President, your recent designation of Vice President Bradley as “Poverty Czar” has sparked outrage particularly among conservatives- who view this move as relinquishing power to the Vice President. Do you care to comment on this? 
-  
+                      </p>
+                      <p>
                       Brown: Well, I am relinquishing power to Bradley, plain and simple. Because he knows a lot about poverty. I can’t pretend like- like I know all the facts here. No president does. An administration is not just one person. It’s multiple-
-  
+                      </p>
+                      <p>
                       Reporter: But, as President shouldn’t you be the executive on these problems? Why delegate issues like this to someone not elected President.
-  
+                      </p>
+                      <p>
                       Brown: No, no I shouldn’t know all this-
-  
+                      </p>
+                      <p>
                       [Feed fades back to Rush Limbaugh, with a confused, exaggerated look on his face]
-  
+                      </p>
+                      <p>
                       Limbaugh: That’s right, you heard it loud and clear: our Commander and Chief- leader of the free world openly admitted he’s giving power to Bradley and that he doesn’t know anything. Doesn’t that make you patriotic? 
-  
+                      </p>
+                      <p>
                       [Limbaugh proceeds to stand up, humming the national anthem, swinging his arms side to side. The audience laughs. He soon is seated, laughing at himself.]
-  
+                      </p>
+                      <p>
                       Limbaugh: I mean, it’s psychotic! Our country isn’t even run by the President. It’s all the machinations of our dear leader Bradley. Now, a recent uh, CNN AB- uh CNN  poll not ABC News- asked American citizens ‘Are you satisfied with President Brown’s first term in office?’ 53% said no, 42% said yes. Ooh, that’s gotta sting for the liberals. Uh, another question ‘Has the President shown responsibility during his first term?’ Look at that- 56% said no, 41% said yes. It’s clear from these numbers that not only uh, are people done with Brown and especially Bradley’s loony antics- heh- but our revolution is in full force to take back Washington in November, huh? 
-  
+                      </p>
+                      <p>
                       [The crowd erupts into clapping]
-  
+                      </p>
+                      <p>
                       Limbaugh: Y’know I look at this as a complete rebuke of Brown’s delegation. Much to liberals' chagrin, Americans don’t want the Commander in Chief to be a puppet of Bradley’s machinations, am I right? Right?
-  
+                      </p>
+                      <p>
                       [Clapping resumes briefly]
+                      </p>
   
                   `
           },
@@ -36224,40 +36260,57 @@ new MutationObserver(() => {
               },
               "ending text": 
                   `
+                  <p>
                   Thank you all for coming here. We will now move onto the next eulogy.
-  
+                  </p>
+                  <p>
                   When I was a kid, during the 1970s, I realized one thing: I could not take anything for granted. Whether that be school supplies, friends, even that law enforcement could treat me consistently. There was huge pressure on us to succeed, to hustle, to get out of the hood. All of us wanted it. Most of us couldn't achieve it. None of us were deterred.
-  
+                  </p>
+                  <p>
                   I had also found myself partaking in this type of hustling lifestyle, so much so that I went on to record a few singles for a studio. That was in 1989, I believe. I was over the moon. It was every young black kid’s dream to land a deal of this sort and make it out of our impoverished neighborhoods.
-  
+                  </p>
+                  <p>
                   However, when the deal with the recording company fell through, I found myself staring down an insurmountable abyss. I thought I had lost my chance to do something, to be something. In the days following, I felt completely adrift, as if my one purpose on Earth, the very thing that I had been put on this planet to accomplish, had fallen through my hands like sand. It felt like the hood had swallowed me back up, right as I had managed to climb out of it.
-  
+                  </p>
+                  <p>
                   Needless to say, I myself was not too invested in politics or bureaucracy. It was all just a big scam to keep the little man down, I figured. It didn't properly represent me or my family. Over time, I managed to find a group who let me focus on my music career, but it felt cheap, unearned. I still lived in the hood, still ran with the same types of people I had grown up with. When 1992 rolled around, with Jerry Brown, his fiery outsider attitude failed to convince me when I first heard of him. What stopped him from simply turning his backs on us the moment he won? It wouldn’t have been anything new for politicians.
-  
+                  </p>
+                  <p>
                   Then, he announced his running mate. Jesse Louis Jackson, leader of the Rainbow Coalition, and sworn enemy of White America of the time.
-  
+                  </p>
+                  <p>
                   It was unreal. My mind was rushing. Could this have been the break that got us over the hump? Could those low-income neighborhood kids finally afford to dream?
-  
+                  </p>
+                  <p>
                   But at the same time, there was a great deal of fear involved. What would have happened had Brown lost? Would Jackson have been made into a scapegoat? Could that election have been the final nail in our coffin? Would black America even be allowed to dream of a president who looked like them?
-  
+                  </p>
+                  <p>
                   I sure wasn't about to let it.
-  
+                  </p>
+                  <p>
                   I got organized. I started canvassing the next door folks, mailmen, newspaper sellers, any random passersby on the streets, handing out pins, banners, any miscellaneous merchandising that existed. Then, I started collecting signatures and informing people on where the nearest polling stations were. I finally felt like I was doing something to help the community.
-  
+                  </p>
+                  <p>
                   When November of that year strolled around, I had a huge smile on my face. Brown and Jackson had won in a landslide. There was a bizarre feeling in the air, a feeling of change, of redemption. 
-  
+                  </p>
+                  <p>
                   But in the White House, it looked a bit tough at times. Brown did what he always did and moderated so that he could better represent the views of the people who had elected him. It was basic math: most of those people were white. Once he handily won 1996, running on a platform which was a lot less… radical than the first time around, people thought that the project was over. That the progressive revolution would be stopped after 8 years of Brown. That Jackson would never be president.
-  
+                  </p>
+                  <p>
                   Now, in that time, I had tried focusing on a music career, had some success, but it was never fulfilling. So in 1998, I made my first bid for public office, and thanks to hard work and luck, I got elected as a representative to the California State House. When the 2000 election rolled around, I had the privilege of meeting, and shaking hands with Jesse Jackson in the flesh for the first time. I still remember it like yesterday. It was a cool August evening, and Jackson was doing a rally in my district, safe blue territory, after a… not-so-stellar DNC. And yet, despite all the political analysts leaving him for dead, predicting him to lose in a rout, Jackson was smiling. Laughing. Cheering. His optimism was contagious. After nervously approaching him, I asked him how he did it. And it was then that he gave me advice I would carry for the rest of my life: “No matter what you do, the first thing you have to do is give back to your community and help them whichever way you can. Other people are important, but before you move to helping them, don’t forget those who put you on the map to begin with. Do that, do it honestly, and you’ll never doubt yourself, not in the slightest.”
-  
+                  </p>
+                  <p>
                   It was this attitude that drove him to a miraculous comeback. It was his trusty leadership that guided the country through the Pennsylvania terror bombings and gave him a second term. It was his strong presence in the White House that allowed a country’s worth of little black boys and little black girls to look at the most powerful man in the country and say “someday, this can be me.” Most importantly, it was his love for the people that ensures he will never be forgotten.
-  
+                  </p>
+                  <p>
                   The King had a dream. The Warrior made it a reality. And now, they can both rest. Thank you.
-  
+                  </p>
+                  <p>
                   [Widespread applause]
-  
+                  </p>
+                  <p>
                   Thank you very much for your kind words, Senator Shakur. To close the service, we have the eulogy of former president Jerry Brown, who has just finished his last round of cancer treatments to come join us today.
-  
+                  </p>
                   `
           },
           {
@@ -36271,21 +36324,30 @@ new MutationObserver(() => {
               },
               "ending text": 
               `
+                  <p>
                   Outside, the Vice-President is all smiles. But inside, the Jackson campaign is spinning following Gore’s shocking upsets.
-  
+                  </p>
+                  <p>
                   This is a digitized version of an article from The Times’s print archive, before the start of online publication in 1996. To preserve these articles as they originally appeared, The Times does not alter, edit or update them.
-  
+                  </p>
+                  <p>
                   WHEN Vice-President Jackson finally exited his office to address the press following Al Gore’s shocking win in the Iowa primaries, he was all smiles. Sardonically, he shook his head, laughed and said, “At least it was better than my last run in Iowa.’’ In New Hampshire, it was a different story. He never left his office at all, with campaign manager Gerald Austin coming out and informing journalists that the VEEP had accepted his loss and was focused on March 7’s Super Tuesday primary. 
-  
+                  </p>
+                  <p>
                   Generally, when the President doesn’t run for re-nomination (or is term-limited) and his Vice-President does run, the Vice-President’s primary victory is a formality. Bush faced only token resistance in 1988, and although Walter Mondale’s 1984 victory was threatened by Colorado Senator Gary Hart, he ultimately triumphed over the insurgent off of the strength of his vice-presidential record. Further back, in 1960, Richard Nixon faced virtually no intraparty opposition when he ran for President. But now, it seems like the history-defining Jesse Jackson will continue to establish historical firsts–just not for the reasons he may have hoped. The first black Vice-President may find himself becoming the first Vice-President to lose his party’s presidential nomination since Thomas Marshall in 1920.
-  
+                  </p>
+                  <p>
                   The rebellion that Jackson is facing is unprecedented in the past 30 years, with many comparing Jackson’s struggles with the rightward flank of his party to the struggles Vice-President Humphrey had in 1968 with his leftward flank. While Vice-President Humphrey was able to beat his competitors to win the Democratic nomination, he would go on to lose to former Vice-President Nixon in the general election as his campaign struggled to unite a fractured party. With Dan Quayle's stunning upset in the GOP Iowa primaries, many are suspecting history is repeating itself. Unlike 1968, the primaries will almost certainly be decided before the convention, leading some to wonder if the Vice-President will survive this unexpectedly close race without the contested conventions that past vice-presidents enjoyed. 
-  
+                  </p>
+                  <p>
                   Senator Gore has been delighted with the outcomes. His relatively ramshackle operation had previously caused many to underestimate the Tennessean, but his moderate rebellion has been an astonishing success. At his victory rally in Nashua, he was overflowing with joy. ‘’Like all of you, I wish I wasn’t the one leading this charge. In particular, I wish Governor Casey were still with us, a titan of common sense governance. But just because he isn’t with us, doesn’t mean the principles he left us with–the principles that others have left us with and others work hard to uphold–have gone as well.’’ The Senator would go on to lambast the Vice-President’s ‘’out of the mainstream’’ social stances on reparations for slavery and gay rights, describing his campaign as a call to common sense. 
-  
+                  </p>
+                  <p>
                   It’s not all good news for the Senator, however. While the upcoming Washington State primary is known for its friendliness to political outsiders, Delaware has historically been one of Jackson’s strongest states, with the state’s Democratic primary voters typically skewing black and liberal. Still, in the lead up to Super Tuesday, every state is up for grabs now that Gore has proven that his protest candidacy is very serious. Indeed, Jackson will face hostile territory in the Super Tuesday states, as a range of important endorsements appear to be going in Gore’s favor. Missouri Governor Mel Carnaharn endorsed Gore the day after the New Hampshire primary, as did California Governor Gray Davis. New York Senator Monynihan has indicated that he is considering supporting Gore over Jackson, who has few allies in the Empire State.
-  
+                  </p>
+                  <p>
                   Notably silent throughout this drama is President Brown, who issued an endorsement when Jackson announced his run and uncharacteristically faded to the background, not campaigning with Jackson save for one appearance at a fundraiser in Chicago. Respecting Jackson’s alleged wishes to run as his own man, many are speculating that Brown will intervene to save his Vice-President. But when asked yesterday for the President’s thoughts, Press Secretary Westrup had nothing to say except that the primary was the Vice-President’s affair, inadvertently drawing more attention to President Brown’s reticence. Time will show if the Vice-President Jackson will continue his independent streak, or if he will be forced to rely on President Moonbeam. Either way, Gore has put his campaign into dire straits, and it remains to be seen if he can engineer a comeback.
+                  </p>
               `
           },
           {
@@ -36299,33 +36361,35 @@ new MutationObserver(() => {
               },
               "ending text": 
                   `
-                      Press conference on the departure of Dick Gephardt 08/03/1993 - transcript
                       
-                      ‘’And ultimately, I feel as though I would be redundant here. President Brown has done more in his one hundred days than President Bush did in his whole term. There’s nothing I can do to advance the President’s agenda, but there’s plenty I can do for my home. I admire Senator Danforth, and I’m sad to see him go, but his departure is a great opportunity for me to represent the, with respect to other 49 states, the greatest state in America. I’ll take your questions now.’’
+                  <h3>Press conference on the departure of Dick Gephardt 08/03/1993 - transcript</h3>
+                      
+                      <p>‘’And ultimately, I feel as though I would be redundant here. President Brown has done more in his one hundred days than President Bush did in his whole term. There’s nothing I can do to advance the President’s agenda, but there’s plenty I can do for my home. I admire Senator Danforth, and I’m sad to see him go, but his departure is a great opportunity for me to represent the, with respect to other 49 states, the greatest state in America. I’ll take your questions now.’’</p>
   
-                      “Mr. Vice-President, what will you be able to do as Senator that you couldn’t do as Vice-President, a role that makes you President of the Senate?’’
+                      <p>“Mr. Vice-President, what will you be able to do as Senator that you couldn’t do as Vice-President, a role that makes you President of the Senate?’’</p>
   
-                      ‘’It’s about scope. As Vice-President, I have a duty to be unbiased and serve every state equally. If I serve in the Senate, then I can focus purely Missourian issues. Plus, I’ll be easier to contact.’’
+                      <p>‘’It’s about scope. As Vice-President, I have a duty to be unbiased and serve every state equally. If I serve in the Senate, then I can focus purely Missourian issues. Plus, I’ll be easier to contact.’’</p>
   
-                      ‘’Mr. Vice-President, do you think the Omnibus budget bill will pass the Senate?’’
+                      <p>‘’Mr. Vice-President, do you think the Omnibus budget bill will pass the Senate?’’</p>
   
-                      ‘’You’re hurting my feelings. I thought this was supposed to be about me. No, but to be serious, I’ve worked with the Senate closely on the matter. I understand that there’s been uproar from certain media outlets about the tax hike - it’s on the top 1%. It’s a simple rejection of trickle down economics and demonstration that the administration is serious about getting the debt under control.’’
+                      <p>‘’You’re hurting my feelings. I thought this was supposed to be about me. No, but to be serious, I’ve worked with the Senate closely on the matter. I understand that there’s been uproar from certain media outlets about the tax hike - it’s on the top 1%. It’s a simple rejection of trickle down economics and demonstration that the administration is serious about getting the debt under control.’’</p>
   
-                      ‘’Mr. Vice President, is there any truth to the rumors that the administration intends to repeal the Hyde Amendment? And would you vote for that as Senator.’’
+                      <p>‘’Mr. Vice President, is there any truth to the rumors that the administration intends to repeal the Hyde Amendment? And would you vote for that as Senator.’’</p>
   
-                      ‘’There aren't any plans to do that to my knowledge. And I would of course vote against it. Abortion is necessary at times, but I don’t think making it commonplace is good for the fiber of American society.’’
+                      <p>‘’There aren't any plans to do that to my knowledge. And I would of course vote against it. Abortion is necessary at times, but I don’t think making it commonplace is good for the fiber of American society.’’</p>
   
-                      ‘’Mr. Vice-President, are rumors of a falling out between President Brown true?’’
+                      <p>‘’Mr. Vice-President, are rumors of a falling out between President Brown true?’’</p>
   
-                      ‘’No.’’
+                      <p>‘’No.’’</p>
   
-                      ‘’But you had made your career opposing NAFTA an-’’
+                      <p>‘’But you had made your career opposing NAFTA an-’’</p>
   
-                      ‘’Well yes, I disagree with the President on some of his calls. But you never worked with anyone you disagree with? You’re not friends with people you disagree with on certain issues? If that’s the case, grow up. I support the President, 100%. I just dislike his decision in the matter. But it had no bearing on my decision to focus on Missouri - I will continue to support the President serving Missouri.’’ 
+                      <p>‘’Well yes, I disagree with the President on some of his calls. But you never worked with anyone you disagree with? You’re not friends with people you disagree with on certain issues? If that’s the case, grow up. I support the President, 100%. I just dislike his decision in the matter. But it had no bearing on my decision to focus on Missouri - I will continue to support the President serving Missouri.’’
+                      </p> 
   
-                      ‘’Mr. Vice-President, when the President was asked to comment on your departure, he said and I quote - ‘’To the victor go the spoils. Without that Mara, we’ll get so much done.’’ Do you care to comment?’’
+                      <p>‘’Mr. Vice-President, when the President was asked to comment on your departure, he said and I quote - ‘’To the victor go the spoils. Without that Mara, we’ll get so much done.’’ Do you care to comment?’’</p>
   
-                      ‘’...No?’’
+                      <p>‘’...No?’’</p>
                   `
           },
           {
@@ -36339,23 +36403,23 @@ new MutationObserver(() => {
               },
               "ending text": 
                   `
-                      Report on the path to victory against Richard Gephardt
+                      <h3>Report on the path to victory against Richard Gephardt</h3>
   
-                      Chairman Merril,
+                      <p>Chairman Merril,</p>
   
-                      While Vice-President Gephardt’s victory isn’t certain (see the Kerrey report), it is far and away the most likely outcome of the Democratic primaries. The Vice-President is a fairly typical Democratic candidate in most regards, with relatively high support in most urban regions while lacking relative support in rural and suburban regions. However, according to our internal polling and statistics, Gephardt figures to be an extremely difficult candidate to beat for the White House. According to our current forecast, there are well over 270 electoral votes that are strongly or likely Democratic; all other things being equal, Gephardt will win the 2000 election.
+                      <p>While Vice-President Gephardt’s victory isn’t certain (see the Kerrey report), it is far and away the most likely outcome of the Democratic primaries. The Vice-President is a fairly typical Democratic candidate in most regards, with relatively high support in most urban regions while lacking relative support in rural and suburban regions. However, according to our internal polling and statistics, Gephardt figures to be an extremely difficult candidate to beat for the White House. According to our current forecast, there are well over 270 electoral votes that are strongly or likely Democratic; all other things being equal, Gephardt will win the 2000 election.</p>
   
-                      Considering Gephardt’s intimate link with the scrapping of NAFTA and our embrace of it for both Brown midterms, alongside Sen. Gramm’s campaign in 1996, trade policy has become a partisan issue by and large. Although it produced positive results in midterm elections, our path to victory is tennous with general election turnout. In terms of the electoral college, this has had disastrous consequences for our party; the union-and-industry-heavy Midwest has strongly identified with Brown and Gephardt’s anti-NAFTA, anti-free trade message and electorally rewarded them in 1996. Current polling and study suggests that we are currently on the road to an identical loss, unable to win a sufficient number of swing states.
+                      <p>Considering Gephardt’s intimate link with the scrapping of NAFTA and our embrace of it for both Brown midterms, alongside Sen. Gramm’s campaign in 1996, trade policy has become a partisan issue by and large. Although it produced positive results in midterm elections, our path to victory is tennous with general election turnout. In terms of the electoral college, this has had disastrous consequences for our party; the union-and-industry-heavy Midwest has strongly identified with Brown and Gephardt’s anti-NAFTA, anti-free trade message and electorally rewarded them in 1996. Current polling and study suggests that we are currently on the road to an identical loss, unable to win a sufficient number of swing states.</p>
   
-                      With a free trade message, we are ahead or within five percentage points in polling in Missouri (11 EVs), Iowa (7 EVs), New Mexico (5 EVs) Tennessee (11 EVs) and Florida (25 EVs), amounting to 59 EVs. However, the Vice-President can rely on Wisconsin (11 EVs), Michigan (18 EVs), Ohio (21 EVs) and Pennsylvania (23 EVs) for 73 EVs. Gephardt can easily clinch victory by winning these states, and at the moment, all signs indicate that he will win them. With trade being a low propensity issue outside of the “blue wall,” it is unlikely we can use this as a wedge issue in “blue states.” In addition, although Indiana has long been a Republican stronghold, Brown’s strong improvement there in 1996 and Gephardt’s persistently high polling there might force us to play defense in the state. If we do not properly adjust, there is no mathematical path to victory, all things being equal.
+                      <p>With a free trade message, we are ahead or within five percentage points in polling in Missouri (11 EVs), Iowa (7 EVs), New Mexico (5 EVs) Tennessee (11 EVs) and Florida (25 EVs), amounting to 59 EVs. However, the Vice-President can rely on Wisconsin (11 EVs), Michigan (18 EVs), Ohio (21 EVs) and Pennsylvania (23 EVs) for 73 EVs. Gephardt can easily clinch victory by winning these states, and at the moment, all signs indicate that he will win them. With trade being a low propensity issue outside of the “blue wall,” it is unlikely we can use this as a wedge issue in “blue states.” In addition, although Indiana has long been a Republican stronghold, Brown’s strong improvement there in 1996 and Gephardt’s persistently high polling there might force us to play defense in the state. If we do not properly adjust, there is no mathematical path to victory, all things being equal.</p>
   
-                      Per my team’s evaluation, this leaves us with two options. The ‘’Rockefeller plan’’ would make investments in states like New Jersey, Oregon and New Hampshire–liberal in some regards but ambivalent on trade and with a history of strong statewide Republican performances–to “go around” Gephardt’s appeal to the Midwest by deemphasizing the party’s social messaging and promising to prioritize governmental competence over cutting programs. The concern is obvious: without proper material for our core voters, we run the risk of inadvertently depressing turnout. Additionally, it is difficult to see a moderate candidate winning the primary. With enough support, however, Sen. John McCain, Steve Forbes or Former Gov. Pete Wilson all could execute this plan properly and win over 270 electoral votes, according to our models. Notably, Wilson’s hardline immigration stances may be able to ensure turnout remains high without alienating moderate voters, but it could seriously harm us in Florida and New Mexico. 
+                      <p>Per my team’s evaluation, this leaves us with two options. The ‘’Rockefeller plan’’ would make investments in states like New Jersey, Oregon and New Hampshire–liberal in some regards but ambivalent on trade and with a history of strong statewide Republican performances–to “go around” Gephardt’s appeal to the Midwest by deemphasizing the party’s social messaging and promising to prioritize governmental competence over cutting programs. The concern is obvious: without proper material for our core voters, we run the risk of inadvertently depressing turnout. Additionally, it is difficult to see a moderate candidate winning the primary. With enough support, however, Sen. John McCain, Steve Forbes or Former Gov. Pete Wilson all could execute this plan properly and win over 270 electoral votes, according to our models. Notably, Wilson’s hardline immigration stances may be able to ensure turnout remains high without alienating moderate voters, but it could seriously harm us in Florida and New Mexico.</p> 
   
-                      The alternative is to attempt to use the “Goldwater plan,” to support a staunch conservative whose stance on social issues could sideline the trade issue and turn the election into a referendum on morality. Under this strategy, we  would attack the Vice-President by tying him to controversial topics like the LGBT movement, affirmative action, and no-limit-abortions. Frmr Vice-President Quayle, Sen. Bob Smith and Frmr Rep. Newt Gingrich could all work for this plan of action. Like the Rockefeller plan, a “Daisy Ad” problem remains possible if the candidate strays too far rightwards in his messaging. Additionally, despite his evangelical bonafides, Gephardt is known for ideological flexibility in some areas, which could make him difficult to attach to these groups. Nonetheless, assuming that the candidate executes the plan, our models show that we would be able to win Ohio, giving us 279 electoral votes.
+                      <p>The alternative is to attempt to use the “Goldwater plan,” to support a staunch conservative whose stance on social issues could sideline the trade issue and turn the election into a referendum on morality. Under this strategy, we  would attack the Vice-President by tying him to controversial topics like the LGBT movement, affirmative action, and no-limit-abortions. Frmr Vice-President Quayle, Sen. Bob Smith and Frmr Rep. Newt Gingrich could all work for this plan of action. Like the Rockefeller plan, a “Daisy Ad” problem remains possible if the candidate strays too far rightwards in his messaging. Additionally, despite his evangelical bonafides, Gephardt is known for ideological flexibility in some areas, which could make him difficult to attach to these groups. Nonetheless, assuming that the candidate executes the plan, our models show that we would be able to win Ohio, giving us 279 electoral votes.</p>
   
-                      Note: Governor George W. Bush remains an issue. He appeals to people nostalgic for Frmr President Bush’s administration, but uses staunchly religious rhetoric while loudly advocating for moderate policy goals. According to our focus groups, Bush is far too religious for the Rockefeller plan and is far too publicly focused on centrist policy for the Goldwater plan. We must do anything possible to stop him ASAP. Under the Rockefeller plan, Bush could function as a good running mate, but he has no purpose under the Goldwater plan. Contact Frmr President Bush and implore him to take action to address this issue. 
+                      <p>Note: Governor George W. Bush remains an issue. He appeals to people nostalgic for Frmr President Bush’s administration, but uses staunchly religious rhetoric while loudly advocating for moderate policy goals. According to our focus groups, Bush is far too religious for the Rockefeller plan and is far too publicly focused on centrist policy for the Goldwater plan. We must do anything possible to stop him ASAP. Under the Rockefeller plan, Bush could function as a good running mate, but he has no purpose under the Goldwater plan. Contact Frmr President Bush and implore him to take action to address this issue.</p> 
   
-                      – Mike Murphy
+                      <p>– Mike Murphy</p>
                   `
           },
           {
@@ -36369,44 +36433,47 @@ new MutationObserver(() => {
               },
               "ending text": 
                   `
-                      Maverick Redux: the DEMonstration of DEMagogues 
+                      <p>Maverick Redux: the DEMonstration of DEMagogues</p>
   
-                      A brief biography of Mitt Romney, the three-term governor of Massachusetts and the 2004 Democratic presidential nominee.
+                      <p>A brief biography of Mitt Romney, the three-term governor of Massachusetts and the 2004 Democratic presidential nominee.</p>
   
-                      Basic details:
-                      Born March 12, 1947
-                      Education: Stanford University, Brigham Young University, Harvard University
-                      Mission: France
-                      Occupation: Blue-eyed boy, CEO, Governor (D-MA)
-                      Religion: You already know
-                      Loyalties: Money and God, in that order
+                      <ul>
+                      <li>Basic details:</li>
+                      <li>Born March 12, 1947</li>
+                      <li>Education: Stanford University, Brigham Young University, Harvard University</li>
+                      <li>Mission: France</li>
+                      <li>Occupation: Blue-eyed boy, CEO, Governor (D-MA)</li>
+                      <li>Religion: You already know</li>
+                      <li>Loyalties: Money and God, in that order</li>
+                      </ul>
   
-                      Fun facts
-                      Idolizes his father, a career underachiever of a politician who’s best remembered for his declaration that he had been the subject of a “brainwashing” to support the Vietnam war
-                      Founded Bain Capital, one of the largest private equity firms in America and helped pioneer a system of acquiring businesses and cutting jobs en masse, laying off thousands
-                      Despite holding strongly conservative personal views, claims to have been completely independent until registering to vote in the 1992 Democratic primaries for Paul Tsongas
-                      Once went on a 12-hour road trip with his dog on top of his car in a windshield-equipped carrier, claims that it was nothing serious
-                      Has claimed that 47% of the country are “beholden to McCain’s fabrications on Iraq” who “will vote for the president no matter what.”
-                      Claims to be personally opposed to “socialistic healthcare” and gay marriage; forced all Massachusetts businesses to provide healthcare plans to their employees and stated that he would give marriage licenses to all homosexual couples, including those from out of state
+                      <h3>Fun facts</h3>
+                      <ul><li>Idolizes his father, a career underachiever of a politician who’s best remembered for his declaration that he had been the subject of a “brainwashing” to support the Vietnam war</li>
+                      <li>Founded Bain Capital, one of the largest private equity firms in America and helped pioneer a system of acquiring businesses and cutting jobs en masse, laying off thousands</li>
+                      <li>Despite holding strongly conservative personal views, claims to have been completely independent until registering to vote in the 1992 Democratic primaries for Paul Tsongas</li>
+                      <li>Once went on a 12-hour road trip with his dog on top of his car in a windshield-equipped carrier, claims that it was nothing serious</li>
+                      <li>Has claimed that 47% of the country are “beholden to McCain’s fabrications on Iraq” who “will vote for the president no matter what.”</li>
+                      <li>Claims to be personally opposed to “socialistic healthcare” and gay marriage; forced all Massachusetts businesses to provide healthcare plans to their employees and stated that he would give marriage licenses to all homosexual couples, including those from out of state</li>
+                      </ul>
   
-                      Chronology
-                      1947: born to an automobile executive and an actress in Detroit, but grew up in an affluent suburb and attended private school
-                      1968: while on an extremely unsuccessful mission in France, comes so close to death in a car crash that French police briefly declare him a fatality, just barely missing out on his own planet
-                      1970: with his father having moved from Michigan’s governorship to the White House, declares his sincere belief in Nixon’s infallibility while John McCain was in the Hanoi Hilton
-                      1984: after a fruitful business career, founds Bain Capital, where he makes obscene amounts of money at the minor cost of thousands of American jobs and livelihoods
-                      1992: sparked into political action for the first time when he votes for Paul Tsongas in the Democratic primaries, later hosting a meeting with Tsongas at Bain Capital’s Boston headquarters and donating a significant amount to President Brown’s inauguration fund
-                      1994: senses vulnerability in incumbent GOP governor Bill Weld and registers as a Democrat for the first time in his life to run against him, promptly winning by 0.4%
-                      1995-present: governs as a so-called D.I.N.O. (Democrat in name only), constantly holding the corporate line on spending and taxes. Nevertheless, sprinkles in a few treats for the liberals such as being extremely pro-choice, allowing him to cruise to re-election two times
-                      2002: gains national attention as the ringmaster of the Boston Winter Olympics, which he had forced through in 1995 despite public disapproval and a cost of millions of dollars. Is able to spin it off as a story of his supposed Moroni Midas touch 
-                      February 2003: immediately after the invasion of Iraq, announces his candidacy for President without taking a clear position on the war
-                      November 2003: the moment that it’s safe to do so, announces his opposition to the war and his disgust at President McCain’s “lack of respect for our allies.”
-                      March 2004: sweeps Super Tuesday after outraising and outspending his opponents by whopping margins, causing Paul Wellstone to go on national television and cry foul, to no avail
+                      <h3>Chronology</h3>
+                      <p>1947: born to an automobile executive and an actress in Detroit, but grew up in an affluent suburb and attended private school</p>
+                      <p>1968: while on an extremely unsuccessful mission in France, comes so close to death in a car crash that French police briefly declare him a fatality, just barely missing out on his own planet</p>
+                      <p>1970: with his father having moved from Michigan’s governorship to the White House, declares his sincere belief in Nixon’s infallibility while John McCain was in the Hanoi Hilton</p>
+                      <p>1984: after a fruitful business career, founds Bain Capital, where he makes obscene amounts of money at the minor cost of thousands of American jobs and livelihoods</p>
+                      <p>1992: sparked into political action for the first time when he votes for Paul Tsongas in the Democratic primaries, later hosting a meeting with Tsongas at Bain Capital’s Boston headquarters and donating a significant amount to President Brown’s inauguration fund</p>
+                      <p>1994: senses vulnerability in incumbent GOP governor Bill Weld and registers as a Democrat for the first time in his life to run against him, promptly winning by 0.4%</p>
+                      <p>1995-present: governs as a so-called D.I.N.O. (Democrat in name only), constantly holding the corporate line on spending and taxes. Nevertheless, sprinkles in a few treats for the liberals such as being extremely pro-choice, allowing him to cruise to re-election two times</p>
+                      <p>2002: gains national attention as the ringmaster of the Boston Winter Olympics, which he had forced through in 1995 despite public disapproval and a cost of millions of dollars. Is able to spin it off as a story of his supposed Moroni Midas touch</p>
+                      <p>February 2003: immediately after the invasion of Iraq, announces his candidacy for President without taking a clear position on the war</p>
+                      <p>November 2003: the moment that it’s safe to do so, announces his opposition to the war and his disgust at President McCain’s “lack of respect for our allies.”</p>
+                      <p>March 2004: sweeps Super Tuesday after outraising and outspending his opponents by whopping margins, causing Paul Wellstone to go on national television and cry foul, to no avail</p>
   
-                      Three-term Massachusetts governor Mitt Romney saunters onto the Boston stage flanked by Carol Mosley Braun, having clawed his way to the nomination as the face of the moderate, sensible opposition to the war. With the looks and smile of the type of president one would see in the movies, he presents a case for the presidency based on his record, reliability, and his ability to balance his conservative and moderate impulses, a stark contrast to your maverick ways.
-                      Mitt Romney talks a lot about getting things done, but doesn't seem to understand that he's had the benefits of working with an all-Democrat legislature, while I'm heading a divided Congress. He rubber stamps; I make deals.
-                      Don't let the false niceness and the smile distract you from the fact that Mitt Romney is a tool of the Democratic elite. If we let him get a hold of the economy, he'll do what he did in Massachusetts and tax us to death while he's out yachting.
-                      I can't seem to figure this fellow out, to be honest. One moment, we're supposed to believe that he's the type of family-first, fiscally sensible man who could be a Republican, and the next, he's publicly pledging his undying fealty to the tax-and-spend Democrats. Which one is it?
-                      For four years, I've tried my hardest to keep our country safe and to restore American exceptionalism back to the presidency. Mitt Romney's idea of how this country would conduct itself internationally involves withdrawing from Iraq before it's stable and trying to antagonize Putin. Why isn't he focusing on the issues that actually impact us?
+                      <p>Three-term Massachusetts governor Mitt Romney saunters onto the Boston stage flanked by Carol Mosley Braun, having clawed his way to the nomination as the face of the moderate, sensible opposition to the war. With the looks and smile of the type of president one would see in the movies, he presents a case for the presidency based on his record, reliability, and his ability to balance his conservative and moderate impulses, a stark contrast to your maverick ways.</p>
+                      <p>Mitt Romney talks a lot about getting things done, but doesn't seem to understand that he's had the benefits of working with an all-Democrat legislature, while I'm heading a divided Congress. He rubber stamps; I make deals.</p>
+                      <p>Don't let the false niceness and the smile distract you from the fact that Mitt Romney is a tool of the Democratic elite. If we let him get a hold of the economy, he'll do what he did in Massachusetts and tax us to death while he's out yachting.</p>
+                      <p>I can't seem to figure this fellow out, to be honest. One moment, we're supposed to believe that he's the type of family-first, fiscally sensible man who could be a Republican, and the next, he's publicly pledging his undying fealty to the tax-and-spend Democrats. Which one is it?</p>
+                      <p>For four years, I've tried my hardest to keep our country safe and to restore American exceptionalism back to the presidency. Mitt Romney's idea of how this country would conduct itself internationally involves withdrawing from Iraq before it's stable and trying to antagonize Putin. Why isn't he focusing on the issues that actually impact us?</p>
                   `
           },
           {
@@ -36420,21 +36487,21 @@ new MutationObserver(() => {
               },
               "ending text": 
                   `
-                      May 5th, 1996:
+                      <h3>May 5th, 1996:</h3>
   
-                      ”Four years ago, Paul Tsongas fell short in the 50 meter butterfly, having finished sixth among his seven opponents during a casual competitive race during the campaign season. And to think that he was running for president! Bob, what made him think he’d finish a race this time around?”
+                      <p>”Four years ago, Paul Tsongas fell short in the 50 meter butterfly, having finished sixth among his seven opponents during a casual competitive race during the campaign season. And to think that he was running for president! Bob, what made him think he’d finish a race this time around?”</p>
   
-                      “Well I gotta give the Vice President credit, he takes care of himself, and he knows what he’s doing.e is a cancer survivor after all.”
+                      <p>“Well I gotta give the Vice President credit, he takes care of himself, and he knows what he’s doing.e is a cancer survivor after all.”</p>
   
-                      “Bob, he finished the 50 meter butterfly in 50 seconds Even for a 53 year old, that’s still pathetic.”
+                      <p>“Bob, he finished the 50 meter butterfly in 50 seconds Even for a 53 year old, that’s still pathetic.”</p>
   
-                      “Maybe, but I love it when athletes go out of their way to stay fit even when everyone is telling him to stop.”
+                      <p>“Maybe, but I love it when athletes go out of their way to stay fit even when everyone is telling him to stop.”</p>
   
-                      “He doesn’t need to be swimming laps; he’s the Vice-President. He has policies to write and senators to preside over. We get it, he’s healthy, H-E-A-L-T-H-Y. Frankly, I’m glad he was able to even climb out.”
+                      <p>“He doesn’t need to be swimming laps; he’s the Vice-President. He has policies to write and senators to preside over. We get it, he’s healthy, H-E-A-L-T-H-Y. Frankly, I’m glad he was able to even climb out.”</p>
   
-                      “Eh, you can never be too competitive, especially when the president is Moonbeaming all over the country by implementing a carbon tax. Whatelse could Paul do?”
+                      <p>“Eh, you can never be too competitive, especially when the president is Moonbeaming all over the country by implementing a carbon tax. Whatelse could Paul do?”</p>
   
-                      “Anything but swimming!”
+                      <p>“Anything but swimming!”</p>
                   `
           },
           {
@@ -36447,16 +36514,35 @@ new MutationObserver(() => {
                       "Running Mate": e.running_mate_last_name
               },                 
               "ending text": `
+                  <p>
                   WASHINGTON — President Bob Dole announced Sunday that he will end his presidential re-election campaign, bringing an abrupt and humbling conclusion to his half-century-long political career and scrambling the race for the White House less than four months before Election Day.
-                  Dole, 77, could not reverse growing sentiment within his party that he was too frail to serve and destined to lose to Jerry Brown in November. Although Dole’s term saw mixed successes, including a surprising Republican overperformance in the 1998 midterms, many felt that he was undergoing some level of cognitive decline. These fears were amplified by Dole’s performance in a June interview with 60 Minutes, where he continuously stumbled over his own words and lost his train of thought, at one point claiming that he remained “burdened by Jerry Brown’s budget deficit,” despite the fact that Brown had left office with a budget surplus, simply staring at the interviewer with his mouth open when he was corrected on the issue. 
+                  </p>
+                  <p>
+                  Dole, 77, could not reverse growing sentiment within his party that he was too frail to serve and destined to lose to Jerry Brown in November. Although Dole’s term saw mixed successes, including a surprising Republican overperformance in the 1998 midterms, many felt that he was undergoing some level of cognitive decline. These fears were amplified by Dole’s performance in a June interview with 60 Minutes, where he continuously stumbled over his own words and lost his train of thought, at one point claiming that he remained “burdened by Jerry Brown’s budget deficit,” despite the fact that Brown had left office with a budget surplus, simply staring at the interviewer with his mouth open when he was corrected on the issue.
+                  </p> 
+                  <p>
                   After calls from those within his party to drop out, Dole resisted for three weeks before announcing his withdrawal. “I have been honored to serve as your president for the past four years. The first thing you learn on the prairie is the relative size of a man compared to the lay of the land. And under the immense sky where I was born and raised, a man is very small, and if he thinks otherwise, he is wrong. Four years ago, I pledged to be the bridge to a new America and I’ve come to the end of that bridge. That’s why I have decided it is in the best interests of this country for me to stand down from the election and focus on my duties as your president,” Dole said to reporters in a press conference. “I will speak to the nation later this week in more detail about my decision.”
-                  Dole thanked Hutchison for “being an extraordinary partner” in this conference and soon formally endorsed her for president in an interview with the New York Times. 
+                  </p>
+                  <p>
+                  Dole thanked Hutchison for “being an extraordinary partner” in this conference and soon formally endorsed her for president in an interview with the New York Times.</p>
+                  <p> 
                   “My very first decision as the party nominee in 1996 was to pick Kay Hutchison as my Vice President,” Dole stated. “And it’s been the best decision I’ve made. Today I want to offer my full support and endorsement for Kay to be the nominee of our party this year.”
+                  </p>
+                  <p>
                   Dole and Hutchison spoke multiple times Sunday ahead of the president’s announcement, according to a source familiar with the campaign.
+                  </p>
+                  <p>
                   In a statement, Hutchison thanked Dole for “his extraordinary leadership” and his “remarkable legacy of achievement.”
+                  </p>
+                  <p>
                   “I am grateful to have the President’s endorsement and my intention is to earn and win this nomination,” Hutchison said in a press conference this morning. “I will do everything in my power to unite the Republican Party — and unite our nation — to stop another disastrous term of Jerry Brown.”
+                  </p>
+                  <p>
                   Dole’s withdrawal caps a singular national political career, starting in 1950 with his election to the Kansas House of Representatives. Dole later would be elected to Congress, winning a House seat in 1960 and serving for eight years until his election to the Senate in 1968. After being selected as Gerald Ford’s running mate in 1976, he mounted three presidential bids, finally winning in 1996. Beyond his presidency, Dole is well remembered for the 27 years he spent in the U.S. Senate. He rose to the chairmanships of the powerful Finance and Foreign Relations committees, along with eight years as the Senate Minority Leader.
+                  </p>
+                  <p>
                   Hutchison is expected to face an uphill battle in her road to the presidency, with former president Brown keeping a consistent lead in the polls throughout the race so far. Despite Brown leaving office with extremely low approval numbers, his favorability has skyrocketed since the end of his presidency. After Dole’s interview performance, his numbers slipped even further, as his approval rating fell to the mid-30s. Despite these headwinds, Hutchinson has enjoyed a massive burst of enthusiasm after Dole’s withdrawal. Many Republican leaders have joined Dole in rallying around the vice president, with former president Bush officially endorsing Hutchison for the Republican presidential nomination this morning.
+                  </p>
               `
           },
           {
