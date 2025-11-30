@@ -66,7 +66,7 @@ campaignTrail_temp.global_parameter_json = [
             "has_visits": 1,
             "no_electoral_majority_image": "https://i.imgur.com/ns2gtKG.png",
             "creator": "Dan Bryan",
-            "display_year": "1992TBA"
+            "display_year": "Moonbeam"
         }
     }
   ]
@@ -535,7 +535,7 @@ campaignTrail_temp.global_parameter_json = [
         "id": 9,
         "year": 2000,
         "is_premium": 0,
-        "display_year": "1992TBA"
+        "display_year": "Moonbeam"
     }
   ]
   
@@ -1229,7 +1229,12 @@ WalkmanPlayer.init("#game_window", mainPlaylist);
   
   function addDynamicCSS() {
     var css = `
-  
+    #visit_window {
+        height: 75%;
+    }
+    .inner_window_question {
+        height: 62%;
+    }
   
     .inner_window_question h3 .mytooltip{
         background-color: lightskyblue;
