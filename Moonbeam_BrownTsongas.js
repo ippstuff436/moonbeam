@@ -97,7 +97,7 @@ new MutationObserver(() => {
           "pk": 345,
           "fields": {
               "priority": 2,
-              "description": "Your second-greatest rival for the Democratic nomination, Paul Tsongas, now shares your ticket. Together, you span a broad ideological spectrum among different policy issues, but you’ve both proven adept at tapping into anti-establishment consensus. ",
+              "description": "Your second-greatest rival for the Democratic nomination, Paul Tsongas, now has a spot on your ticket. Together, you span a broad ideological spectrum among different policy issues, especially converging on the environment and especially diverging on the economy, but so far, you’ve both proven adept at tapping into anti-establishment consensus.",
               "likelihood": 1
           }
       },
@@ -106,7 +106,7 @@ new MutationObserver(() => {
           "pk": 346,
           "fields": {
               "priority": 2,
-              "description": "Once a serious threat to capture the presidency, Ross Perot’s campaign has sputtered into terminal decline, especially as many of his positions have entered the political mainstream. On Larry King Live, Perot announces that he’s dropping out of the race, refusing to endorse either candidate but suggesting you’re more of a force for change than Bush is. How do you react to this development",
+              "description": "Once a serious threat to capture the presidency, Ross Perot’s campaign has sputtered into terminal decline, especially given that you’ve echoed many of his major talking points. On Larry King Live, Perot abruptly announces that he’s dropping out of the race, refusing to endorse either candidate but vaguely suggesting you’re more of a force for change than Bush is. How do you react to this development?",
               "likelihood": 1
           }
       },
@@ -115,7 +115,7 @@ new MutationObserver(() => {
           "pk": 348,
           "fields": {
               "priority": 2,
-              "description": "The AIDS crisis, active for much of the 1980s, has risen dramatically in stature from a stigmatized gay disease to a mainstream topic. In your public appearances, you’ve taken to wearing a red ribbon for AIDS awareness, but as the general election draws closer, many of your advisors are urging you to take a more defined stance on the topic. How do you respond?",
+              "description": "The AIDS crisis has risen dramatically in stature from a stigmatized gay disease to a mainstream political topic. In your public appearances, you’ve taken to wearing a red ribbon for AIDS awareness, but as the general election draws closer, many of your advisors, especially Jacques, are urging you to take a more defined stance. How do you respond?",
               "likelihood": 1
           }
       },
@@ -493,7 +493,7 @@ new MutationObserver(() => {
           "pk": 113732,
           "fields": {
               "priority": 2,
-              "description": "The AIDS crisis, active for much of the 1980s, has risen dramatically in stature from a stigmatized gay disease to a mainstream topic. In your public appearances, you’ve taken to wearing a red ribbon for AIDS awareness, but as the general election draws closer, many of your advisors are urging you to take a more defined stance on the topic. How do you respond?",
+              "description": "The AIDS crisis has risen dramatically in stature from a stigmatized gay disease to a mainstream political topic. In your public appearances, you’ve taken to wearing a red ribbon for AIDS awareness, but as the general election draws closer, many of your advisors, especially Jacques, are urging you to take a more defined stance. How do you respond?",
               "likelihood": 1
           }
       },
@@ -538,7 +538,7 @@ new MutationObserver(() => {
           "pk": 113869,
           "fields": {
               "priority": 3,
-              "description": "As the race kicks off after the GOP convention, your candidacy, initially one on the fringe, has entered the political mainstream. Still, Bush is in the lead financially, and your rhetoric has consistently veered leftward enough that donors simply aren’t lining up enough. With the polls tight, there’s still time to right the ship. \n",
+              "description": "As the race kicks off after the GOP convention, your candidacy, initially on the fringe, has entered the political mainstream. Still, Bush is in the lead financially, and your rhetoric has consistently veered leftward just enough that donors simply aren’t lining up enough. With the polls tight, there’s still time to right the ship.",
               "likelihood": 1
           }
       },
@@ -547,7 +547,7 @@ new MutationObserver(() => {
           "pk": 113889,
           "fields": {
               "priority": 3,
-              "description": "You began your campaign adhering to a $100 donation limit, but lifted that limit in May. Since then, you’ve recaptured your old fundraising glory, and despite your polling deficit, have drawn financially even with Bush. Sitting on top of a massive sum of money, you can put it towards just about anything you choose. How do you spend it?\n\n",
+              "description": "You began your campaign adhering to a $100 donation limit, but lifted that limit in May. Since then, you’ve recaptured your old fundraising glory, and despite your polling deficit, have drawn financially even with Bush. Sitting on top of a massive sum of money, you can put it towards just about anything you choose. How do you spend it?",
               "likelihood": 1
           }
       },
@@ -556,7 +556,7 @@ new MutationObserver(() => {
           "pk": 113906,
           "fields": {
               "priority": 3,
-              "description": "You began your campaign adhering to a $100 donation limit, but lifted that limit in May. Since then, you’ve recaptured your old fundraising glory, and despite your polling deficit, have drawn financially even with Bush. Sitting on top of a massive sum of money, you can put it towards just about anything you choose. How do you spend it?\n\n",
+              "description": "You began your campaign adhering to a $100 donation limit, but lifted that limit in May. Since then, you’ve recaptured your old fundraising glory, and despite your polling deficit, have drawn financially even with Bush. Sitting on top of a massive sum of money, you can put it towards just about anything you choose. How do you spend it?",
               "likelihood": 1
           }
       },
@@ -565,7 +565,7 @@ new MutationObserver(() => {
           "pk": 113923,
           "fields": {
               "priority": 3,
-              "description": "You began your campaign adhering to a $100 donation limit, but lifted that limit in May. Since then, you’ve recaptured your old fundraising glory, and despite your polling deficit, have drawn financially even with Bush. Sitting on top of a massive sum of money, you can put it towards just about anything you choose. How do you spend it?\n\n",
+              "description": "You began your campaign adhering to a $100 donation limit, but lifted that limit in May. Since then, you’ve recaptured your old fundraising glory, and despite your polling deficit, have drawn financially even with Bush. Sitting on top of a massive sum of money, you can put it towards just about anything you choose. How do you spend it?",
               "likelihood": 1
           }
       },
@@ -574,7 +574,7 @@ new MutationObserver(() => {
           "pk": 113940,
           "fields": {
               "priority": 3,
-              "description": "You began your campaign adhering to a $100 donation limit, but lifted that limit in May. Since then, you’ve recaptured your old fundraising glory, and despite your polling deficit, have drawn financially even with Bush. Sitting on top of a massive sum of money, you can put it towards just about anything you choose. How do you spend it?\n\n",
+              "description": "You began your campaign adhering to a $100 donation limit, but lifted that limit in May. Since then, you’ve recaptured your old fundraising glory, and despite your polling deficit, have drawn financially even with Bush. Sitting on top of a massive sum of money, you can put it towards just about anything you choose. How do you spend it?",
               "likelihood": 1
           }
       },
