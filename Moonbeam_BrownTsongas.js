@@ -178,7 +178,7 @@ new MutationObserver(() => {
           "pk": 362,
           "fields": {
               "priority": 3,
-              "description": "As the race kicks off after the GOP convention, your candidacy, initially one on the fringe, has entered the political mainstream. Despite this, you’re in dire straits: Bush is outraising and outspending you, and your polling deficit and forays into anti-corporate rhetoric have hurt you enough that you can’t simply cry to big business for a check. How do you resolve this issue?",
+              "description": "As the race kicks off after the GOP convention, your candidacy, initially one on the fringe, has entered the political mainstream. Despite your strong showing so far, Bush still maintains a large fundraising advantage over you, even though you’ve been steadily closing the gap. How do you move forward from here?",
               "likelihood": 1
           }
       },
@@ -502,7 +502,7 @@ new MutationObserver(() => {
           "pk": 113789,
           "fields": {
               "priority": 3,
-              "description": "As the race kicks off after the GOP convention, your candidacy, initially one on the fringe, has entered the political mainstream. Despite this, you’re in dire straits: Bush is outraising and outspending you, and your polling deficit and forays into anti-corporate rhetoric have hurt you enough that you can’t simply cry to big business for a check. How do you resolve this issue?",
+              "description": "As the race kicks off after the GOP convention, your candidacy, initially one on the fringe, has entered the political mainstream. Despite your strong showing so far, Bush still maintains a large fundraising advantage over you, even though you’ve been steadily closing the gap. How do you move forward from here?",
               "likelihood": 1
           }
       },
@@ -511,7 +511,7 @@ new MutationObserver(() => {
           "pk": 113809,
           "fields": {
               "priority": 3,
-              "description": "As the race kicks off after the GOP convention, your candidacy, initially one on the fringe, has entered the political mainstream. Despite this, you’re in dire straits: Bush is outraising and outspending you, and your polling deficit and forays into anti-corporate rhetoric have hurt you enough that you can’t simply cry to big business for a check. How do you resolve this issue?",
+              "description": "As the race kicks off after the GOP convention, your candidacy, initially one on the fringe, has entered the political mainstream. Despite your strong showing so far, Bush still maintains a large fundraising advantage over you, even though you’ve been steadily closing the gap. How do you move forward from here?",
               "likelihood": 1
           }
       },
@@ -520,7 +520,7 @@ new MutationObserver(() => {
           "pk": 113829,
           "fields": {
               "priority": 3,
-              "description": "As the race kicks off after the GOP convention, your candidacy, initially one on the fringe, has entered the political mainstream. Despite this, you’re in dire straits: Bush is outraising and outspending you, and your polling deficit and forays into anti-corporate rhetoric have hurt you enough that you can’t simply cry to big business for a check. How do you resolve this issue?",
+              "description": "As the race kicks off after the GOP convention, your candidacy, initially one on the fringe, has entered the political mainstream. Despite your strong showing so far, Bush still maintains a large fundraising advantage over you, even though you’ve been steadily closing the gap. How do you move forward from here?",
               "likelihood": 1
           }
       },
@@ -529,7 +529,7 @@ new MutationObserver(() => {
           "pk": 113849,
           "fields": {
               "priority": 3,
-              "description": "As the race kicks off after the GOP convention, your candidacy, initially one on the fringe, has entered the political mainstream. Despite this, you’re in dire straits: Bush is outraising and outspending you, and your polling deficit and forays into anti-corporate rhetoric have hurt you enough that you can’t simply cry to big business for a check. How do you resolve this issue?",
+              "description": "As the race kicks off after the GOP convention, your candidacy, initially one on the fringe, has entered the political mainstream. Despite your strong showing so far, Bush still maintains a large fundraising advantage over you, even though you’ve been steadily closing the gap. How do you move forward from here?",
               "likelihood": 1
           }
       },
@@ -29824,7 +29824,7 @@ new MutationObserver(() => {
               "candidate": 78,
               "answer_feedback": "Pundits note Bush’s aggressive new tone, which he embodies with a trip to the Bay Area, seeking to embarrass you on your home territory with a town hall in downtown San Francisco in which he gets into multiple verbal sparring matches. Meanwhile, you work diligently and keep on blowing through event after event in the swing states, always focusing on the next stop."
           }
-      },//test//
+      },
       {
           "model": "campaign_trail.answer_feedback",
           "pk": 113638,
