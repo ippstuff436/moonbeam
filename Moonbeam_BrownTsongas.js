@@ -2394,7 +2394,7 @@ new MutationObserver(() => {
           "pk": 113601,
           "fields": {
               "question": 113600,
-              "description": " This entire time, Bush has been painting me as the radical and him as the voice of reason, and I’ve been resisting that. We need to flip this around: I am a radical, in the sense that I’m the only one willing to call Bush out on his disdain for the common man. "
+              "description": "This entire time, Bush has been painting me as the radical and him as the voice of reason, and I’ve been resisting that. We need to flip this around: you’re damn right that I’m a radical, in the sense that I’m the only one willing to call Bush out on his disdain for the common man."
           }
       },
       {
@@ -2402,7 +2402,7 @@ new MutationObserver(() => {
           "pk": 113606,
           "fields": {
               "question": 113600,
-              "description": " Bush is doing what Dukakis did and getting ahead of himself. We’ll let him have that, play into it. While he frontruns thumping his chest like Mussolini, we’ll be working on a comeback. "
+              "description": "Bush is doing what Dukakis did and getting ahead of himself. We’ll let him have that, play into it. While he frontruns thumping his chest like Mussolini, we’ll be working on a comeback and revamping our ground game, making sure that we have the foundation for victory."
           }
       },
       {
@@ -2410,7 +2410,7 @@ new MutationObserver(() => {
           "pk": 113611,
           "fields": {
               "question": 113600,
-              "description": "\nWe need to fight fire with fire. I mean, George Bush? I can’t be losing an energy battle with that asshole! Let’s resuscitate some of our best words we used against Clinton, like “Mr. Hack,” show the president we mean business."
+              "description": "We need to fight fire with fire. I mean, George Bush? George Herbert Walker Bush? I can’t be losing an energy battle with that asshole! Let’s resuscitate some of our best attacks we used against Clinton, like “Mr. Hack,” show the president we mean business."
           }
       },
       {
@@ -2418,7 +2418,7 @@ new MutationObserver(() => {
           "pk": 113618,
           "fields": {
               "question": 113600,
-              "description": "\nBush’s polling looks good, but none of the fundamentals of the race have changed. He’s running on wishy-washy cultural appeals and foreign policy. Newsflash, George: people don’t care about apple pie and baseball, they care about their wallets!"
+              "description": "Bush’s polling looks good, but none of the fundamentals of the race have changed. He’s running on wishy-washy promises about our values and foreign policy. Newsflash, George: people don’t care about apple pie and baseball, they care about their wallets!"
           }
       },
       {
@@ -2426,7 +2426,7 @@ new MutationObserver(() => {
           "pk": 113627,
           "fields": {
               "question": 113626,
-              "description": " This entire time, Bush has been painting me as the radical and him as the voice of reason, and I’ve been resisting that. We need to flip this around: I am a radical, in the sense that I’m the only one willing to call Bush out on his disdain for the common man. "
+              "description": "This entire time, Bush has been painting me as the radical and him as the voice of reason, and I’ve been resisting that. We need to flip this around: you’re damn right that I’m a radical, in the sense that I’m the only one willing to call Bush out on his disdain for the common man."
           }
       },
       {
@@ -2434,7 +2434,7 @@ new MutationObserver(() => {
           "pk": 113632,
           "fields": {
               "question": 113626,
-              "description": " Bush is doing what Dukakis did and getting ahead of himself. We’ll let him have that, play into it. While he frontruns thumping his chest like Mussolini, we’ll be working on a comeback. "
+              "description": "Bush is doing what Dukakis did and getting ahead of himself. We’ll let him have that, play into it. While he frontruns thumping his chest like Mussolini, we’ll be working on a comeback and revamping our ground game, making sure that we have the foundation for victory."
           }
       },
       {
@@ -2442,7 +2442,7 @@ new MutationObserver(() => {
           "pk": 113637,
           "fields": {
               "question": 113626,
-              "description": "\nWe need to fight fire with fire. I mean, George Bush? I can’t be losing an energy battle with that asshole! Let’s resuscitate some of our best words we used against Clinton, like “Mr. Hack,” show the president we mean business."
+              "description": "We need to fight fire with fire. I mean, George Bush? George Herbert Walker Bush? I can’t be losing an energy battle with that asshole! Let’s resuscitate some of our best attacks we used against Clinton, like “Mr. Hack,” show the president we mean business."
           }
       },
       {
@@ -2450,7 +2450,7 @@ new MutationObserver(() => {
           "pk": 113644,
           "fields": {
               "question": 113626,
-              "description": "\nBush’s polling looks good, but none of the fundamentals of the race have changed. He’s running on wishy-washy cultural appeals and foreign policy. Newsflash, George: people don’t care about apple pie and baseball, they care about their wallets!"
+              "description": "Bush’s polling looks good, but none of the fundamentals of the race have changed. He’s running on wishy-washy promises about our values and foreign policy. Newsflash, George: people don’t care about apple pie and baseball, they care about their wallets!"
           }
       },
       {
@@ -29786,7 +29786,7 @@ new MutationObserver(() => {
           "fields": {
               "answer": 113606,
               "candidate": 78,
-              "answer_feedback": "Pundits note Bush’s aggressive new tone, which the man himself embodies with a trip to the Bay Area, seeking to embarrass you on your home territory. Meanwhile, you work diligently and keep on blowing through event after event in the swing states. "
+              "answer_feedback": "Pundits note Bush’s aggressive new tone, which he embodies with a trip to the Bay Area, seeking to embarrass you on your home territory with a town hall in downtown San Francisco in which he gets into multiple verbal sparring matches. Meanwhile, you work diligently and keep on blowing through event after event in the swing states, always focusing on the next stop."
           }
       },
       {
@@ -29822,7 +29822,7 @@ new MutationObserver(() => {
           "fields": {
               "answer": 113632,
               "candidate": 78,
-              "answer_feedback": "Pundits note Bush’s aggressive new tone, which the man himself embodies with a trip to the Bay Area, seeking to embarrass you on your home territory. Meanwhile, you work diligently and keep on blowing through event after event in the swing states. "
+              "answer_feedback": "Pundits note Bush’s aggressive new tone, which he embodies with a trip to the Bay Area, seeking to embarrass you on your home territory with a town hall in downtown San Francisco in which he gets into multiple verbal sparring matches. Meanwhile, you work diligently and keep on blowing through event after event in the swing states, always focusing on the next stop."
           }
       },
       {
@@ -29921,7 +29921,7 @@ new MutationObserver(() => {
           "fields": {
               "answer": 113676,
               "candidate": 78,
-              "answer_feedback": ": Did you know Dan Quayle hates Social Security? Did you know Quayle voted directly against the farmers of his own state? Did you know that Quayle voted to kill funding for educational programs on math and science? Though they knew he was a conservative, people are shocked by these revelations, though the third one… actually explains a lot."
+              "answer_feedback": "Did you know Dan Quayle hates Social Security? Did you know Quayle voted directly against the farmers of his own state? Did you know that Quayle voted to kill funding for educational programs on math and science? Though they knew he was a conservative, people are shocked by these revelations, though the third one… actually explains a lot."
           }
       },
       {
@@ -36727,35 +36727,35 @@ new MutationObserver(() => {
                   "Running Mate": e.running_mate_last_name
               },            
               "ending text": `
-                  THE DETROIT FREE PRESS
+                  <h4>THE DETROIT FREE PRESS</h4>
   
-                  NOVEMBER 6TH, 1999
+                  <h4>NOVEMBER 6TH, 1999</h4>
   
-                  LUCAS APPROVES STORY THAT KILLS HAN SOLO AS FANS REVOLT AND PRESIDENT BROWN CONDEMNS
-  
-  
-                  A great disturbance has rocked the Star Wars fanbase. As if there hasn’t been enough disturbance from the new film Episode I: The Beginning, which came out in May of this year to mixed reviews, controversy has once again reared its head in the world’s largest sci-fi fandom. In an extremely controversial turn of events in the new novel The New Jedi Order: Strike From Beyond, Han Solo, the space pirate turned Rebel hero, has been killed off. The decision, approved by George Lucas and Lucasfilm and officially written by R.A Salvatore, has created a great deal of backlash from fans around the world.
-  
-                  Star Wars has long had various novels associated with the franchise, but they have often been criticized for their vapid, low-stakes nature. Under new publisher Del Rey Books, Strike From Beyond was intended to begin a darker, more mature tone for Star Wars novels going forward. No one, however, expected the death of a fan-favorite character in the first novel of what is supposed to become a 23-book series. Close to the end of the book, protagonist Han Solo sacrifices himself to save his son Jacen Solo and his best friend Chewbacca, along with other civilians, as they escape on a transport from the new invaders of the galaxy, called the Yuuzhan Vong. 
-  
-                  Within days of the book’s release, internet chat rooms and fan clubs were in utter disbelief and filled with outrage. Countless threats, petitions, and other messages have flooded Lucasfilm’s office in Marin County, California.
-  
-                  “Han Solo was my favorite character,” said one person who will remain anonymous. “I–we all grew up with him. It just doesn’t make sense to kill him off like he’s meant to be expendable”
-  
-                  Author R.A Salvatore, best known for his work in the fantasy genre, has become the biggest scapegoat for the character’s death, even though he insists it wasn’t his decision.
-  
-                  “I was told to kill Han,” Salvatore said, “I wasn’t the one who came up with the idea. I love Han as much as everyone else, but it's just what Lucasfilm wanted.” Despite the statements, some revolted fans have begun burning their copies of Strike From Beyond, and, similar to Lucasfilm’s office, have sent threats, angry letters, and other messages and emails to his house and his website. 
-  
-                  The decision to kill Han has become a national news story on the level of the White House, as President Brown addressed the backlash yesterday while giving a speech to a South Carolina high school. “The death of a character in a book does not warrant wishing death on real people,” Brown said. “Han Solo stood for freedom, not for sending death threats behind a screen or on paper. I absolutely understand all kinds of grief, but sending death threats because you didn’t like a story you read is cowardly.”  
-  
-                  In typical Brown fashion, he found a way to connect the story’s events with a real-life analogy from his administration, comparing the fans’ resistance to accepting this change with his 1994 Energy Transition Act, which defunded fossil fuel subsidies in favor of renewable energy. “I was told that I was killing the country, and now, they’re saying a writer killed Han Solo. But killing, death, is not an absolute. Things can still get better, and maybe these fans will eventually appreciate the decision, like they did with the Energy Transition Act.” 
-  
-                  Lucasfilm and Del Rey defended the controversial decision, framing it as an important step to make ideas fresh going forward. “The New Jedi Order is a series about consequences,” said editor Sue Rostoni. “We were aiming for a reason for readers to believe that no character, even a movie character fundamental to the franchise like Han Solo, is safe.”
-  
-                  Despite the publicity created from this decision, from a financial standpoint, it seems to have backfired, as the sales from Strike From Beyond have underperformed several past Star Wars books such as Timothy Zahn’s The Thrawn Trilogy and his standalone Vision of the Future. Still, taking The Beginning’s $1.2 billion dollar gross into account, the performance of a single book likely will not greatly impact Lucasfilm’s finances. However the events of the first novel affect the rest of the story of The New Jedi Order, one thing is for certain: the galaxy will surely miss Han Solo, and so will the fans.
+                  <h3>LUCAS APPROVES STORY THAT KILLS HAN SOLO AS FANS REVOLT AND PRESIDENT BROWN CONDEMNS</h3>
   
   
-                  EDITOR’S NOTE: A “Han Lives” movement has recently been gaining traction online, calling for Lucasfilm to reverse the decision. Lucasfilm has refused all requests for comments on the matter.
+                  <p>A great disturbance has rocked the Star Wars fanbase. As if there hasn’t been enough disturbance from the new film Episode I: The Beginning, which came out in May of this year to mixed reviews, controversy has once again reared its head in the world’s largest sci-fi fandom. In an extremely controversial turn of events in the new novel The New Jedi Order: Strike From Beyond, Han Solo, the space pirate turned Rebel hero, has been killed off. The decision, approved by George Lucas and Lucasfilm and officially written by R.A Salvatore, has created a great deal of backlash from fans around the world.</p>
+  
+                  <p>Star Wars has long had various novels associated with the franchise, but they have often been criticized for their vapid, low-stakes nature. Under new publisher Del Rey Books, Strike From Beyond was intended to begin a darker, more mature tone for Star Wars novels going forward. No one, however, expected the death of a fan-favorite character in the first novel of what is supposed to become a 23-book series. Close to the end of the book, protagonist Han Solo sacrifices himself to save his son Jacen Solo and his best friend Chewbacca, along with other civilians, as they escape on a transport from the new invaders of the galaxy, called the Yuuzhan Vong.</p>
+  
+                  <p>Within days of the book’s release, internet chat rooms and fan clubs were in utter disbelief and filled with outrage. Countless threats, petitions, and other messages have flooded Lucasfilm’s office in Marin County, California.</p>
+  
+                  <p>“Han Solo was my favorite character,” said one person who will remain anonymous. “I–we all grew up with him. It just doesn’t make sense to kill him off like he’s meant to be expendable”</p>
+  
+                  <p>Author R.A Salvatore, best known for his work in the fantasy genre, has become the biggest scapegoat for the character’s death, even though he insists it wasn’t his decision.</p>
+  
+                  <p>“I was told to kill Han,” Salvatore said, “I wasn’t the one who came up with the idea. I love Han as much as everyone else, but it's just what Lucasfilm wanted.” Despite the statements, some revolted fans have begun burning their copies of Strike From Beyond, and, similar to Lucasfilm’s office, have sent threats, angry letters, and other messages and emails to his house and his website.</p>
+  
+                  <p>The decision to kill Han has become a national news story on the level of the White House, as President Brown addressed the backlash yesterday while giving a speech to a South Carolina high school. “The death of a character in a book does not warrant wishing death on real people,” Brown said. “Han Solo stood for freedom, not for sending death threats behind a screen or on paper. I absolutely understand all kinds of grief, but sending death threats because you didn’t like a story you read is cowardly.”</p>  
+  
+                  <p>In typical Brown fashion, he found a way to connect the story’s events with a real-life analogy from his administration, comparing the fans’ resistance to accepting this change with his 1994 Energy Transition Act, which defunded fossil fuel subsidies in favor of renewable energy. “I was told that I was killing the country, and now, they’re saying a writer killed Han Solo. But killing, death, is not an absolute. Things can still get better, and maybe these fans will eventually appreciate the decision, like they did with the Energy Transition Act.”</p>
+  
+                  <p>Lucasfilm and Del Rey defended the controversial decision, framing it as an important step to make ideas fresh going forward. “The New Jedi Order is a series about consequences,” said editor Sue Rostoni. “We were aiming for a reason for readers to believe that no character, even a movie character fundamental to the franchise like Han Solo, is safe.”</p>
+  
+                  <p>Despite the publicity created from this decision, from a financial standpoint, it seems to have backfired, as the sales from Strike From Beyond have underperformed several past Star Wars books such as Timothy Zahn’s The Thrawn Trilogy and his standalone Vision of the Future. Still, taking The Beginning’s $1.2 billion dollar gross into account, the performance of a single book likely will not greatly impact Lucasfilm’s finances. However the events of the first novel affect the rest of the story of The New Jedi Order, one thing is for certain: the galaxy will surely miss Han Solo, and so will the fans.</p>
+  
+  
+                  <p>EDITOR’S NOTE: A “Han Lives” movement has recently been gaining traction online, calling for Lucasfilm to reverse the decision. Lucasfilm has refused all requests for comments on the matter.</p>
               `
           },
           {
@@ -36767,70 +36767,21 @@ new MutationObserver(() => {
                       "Establishment Use": endingstuff["Establishment Use"],
                       "Running Mate": e.running_mate_last_name
               },                 "ending text": `
-                  Exit Polling and Opinion Polling Paints a Clear Picture of Brown’s Mandate
-                  Oscar Washington, Los Angeles Times
-                  November 8, 1996
-                  After President Jerry Brown’s crushing victory in Tuesday’s presidential election, even
-                  those who were predicting a Brown victory were taken aback by the size of the landslide.
-                  However, according to the newest data from exit polls taken at election, alongside other opinion
-                  polls, Brown’s victory was backed by a strong coalition of ideological liberals, minority voters,
-                  fiscal conservatives, and crucially, those who supported his handling of the wars in Afghanistan
-                  and Sudan. Of the 60% of Americans who voted for Brown, 73% said that his military record as
-                  commander-in-chief was the primary reason that they selected him. Notably, the self-described
-                  17% of conservative Republicans who voted for Brown listed his handling of the wars as their
-                  primary reason for voting for him at a rate of 91%. Interestingly, conservative independents, of
-                  whom Brown claimed 34%, only listed his handling of the war as their primary motivation with
-                  a 60% majority, with his fiscal policies, including efforts to decrease the deficit and restructure
-                  taxes, coming in at 25%, higher than any other group. Brown also received 38% of the vote from
-                  self-described born again Christians, roughly doubling his percentage from 1992.
-                  As expected, Brown cleaned up with liberals, with 96% of liberal Democrats, 70% of
-                  liberal independents, and 54% of liberal Republicans selecting him, and also won the moderate
-                  and independent votes by wide margins. However, although he was already projected to do well
-                  in the category, he made unexpectedly deep gains with minority voters. In addition to being the
-                  choice of 48% of the white population, Brown won 90% of black voters, 83% of Hispanic voters,
-                  and 52% of Asian voters, winning a majority of the group after losing them by 20% in 1992. One
-                  of the few groups that Brown didn’t do well in was with voters whose yearly income was over
-                  $100,000, winning 44% of the bracket, though he easily won every other income category.
-                  Perhaps the greater electoral story of the election was President Brown’s Republican
-                  opponent, Phil Gramm, and his chronic unpopularity. Although voters consistently agreed with
-                  some of Gramm’s political views, they rejected that man himself, giving him a 36% approval
-                  rating in the last post-election poll. When asked what their primary reason for disapproval was,
-                  34% of respondents listed his personal character as a top priority, with many specifically
-                  pointing to Gramm's investment in a pornography film as proof of his moral flexibility. Another
-                  27% of respondents specifically listed Gramm’s campaign policy to “Slash the red tape on
-                  everything” as the top factor in his unpopularity, with Gramm’s promise to cut funding to many
-                  well-liked government programs seemingly hurting him. Of Gramm’s policies, his most popular
-                  was to continue President Brown’s policies in the wars in Afghanistan and Sudan, with 64%
-                  approving of Gramm’s position.
-                  Beyond Gramm’s obvious weaknesses, the third-party campaign of Pat Buchanan clearly
-                  dug into Gramm’s support. Of Buchanan voters, a whopping 73% said that Gramm was their
-                  next choice in the event that they had to choose between him and President Brown. At the same
-                  time, Buchanan also had unique ideological backing. Despite 77% of Americans approving of
-                  Brown’s handling of the wars, 83% of Buchanan voters listed Buchanan’s opposition to the wars
-                  as the primary reason for their decision, with the next closest percentage, only 7%, saying that
-                  they chose Buchanan because Gramm wasn’t conservative enough. This conservatism hurt
-                  Buchanan overall, though, as only 32% said that they had a positive opinion of him, with 55%
-                  describing him as too extreme to be president. As expected, Buchanan’s only strong
-                  demographic was Americans opposed to the wars, with 59% of anti-war voters selecting him.
-                  As far as voting demographics of the war go, a titanic 97% expressed condemnation for
-                  the acts of 26/2 and the collapse of the North Tower of the World Trade Center. Mastermind
-                  Ramzi Yousef’s capture in September, widely seen as a monumentally important moment in the
-                  campaign, was an action that 92% of voters approved of, although 40% said that they wished he
-                  had been killed instead. 64% approved of President Brown’s plan to withdraw from Afghanistan
-                  by June 1997, while 70% approved of Brown’s plan to withdraw from Sudan by March 1998.
-                  When asked about the nation’s priorities, 86% listed defended the nation from terrorism as such,
-                  the highest out of any issue, including a strong economy at 78%. Less than 1% approved of
-                  Al-Qaeda, though only 23% were able to identify the group’s leader, Abu Ubaidah al-Banshiri,
-                  while 87% knew the deceased former leader Osama bin Laden.
-                  As the first president since George Washington to win a unanimous victory in the
-                  electoral college, holding an approval rating of 74%, Jerry Brown has a decisive electoral
-                  mandate from a wide-reaching coalition. It remains to be seen if his popularity will hold,
-                  especially since the president has openly stated that he wants to focus on domestic policy in
-                  office with the wars set to come to an end in 17 months. Given his near-supermajorities in the
-                  Senate and House of Representatives, it seems likely that whatever legislation the president
-                  passes won’t need to go under much negotiation, and will be judged on its own merits.
-                  Nevertheless, at this moment, President Brown can thank his unique popularity for his victory in
-                  an election that seems certain to reshape American politics.
+                  <h2>Exit Polling and Opinion Polling Paints a Clear Picture of Brown’s Mandate
+                  </h2>
+                  <h4>Oscar Washington, Los Angeles Times
+                  </h4>
+                  <h4>November 8, 1996
+                  </h4>
+                  <p>
+                  After President Jerry Brown’s crushing victory in Tuesday’s presidential election, even those who were predicting a Brown victory were taken aback by the size of the landslide. However, according to the newest data from exit polls taken at election, alongside other opinion polls, Brown’s victory was backed by a strong coalition of ideological liberals, minority voters, fiscal conservatives, and crucially, those who supported his handling of the wars in Afghanistan and Sudan. Of the 60% of Americans who voted for Brown, 73% said that his military record as commander-in-chief was the primary reason that they selected him. Notably, the self-described 17% of conservative Republicans who voted for Brown listed his handling of the wars as their primary reason for voting for him at a rate of 91%. Interestingly, conservative independents, of whom Brown claimed 34%, only listed his handling of the war as their primary motivation with a 60% majority, with his fiscal policies, including efforts to decrease the deficit and restructure taxes, coming in at 25%, higher than any other group. Brown also received 38% of the vote from self-described born again Christians, roughly doubling his percentage from 1992. As expected, Brown cleaned up with liberals, with 96% of liberal Democrats, 70% of liberal independents, and 54% of liberal Republicans selecting him, and also won the moderate and independent votes by wide margins. However, although he was already projected to do well in the category, he made unexpectedly deep gains with minority voters. In addition to being the choice of 48% of the white population, Brown won 90% of black voters, 83% of Hispanic voters, and 52% of Asian voters, winning a majority of the group after losing them by 20% in 1992. One of the few groups that Brown didn’t do well in was with voters whose yearly income was over $100,000, winning 44% of the bracket, though he easily won every other income category.
+                  </p> 
+                  <p>
+                  Perhaps the greater electoral story of the election was President Brown’s Republican opponent, Phil Gramm, and his chronic unpopularity. Although voters consistently agreed with some of Gramm’s political views, they rejected that man himself, giving him a 36% approval rating in the last post-election poll. When asked what their primary reason for disapproval was, 34% of respondents listed his personal character as a top priority, with many specifically pointing to Gramm's investment in a pornography film as proof of his moral flexibility. Another 27% of respondents specifically listed Gramm’s campaign policy to “Slash the red tape oneverything” as the top factor in his unpopularity, with Gramm’s promise to cut funding to many well-liked government programs seemingly hurting him. Of Gramm’s policies, his most popular was to continue President Brown’s policies in the wars in Afghanistan and Sudan, with 64% approving of Gramm’s position Beyond Gramm’s obvious weaknesses, the third-party campaign of Pat Buchanan clearly dug into Gramm’s support. Of Buchanan voters, a whopping 73% said that Gramm was their next choice in the event that they had to choose between him and President Brown. At the same time, Buchanan also had unique ideological backing. Despite 77% of Americans approving of Brown’s handling of the wars, 83% of Buchanan voters listed Buchanan’s opposition to the wars as the primary reason for their decision, with the next closest percentage, only 7%, saying that they chose Buchanan because Gramm wasn’t conservative enough. This conservatism hurt Buchanan overall, though, as only 32% said that they had a positive opinion of him, with 55% describing him as too extreme to be president. As expected, Buchanan’s only strong demographic was Americans opposed to the wars, with 59% of anti-war voters selecting him.
+                  </p> 
+                  <p>
+                  As far as voting demographics of the war go, a titanic 97% expressed condemnation for the acts of 26/2 and the collapse of the North Tower of the World Trade Center. Mastermind Ramzi Yousef’s capture in September, widely seen as a monumentally important moment in the campaign, was an action that 92% of voters approved of, although 40% said that they wished he had been killed instead. 64% approved of President Brown’s plan to withdraw from Afghanistan by June 1997, while 70% approved of Brown’s plan to withdraw from Sudan by March 1998. When asked about the nation’s priorities, 86% listed defended the nation from terrorism as such, the highest out of any issue, including a strong economy at 78%. Less than 1% approved of Al-Qaeda, though only 23% were able to identify the group’s leader, Abu Ubaidah al-Banshiri, while 87% knew the deceased former leader Osama bin Laden. As the first president since George Washington to win a unanimous victory in the electoral college, holding an approval rating of 74%, Jerry Brown has a decisive electoral mandate from a wide-reaching coalition. It remains to be seen if his popularity will hold, especially since the president has openly stated that he wants to focus on domestic policy in office with the wars set to come to an end in 17 months. Given his near-supermajorities in the Senate and House of Representatives, it seems likely that whatever legislation the president passes won’t need to go under much negotiation, and will be judged on its own merits. Nevertheless, at this moment, President Brown can thank his unique popularity for his victory in an election that seems certain to reshape American politics.
+                  </p>
                   `
           },
           {
@@ -36841,64 +36792,27 @@ new MutationObserver(() => {
                       "Answer Check": e.player_answers.includes(11112326),
                       "Establishment Use": endingstuff["Establishment Use"],
                       "Running Mate": e.running_mate_last_name
-              },                 "ending text": `
-                  A Greater Privilege
-                  The excitement had been building for hours inside the Westin Galleria Hotel in Houston. First,
-                  the noncompetitive states had come in—Alabama, South Carolina, Utah—inspiring mild cheers
-                  from their partisans. Then, there’d been a raft of Republican-leaning states. These had been no
-                  great surprises; there were no stunning upsets from what the forecasters had predicted. Still, their
-                  number had steadily grown—173 to 188 to 191. The crowds had watched the screens at his
-                  Election Night party, bouncing between despair and anticipation, until finally, CNN called it.
-                  There were still votes to be counted, but according to their projections: George H. W. Bush had
-                  avoided defeat. A cheer went up through the building.
-                  He could hear their shouts echoing through the building, but the sensation George felt in the big
-                  hotel room was exhaustion. It had been a hard four years and an even harder campaign. His body
-                  felt ragged, overused. He imagined himself as a rag doll struggling itself stitched together after
-                  weeks of being jerked around.
-                  George was aware of a shape standing in the door. He turned and saw his personal assistant, a
-                  loyal man, holding a cell phone. For a moment, he let himself feel a bit of excitement. “Michael,
-                  is that Governor Brown calling for his concession?”
-                  The man shook his head no. “Uh, no. I, uh, was able to get through to Mr. Bush like you—. I
-                  mean, I was able to get through to your son. I know you’d wanted to talk to him before…”
-                  George offered some vague New England platitude, took the phone, and ushered the man away.
-                  Then, he took a breath and took the call off hold. “Hi, Junior. Glad you stayed up.”
-                  There was the sound of breathing on the other end. A hand something down on a counter. “Your
-                  daughter-in-law went to bed, but I’ve been talking to Jeb.” A pause as the voice on the other end
-                  took a bite of something. “He’ll probably want to call you when things settle down.”
-                  “I see!” He blinked a few times, forced himself to straighten up in his chair. “Well, that’ll be
-                  something to really look forward to.” He wandered around the hotel room, busying himself by
-                  making sure that his tie was straightened and peering into the monitor that displayed the happy
-                  crowds in the hotel’s conference room. They were playing This Land is Your Land, a song he
-                  had used in 1988. “It was a good night. It was good for everyone.”
-                  “I suppose you managed to clear the bar and win an election.”
-                  “Oh, certainly. It’s going to be a new era moving forward, Junior. No more having to worry
-                  about legacy, nothing about being less than Reagan.” He continued staring into the tiny monitor.
-                  He wished they would cheer louder, make themselves heard to Junior over the phone. “Things
-                  are going to be different these next few years.”
-                  There was a long pause. George was sure their call had been disconnected. Then, in a voice that
-                  mixed with the static came a low rumble. “No, Poppy. It’s not.”
-                  In the background, the irony of him using Woody Guthrie’s scathing critique of greed and
-                  American unexceptionalism finally clicked with him. George gripped the phone hard.
-                  “You’ve made your choices. You can't go tellin’ me there’s going to be a new beginnin’ or
-                  anything. None of this fresh start stuff is real. This country got started down a path already,
-                  y’know? By winning, all you did was guarantee, uh, that you’ll be the one dealing with the
-                  consequences of your actions, and not Jerry Brown.”
-                  “Okay.”
-                  “No one’s going to bail you out of your messes for you, Poppy. This isn’t Iran-Contra.”
-                  George was quiet and stared at his feet. He swallowed to bury the heavy feeling in his throat.
-                  “Well, Junior, I have to go now. The crowd out here is getting excited, and they’re letting me
-                  know that I should give my victory speech so that I can get to bed early. We can talk about this
-                  later, alright?”
-                  There was an exasperated sigh through the receiver followed by the sound of somebody loudly
-                  munching on a pretzel. “Alright. Well, I’m gonna go to bed anyway. Don’t forget that Jeb will
-                  call you. We’ll have a nice long talk in the morning.”
-                  “Okay, Junior, I love you,” said George, only to be interrupted by the sound of the call
-                  disconnecting. He let the drone of the silent telephone bore into him. He allowed himself a few
-                  brief moments of quiet before putting back on his mask of professional competence and exiting
-                  his room. He forced himself to emerge and greet his many smiling aides, quickly complimenting
-                  them or shaking their hands. Then, with Barbara at his side, he stepped out onto the stage before
-                  blinding stage lights. He could not see the crowd in front of him but he could hear their voices.
-              `
+              },                 "ending text": 
+                                    `
+                                        <h1>A Greater Privilege</h1>
+                                        <p>The excitement had been building for hours inside the Westin Galleria Hotel in Houston. First, the noncompetitive states had come in—Alabama, South Carolina, Utah—inspiring mild cheers from their partisans. Then, there’d been a raft of Republican-leaning states. These had been no great surprises; there were no stunning upsets from what the forecasters had predicted. Still, their number had steadily grown—173 to 188 to 191. The crowds had watched the screens at his Election Night party, bouncing between despair and anticipation, until finally, CNN called it. There were still votes to be counted, but according to their projections: George H. W. Bush had avoided defeat. A cheer went up through the building.</p>
+                                        <p>He could hear their shouts echoing through the building, but the sensation George felt in the big hotel room was exhaustion. It had been a hard four years and an even harder campaign. His body felt ragged, overused. He imagined himself as a rag doll struggling itself stitched together after weeks of being jerked around.</p>
+                                        <p>George was aware of a shape standing in the door. He turned and saw his personal assistant, a loyal man, holding a cell phone. For a moment, he let himself feel a bit of excitement. “Michael, is that Governor Brown calling for his concession?”</p>
+                                        <p>The man shook his head no. “Uh, no. I, uh, was able to get through to Mr. Bush like you—. I mean, I was able to get through to your son. I know you’d wanted to talk to him before…”</p>
+                                        <p>George offered some vague New England platitude, took the phone, and ushered the man away. Then, he took a breath and took the call off hold. “Hi, Junior. Glad you stayed up.”</p>
+                                        <p>There was the sound of breathing on the other end. A hand something down on a counter. “Your daughter-in-law went to bed, but I’ve been talking to Jeb.” A pause as the voice on the other end took a bite of something. “He’ll probably want to call you when things settle down.”</p>
+                                        <p>“I see!” He blinked a few times, forced himself to straighten up in his chair. “Well, that’ll be something to really look forward to.” He wandered around the hotel room, busying himself by making sure that his tie was straightened and peering into the monitor that displayed the happy crowds in the hotel’s conference room. They were playing This Land is Your Land, a song he had used in 1988. “It was a good night. It was good for everyone.”</p>
+                                        <p>“I suppose you managed to clear the bar and win an election.”</p>
+                                        <p>“Oh, certainly. It’s going to be a new era moving forward, Junior. No more having to worry about legacy, nothing about being less than Reagan.” He continued staring into the tiny monitor. He wished they would cheer louder, make themselves heard to Junior over the phone. “Things are going to be different these next few years.”</p>
+                                        <p>There was a long pause. George was sure their call had been disconnected. Then, in a voice that mixed with the static came a low rumble. “No, Poppy. It’s not.”</p>
+                                        <p>In the background, the irony of him using Woody Guthrie’s scathing critique of greed and American unexceptionalism finally clicked with him. George gripped the phone hard.</p>
+                                        <p>“You’ve made your choices. You can't go tellin’ me there’s going to be a new beginnin’ or anything. None of this fresh start stuff is real. This country got started down a path already, y’know? By winning, all you did was guarantee, uh, that you’ll be the one dealing with the consequences of your actions, and not Jerry Brown.”</p>
+                                        <p>“Okay.”</p>
+                                        <p>“No one’s going to bail you out of your messes for you, Poppy. This isn’t Iran-Contra.”</p>
+                                        <p>George was quiet and stared at his feet. He swallowed to bury the heavy feeling in his throat. “Well, Junior, I have to go now. The crowd out here is getting excited, and they’re letting me know that I should give my victory speech so that I can get to bed early. We can talk about this later, alright?”</p>
+                                        <p>There was an exasperated sigh through the receiver followed by the sound of somebody loudly munching on a pretzel. “Alright. Well, I’m gonna go to bed anyway. Don’t forget that Jeb will call you. We’ll have a nice long talk in the morning.”</p>
+                                        <p>“Okay, Junior, I love you,” said George, only to be interrupted by the sound of the call disconnecting. He let the drone of the silent telephone bore into him. He allowed himself a few brief moments of quiet before putting back on his mask of professional competence and exiting his room. He forced himself to emerge and greet his many smiling aides, quickly complimenting them or shaking their hands. Then, with Barbara at his side, he stepped out onto the stage before blinding stage lights. He could not see the crowd in front of him but he could hear their voices.</p>
+                                    `
           },
           {
               "pk": "Texas Monthly",
@@ -36984,38 +36898,25 @@ new MutationObserver(() => {
                       "Running Mate": e.running_mate_last_name
               },                 
               "ending text": `
-                  The Guardian
-                  White House Enacts a “Sweeping Investigation” into its Ranks Following April 1st “Cyberattacks”
-  
-                  This article is 12 years old.
-  
-                  April 3rd, 2013 
-                  Lee H. Jenkins
-  
-                  On a normal Monday Pentagon briefing, newly minted commander-in-chief Jerry Brown, who had finally ascended to the nation’s highest civilian and military rank on his fourth try, met with Secretary of Defense Jack Reed and other Pentagon top brass to discuss the administration’s approaches to conflict in the Middle East.
-  
-                  The group was supposed to view a presentation created by an aspiring army personnel, one M. A. Milley, commander of the 3rd Armed Corps in Texas, on possible routes the Brown administration could take in regards to the inherited wars in Afghanistan and Iraq. Prior to the meeting, Brown had repeatedly stressed the need for a united roundtable discussion, which every American commander was encouraged to take part in, regarding foreign policy and the country’s approach to terror cells such as Al-Qaeda or the increasingly active Daesh, going as far as to say that the armed forces needed to “get their act together” in a closed cabinet meeting back in February.
-  
-                  The presentation was submitted via URL on the White House’s confidential email server. However, when Secretary Reed clicked on the link through his laptop, which was connected to a projector in the room, instead of war plans, the president and his aides were subjected to the YouTube video of Rick Astley’s hit 1987 pop single “Never Gonna Give You Up.”
-  
-                  Initially, Reed tried closing the video player window. However, the window through which the video was being broadcast was frozen and refused to budge. Reed then attempted lowering the volume, but befell a fate similar to the first attempt. Finally, Reed decided to simply go ahead and let the music video play out, but to the dismay of the officers sitting in the room, the video was set to loop every time it ended. Finally, the SOD powered off his laptop by holding down the power button. Milley swore that he had “no clue” over what may have happened, leading some to believe that the commander’s email may have been breached, allowing an unaffiliated, unidentified third-party to spy on top-secret Pentagon information.
-  
-                  The incident has already been used numerous times to bash the administration for its perceived incompetence, with radio host and political pundit Rush Limbaugh stating that “the same way you can't teach an old dog new tricks, you can't expect a decrepit, old, has-been to be able to defend our country.”
-  
-                  It's no secret that Brown’s old age certainly did him no favors in the election, considering the breadth of his narrow win over Republican candidate Mike Huckabee. It goes without saying that this incident only adds fuel to the fire, legitimizing the claims that Brown is too “out of touch” with the modern world and technology.
-  
-                  Regardless, it appears the President won't take this lying down. On Tuesday, he already issued a sweeping investigation into the Department of Defense, aimed at maintaining OPSEC (operational security), as well as a personal investigation into this supposed third party, calling it a “vicious cybercriminal group” which “must be brought to justice.
-  
-                  As for Milley, with few in the armed forces willing to vouch for him, a demotion or dishonorable discharge is looking more and more like a serious possibility.
-  
-                  Other Stories (from April 3rd 2013):
-  
-                  >> South Park to feature zombie Jerry Brown in upcoming season READ MORE
-  
-                  >> The word most closely associated with the President is “old”, study finds READ MORE
-  
-                  >> “The Croods” movie rakes in over 180 million dollars at the Box Office READ MORE
-  
+                    <h1>The Guardian</h1>
+                    <h2>White House Enacts a “Sweeping Investigation” into its Ranks Following April 1st “Cyberattacks”</h2>
+                    <p><em>This article is 12 years old.</em></p>
+                    <p><strong>April 3rd, 2013</strong><br />
+                    Lee H. Jenkins</p>
+                    <p>On a normal Monday Pentagon briefing, newly minted commander-in-chief Jerry Brown, who had finally ascended to the nation’s highest civilian and military rank on his fourth try, met with Secretary of Defense Jack Reed and other Pentagon top brass to discuss the administration’s approaches to conflict in the Middle East.</p>
+                    <p>The group was supposed to view a presentation created by an aspiring army personnel, one M. A. Milley, commander of the 3rd Armed Corps in Texas, on possible routes the Brown administration could take in regards to the inherited wars in Afghanistan and Iraq. Prior to the meeting, Brown had repeatedly stressed the need for a united roundtable discussion, which every American commander was encouraged to take part in, regarding foreign policy and the country’s approach to terror cells such as Al-Qaeda or the increasingly active Daesh, going as far as to say that the armed forces needed to “get their act together” in a closed cabinet meeting back in February.</p>
+                    <p>The presentation was submitted via URL on the White House’s confidential email server. However, when Secretary Reed clicked on the link through his laptop, which was connected to a projector in the room, instead of war plans, the president and his aides were subjected to the YouTube video of Rick Astley’s hit 1987 pop single “Never Gonna Give You Up.”</p>
+                    <p>Initially, Reed tried closing the video player window. However, the window through which the video was being broadcast was frozen and refused to budge. Reed then attempted lowering the volume, but befell a fate similar to the first attempt. Finally, Reed decided to simply go ahead and let the music video play out, but to the dismay of the officers sitting in the room, the video was set to loop every time it ended. Finally, the SOD powered off his laptop by holding down the power button. Milley swore that he had “no clue” over what may have happened, leading some to believe that the commander’s email may have been breached, allowing an unaffiliated, unidentified third-party to spy on top-secret Pentagon information.</p>
+                    <p>The incident has already been used numerous times to bash the administration for its perceived incompetence, with radio host and political pundit Rush Limbaugh stating that “the same way you can't teach an old dog new tricks, you can't expect a decrepit, old, has-been to be able to defend our country.”</p>
+                    <p>It's no secret that Brown’s old age certainly did him no favors in the election, considering the breadth of his narrow win over Republican candidate Mike Huckabee. It goes without saying that this incident only adds fuel to the fire, legitimizing the claims that Brown is too “out of touch” with the modern world and technology.</p>
+                    <p>Regardless, it appears the President won't take this lying down. On Tuesday, he already issued a sweeping investigation into the Department of Defense, aimed at maintaining OPSEC (operational security), as well as a personal investigation into this supposed third party, calling it a “vicious cybercriminal group” which “must be brought to justice.”</p>
+                    <p>As for Milley, with few in the armed forces willing to vouch for him, a demotion or dishonorable discharge is looking more and more like a serious possibility.</p>
+                    <h3>Other Stories (from April 3rd 2013):</h3>
+                    <ul>
+                    <li>> South Park to feature zombie Jerry Brown in upcoming season <strong>READ MORE</strong></li>
+                    <li>> The word most closely associated with the President is “old”, study finds <strong>READ MORE</strong></li>
+                    <li>> “The Croods” movie rakes in over 180 million dollars at the Box Office <strong>READ MORE</strong></li>
+                    </ul>
                   `
           },
           {
