@@ -29824,7 +29824,7 @@ new MutationObserver(() => {
               "candidate": 78,
               "answer_feedback": "Pundits note Bush’s aggressive new tone, which he embodies with a trip to the Bay Area, seeking to embarrass you on your home territory with a town hall in downtown San Francisco in which he gets into multiple verbal sparring matches. Meanwhile, you work diligently and keep on blowing through event after event in the swing states, always focusing on the next stop."
           }
-      },
+      },//test
       {
           "model": "campaign_trail.answer_feedback",
           "pk": 113638,
