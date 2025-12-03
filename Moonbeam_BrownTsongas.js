@@ -583,7 +583,7 @@ new MutationObserver(() => {
           "pk": 113972,
           "fields": {
               "priority": 3,
-              "description": " Since 1990, the United States, Canada, and Mexico have been on a path to passing and ratifying NAFTA, with the bulk of the business and political clout in each country supporting the agreement. Up to this point in the race, you’ve deflected the issue, but Bush has quietly made overtures to big business that you’ll threaten the deal. How do you respond?",
+              "description": " Since 1990, the United States, Canada, and Mexico have been on a path to passing and ratifying NAFTA. In each country, business and political clout is squarely in favor of the agreement, even though there’s a great deal of popular dissent. So far, you’ve danced around the issue, but Bush has aggressively campaigned on free trade, arguing the deal would be in peril with you in office. How do you respond?",
               "likelihood": 1
           }
       },
@@ -619,7 +619,7 @@ new MutationObserver(() => {
           "pk": 114074,
           "fields": {
               "priority": 3,
-              "description": " Since 1990, the United States, Canada, and Mexico have been on a path to passing and ratifying NAFTA, with the bulk of the business and political clout in each country supporting the agreement. Up to this point in the race, you’ve deflected the issue, but Bush has quietly made overtures to big business that you’ll threaten the deal. How do you respond?",
+              "description": " Since 1990, the United States, Canada, and Mexico have been on a path to passing and ratifying NAFTA. In each country, business and political clout is squarely in favor of the agreement, even though there’s a great deal of popular dissent. So far, you’ve danced around the issue, but Bush has aggressively campaigned on free trade, arguing the deal would be in peril with you in office. How do you respond?",
               "likelihood": 1
           }
       },
@@ -1698,7 +1698,7 @@ new MutationObserver(() => {
           "pk": 3381,
           "fields": {
               "question": 362,
-              "description": " Campaigns are about more than money. I’m still the Democratic candidate; I still have a lot more money than a quixotic campaign in Utah or the like. I know we’re down right now, but we need faith in our organizing skills, not our kowtowing skills. "
+              "description": "Campaigns are about more than money. I’m still the rightfully chosen Democratic candidate; I still have a lot more money than some quixotic dogcatcher running a campaign in Utah or the like. I know we’re down right now, but we need faith in our organizing skills, not our kowtowing skills."
           }
       },
       {
@@ -1714,7 +1714,7 @@ new MutationObserver(() => {
           "pk": 3383,
           "fields": {
               "question": 362,
-              "description": "I don’t want to do it, I don’t want to do it. Well, we have to get shit done. Drop the $100 limit on donations, and frame it in a way that implies we’re doing it for the right reasons. If we lose this, there goes the country. "
+              "description": "I don’t want to do it, I don’t want to do it. Well, fuck, we have to get shit done. Drop the $100 limit on donations, and frame it in a way that implies we’re doing it for the right reasons. If we lose this, the country is as good as lost, and that money won’t matter anyhow."
           }
       },
       {
@@ -1722,7 +1722,7 @@ new MutationObserver(() => {
           "pk": 3384,
           "fields": {
               "question": 362,
-              "description": "\n Have you been reading about what we can do with computers? We have all of this stuff with Usenet and the like, where people can communicate with each other. It shouldn’t cost too much to start trying to get our message across there. "
+              "description": "\n Have you been reading about what we can do with computers? We have all of this stuff with Usenet, where people can communicate with each other, station to station. It shouldn’t cost too much to start trying to get our message across there."
           }
       },
       {
@@ -1834,7 +1834,7 @@ new MutationObserver(() => {
           "pk": 3432,
           "fields": {
               "question": 375,
-              "description": "We don’t need to make this an issue. We’ve gotten this far without taking a stance, and we’ll probably bleed support no matter how we spin it. Just say “No comment.”\n"
+              "description": "We don’t need to make this an issue. We’ve gotten this far without taking a stance, and we’ll probably bleed support no matter how we spin it. Just say “No comment” and then talk about our big plans for how we’re going to fix the economy or balance the budget."
           }
       },
       {
@@ -2690,7 +2690,7 @@ new MutationObserver(() => {
           "pk": 113790,
           "fields": {
               "question": 113789,
-              "description": " Campaigns are about more than money. I’m still the Democratic candidate; I still have a lot more money than a quixotic campaign in Utah or the like. I know we’re down right now, but we need faith in our organizing skills, not our kowtowing skills. "
+              "description": "Campaigns are about more than money. I’m still the rightfully chosen Democratic candidate; I still have a lot more money than some quixotic dogcatcher running a campaign in Utah or the like. I know we’re down right now, but we need faith in our organizing skills, not our kowtowing skills."
           }
       },
       {
@@ -2706,7 +2706,7 @@ new MutationObserver(() => {
           "pk": 113800,
           "fields": {
               "question": 113789,
-              "description": "I don’t want to do it, I don’t want to do it. Well, we have to get shit done. Drop the $100 limit on donations, and frame it in a way that implies we’re doing it for the right reasons. If we lose this, there goes the country. "
+              "description": "I don’t want to do it, I don’t want to do it. Well, fuck, we have to get shit done. Drop the $100 limit on donations, and frame it in a way that implies we’re doing it for the right reasons. If we lose this, the country is as good as lost, and that money won’t matter anyhow. "
           }
       },
       {
@@ -2714,7 +2714,7 @@ new MutationObserver(() => {
           "pk": 113806,
           "fields": {
               "question": 113789,
-              "description": "\n Have you been reading about what we can do with computers? We have all of this stuff with Usenet and the like, where people can communicate with each other. It shouldn’t cost too much to start trying to get our message across there. "
+              "description": "\n Have you been reading about what we can do with computers? We have all of this stuff with Usenet, where people can communicate with each other, station to station. It shouldn’t cost too much to start trying to get our message across there."
           }
       },
       {
@@ -2722,7 +2722,7 @@ new MutationObserver(() => {
           "pk": 113810,
           "fields": {
               "question": 113809,
-              "description": " Campaigns are about more than money. I’m still the Democratic candidate; I still have a lot more money than a quixotic campaign in Utah or the like. I know we’re down right now, but we need faith in our organizing skills, not our kowtowing skills. "
+              "description": "Campaigns are about more than money. I’m still the rightfully chosen Democratic candidate; I still have a lot more money than some quixotic dogcatcher running a campaign in Utah or the like. I know we’re down right now, but we need faith in our organizing skills, not our kowtowing skills."
           }
       },
       {
@@ -2738,7 +2738,7 @@ new MutationObserver(() => {
           "pk": 113820,
           "fields": {
               "question": 113809,
-              "description": "I don’t want to do it, I don’t want to do it. Well, we have to get shit done. Drop the $100 limit on donations, and frame it in a way that implies we’re doing it for the right reasons. If we lose this, there goes the country. "
+              "description": "I don’t want to do it, I don’t want to do it. Well, fuck, we have to get shit done. Drop the $100 limit on donations, and frame it in a way that implies we’re doing it for the right reasons. If we lose this, the country is as good as lost, and that money won’t matter anyhow. "
           }
       },
       {
@@ -2746,7 +2746,7 @@ new MutationObserver(() => {
           "pk": 113826,
           "fields": {
               "question": 113809,
-              "description": "\n Have you been reading about what we can do with computers? We have all of this stuff with Usenet and the like, where people can communicate with each other. It shouldn’t cost too much to start trying to get our message across there. "
+              "description": "\n Have you been reading about what we can do with computers? We have all of this stuff with Usenet, where people can communicate with each other, station to station. It shouldn’t cost too much to start trying to get our message across there."
           }
       },
       {
@@ -2754,7 +2754,7 @@ new MutationObserver(() => {
           "pk": 113830,
           "fields": {
               "question": 113829,
-              "description": " Campaigns are about more than money. I’m still the Democratic candidate; I still have a lot more money than a quixotic campaign in Utah or the like. I know we’re down right now, but we need faith in our organizing skills, not our kowtowing skills. "
+              "description": "Campaigns are about more than money. I’m still the rightfully chosen Democratic candidate; I still have a lot more money than some quixotic dogcatcher running a campaign in Utah or the like. I know we’re down right now, but we need faith in our organizing skills, not our kowtowing skills."
           }
       },
       {
@@ -2770,7 +2770,7 @@ new MutationObserver(() => {
           "pk": 113840,
           "fields": {
               "question": 113829,
-              "description": "I don’t want to do it, I don’t want to do it. Well, we have to get shit done. Drop the $100 limit on donations, and frame it in a way that implies we’re doing it for the right reasons. If we lose this, there goes the country. "
+              "description": "I don’t want to do it, I don’t want to do it. Well, fuck, we have to get shit done. Drop the $100 limit on donations, and frame it in a way that implies we’re doing it for the right reasons. If we lose this, the country is as good as lost, and that money won’t matter anyhow. "
           }
       },
       {
@@ -2778,7 +2778,7 @@ new MutationObserver(() => {
           "pk": 113846,
           "fields": {
               "question": 113829,
-              "description": "\n Have you been reading about what we can do with computers? We have all of this stuff with Usenet and the like, where people can communicate with each other. It shouldn’t cost too much to start trying to get our message across there. "
+              "description": " Have you been reading about what we can do with computers? We have all of this stuff with Usenet, where people can communicate with each other, station to station. It shouldn’t cost too much to start trying to get our message across there."
           }
       },
       {
@@ -2786,7 +2786,7 @@ new MutationObserver(() => {
           "pk": 113850,
           "fields": {
               "question": 113849,
-              "description": " Campaigns are about more than money. I’m still the Democratic candidate; I still have a lot more money than a quixotic campaign in Utah or the like. I know we’re down right now, but we need faith in our organizing skills, not our kowtowing skills. "
+              "description": "Campaigns are about more than money. I’m still the rightfully chosen Democratic candidate; I still have a lot more money than some quixotic dogcatcher running a campaign in Utah or the like. I know we’re down right now, but we need faith in our organizing skills, not our kowtowing skills."
           }
       },
       {
@@ -2802,7 +2802,7 @@ new MutationObserver(() => {
           "pk": 113860,
           "fields": {
               "question": 113849,
-              "description": "I don’t want to do it, I don’t want to do it. Well, we have to get shit done. Drop the $100 limit on donations, and frame it in a way that implies we’re doing it for the right reasons. If we lose this, there goes the country. "
+              "description": "I don’t want to do it, I don’t want to do it. Well, fuck, we have to get shit done. Drop the $100 limit on donations, and frame it in a way that implies we’re doing it for the right reasons. If we lose this, the country is as good as lost, and that money won’t matter anyhow. "
           }
       },
       {
@@ -2810,7 +2810,7 @@ new MutationObserver(() => {
           "pk": 113866,
           "fields": {
               "question": 113849,
-              "description": "\n Have you been reading about what we can do with computers? We have all of this stuff with Usenet and the like, where people can communicate with each other. It shouldn’t cost too much to start trying to get our message across there. "
+              "description": "\n Have you been reading about what we can do with computers? We have all of this stuff with Usenet, where people can communicate with each other, station to station. It shouldn’t cost too much to start trying to get our message across there."
           }
       },
       {
@@ -2826,7 +2826,7 @@ new MutationObserver(() => {
           "pk": 113880,
           "fields": {
               "question": 113869,
-              "description": "I don’t want to do it, I don’t want to do it. Well, we have to get shit done. Drop the $100 limit on donations, and frame it in a way that implies we’re doing it for the right reasons. If we lose this, there goes the country. "
+              "description": "I don’t want to do it, I don’t want to do it. Well, fuck, we have to get shit done. Drop the $100 limit on donations, and frame it in a way that implies we’re doing it for the right reasons. If we lose this, the country is as good as lost, and that money won’t matter anyhow. "
           }
       },
       {
@@ -2834,7 +2834,7 @@ new MutationObserver(() => {
           "pk": 113886,
           "fields": {
               "question": 113869,
-              "description": "\n Have you been reading about what we can do with computers? We have all of this stuff with Usenet and the like, where people can communicate with each other. It shouldn’t cost too much to start trying to get our message across there. "
+              "description": "\n Have you been reading about what we can do with computers? We have all of this stuff with Usenet, where people can communicate with each other, station to station. It shouldn’t cost too much to start trying to get our message across there."
           }
       },
       {
@@ -2994,7 +2994,7 @@ new MutationObserver(() => {
           "pk": 113989,
           "fields": {
               "question": 113972,
-              "description": "We don’t need to make this an issue. We’ve gotten this far without taking a stance, and we’ll probably bleed support no matter how we spin it. Just say “No comment.”\n"
+              "description": "We don’t need to make this an issue. We’ve gotten this far without taking a stance, and we’ll probably bleed support no matter how we spin it. Just say “No comment” and then talk about our big plans for how we’re going to fix the economy or balance the budget."
           }
       },
       {
@@ -3026,7 +3026,7 @@ new MutationObserver(() => {
           "pk": 114018,
           "fields": {
               "question": 113999,
-              "description": "We don’t need to make this an issue. We’ve gotten this far without taking a stance, and we’ll probably bleed support no matter how we spin it. Just say “No comment.”\n"
+              "description": "We don’t need to make this an issue. We’ve gotten this far without taking a stance, and we’ll probably bleed support no matter how we spin it. Just say “No comment” and then talk about our big plans for how we’re going to fix the economy or balance the budget."
           }
       },
       {
@@ -3058,7 +3058,7 @@ new MutationObserver(() => {
           "pk": 114043,
           "fields": {
               "question": 114024,
-              "description": "We don’t need to make this an issue. We’ve gotten this far without taking a stance, and we’ll probably bleed support no matter how we spin it. Just say “No comment.”\n"
+              "description": "We don’t need to make this an issue. We’ve gotten this far without taking a stance, and we’ll probably bleed support no matter how we spin it. Just say “No comment” and then talk about our big plans for how we’re going to fix the economy or balance the budget."
           }
       },
       {
@@ -3090,7 +3090,7 @@ new MutationObserver(() => {
           "pk": 114068,
           "fields": {
               "question": 114049,
-              "description": "We don’t need to make this an issue. We’ve gotten this far without taking a stance, and we’ll probably bleed support no matter how we spin it. Just say “No comment.”\n"
+              "description": "We don’t need to make this an issue. We’ve gotten this far without taking a stance, and we’ll probably bleed support no matter how we spin it. Just say “No comment” and then talk about our big plans for how we’re going to fix the economy or balance the budget."
           }
       },
       {
@@ -3122,7 +3122,7 @@ new MutationObserver(() => {
           "pk": 114093,
           "fields": {
               "question": 114074,
-              "description": "We don’t need to make this an issue. We’ve gotten this far without taking a stance, and we’ll probably bleed support no matter how we spin it. Just say “No comment.”\n"
+              "description": "We don’t need to make this an issue. We’ve gotten this far without taking a stance, and we’ll probably bleed support no matter how we spin it. Just say “No comment” and then talk about our big plans for how we’re going to fix the economy or balance the budget."
           }
       },
       {
@@ -3154,7 +3154,7 @@ new MutationObserver(() => {
           "pk": 114118,
           "fields": {
               "question": 114099,
-              "description": "We don’t need to make this an issue. We’ve gotten this far without taking a stance, and we’ll probably bleed support no matter how we spin it. Just say “No comment.”\n"
+              "description": "We don’t need to make this an issue. We’ve gotten this far without taking a stance, and we’ll probably bleed support no matter how we spin it. Just say “No comment” and then talk about our big plans for how we’re going to fix the economy or balance the budget."
           }
       },
       {
@@ -3338,7 +3338,7 @@ new MutationObserver(() => {
           "pk": 114309,
           "fields": {
               "question": 114290,
-              "description": "We don’t need to make this an issue. We’ve gotten this far without taking a stance, and we’ll probably bleed support no matter how we spin it. Just say “No comment.”\n"
+              "description": "We don’t need to make this an issue. We’ve gotten this far without taking a stance, and we’ll probably bleed support no matter how we spin it. Just say “No comment” and then talk about our big plans for how we’re going to fix the economy or balance the budget."
           }
       },
       {
